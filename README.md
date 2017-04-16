@@ -14,13 +14,13 @@ A curated list of blockchain-related academic papers.
 - [Economics](#economics)
 - [Marketplaces and Trust](#marketplaces-and-trust)
 - [Privacy](#privacy)
-- [Sidechains, Higher layer and Scalability](#sidechains--higher-layer-and-scalability)
+- [Sidechains, Higher layer and Scalability](#sidechains-higher-layer-and-scalability)
 - [Fungibility](#fungibility)
 - [Network](#network)
 - [Smart Contracts](#smart-contracts)
 - [Formal Methods](#formal-methods)
 - [Proof of work](#proof-of-work)
-- [Survey, Sociological & Anthropological](#survey--sociological--anthropological)
+- [Survey, Sociological & Anthropological](#survey-sociological--anthropological)
 - [License](#license)
 
 ---
