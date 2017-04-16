@@ -164,8 +164,6 @@ A curated list of blockchain-related academic papers.
 
 ## License
 
-# License
-
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is released into the public domain.
