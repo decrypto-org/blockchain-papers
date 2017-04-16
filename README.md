@@ -2,6 +2,29 @@
 
 A curated list of blockchain-related academic papers.
 
+## Contents
+- [General](#general)
+- [Consensus](#consensus)
+- [Cryptography](#cryptography)
+- [Block generation parameters](#block-generation-parameters)
+- [Stake](#stake)
+- [Attacks](#attacks)
+- [Wallets](#wallets)
+- [Crime](#crime)
+- [Economics](#economics)
+- [Marketplaces and Trust](#marketplaces-and-trust)
+- [Privacy](#privacy)
+- [Sidechains, Higher layer and Scalability](#sidechains--higher-layer-and-scalability)
+- [Fungibility](#fungibility)
+- [Network](#network)
+- [Smart Contracts](#smart-contracts)
+- [Formal Methods](#formal-methods)
+- [Proof of work](#proof-of-work)
+- [Survey, Sociological & Anthropological](#survey--sociological--anthropological)
+- [License](#license)
+
+---
+
 ## General
 
 - **[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)**. Nakamoto S. '08.
