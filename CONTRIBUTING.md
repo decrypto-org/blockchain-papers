@@ -15,7 +15,7 @@ To add a new link:
 
 This is a curated list of *blockchain*-related papers, not general cryptography
 or distributed systems. Blockchains are "chains of blocks", not general-purpose
-distributed computing mechanisms. This is a list for permiossionless
+distributed computing mechanisms. This is a list for permissionless
 blockchain papers. "Permissioned blockchains" are not blockchains because they
 do not require chains of blocks for their security guarantees; they are
 byzantine-agreement-related bibliography and do not fit into this list. Please
