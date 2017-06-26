@@ -90,6 +90,7 @@ A curated list of blockchain-related academic papers.
 - [Smart Contracts Make Bitcoin Mining Pools Vulnerable](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final38.pdf). Velner Y, Teutsch J, Luu L. FC '17.
 - [Mixing Coins of Different Quality: A Game-Theoretic Approach](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final40.pdf). Abramova S, Schöttle P, Böhme R. FC '17.
 - [Decentralized Prediction Market without Arbiter](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final29.pdf). Bentov I, Mizrahi A, Rosenfeld M. FC '17.
+- [Does Governance Have a Role in Pricing? Cross-Country Evidence from Bitcoin Markets](http://www.ninedragonsconsulting.com/uploads/3/0/0/4/30043639/15_btc_does_governance_have_a_role_in_pricing_viglione.pdf). Viglione R.
 
 ## Marketplaces and Trust
 
