@@ -143,6 +143,7 @@ A curated list of blockchain-related academic papers.
 - "Elastico": [A secure sharding protocol for open blockchains](https://pdfs.semanticscholar.org/4ab6/b28bb3342cb4f65555a37418b6a25297425e.pdf). Luu L, Narayanan V, Zheng C, Baweja K, Gilbert S, Saxena P. CCS '16.
 - [Improving Authenticated Dynamic Dictionaries, with Applications to Cryptocurrencies](http://fc17.ifca.ai/preproceedings/paper_34.pdf). Reyzin L, Meshkov D, Chepurnoy A, Ivanov S. FC '17.
 - [Service-Oriented Sharding for Blockchains](http://fc17.ifca.ai/preproceedings/paper_73.pdf). Gencer AE, Van Renesse R, Sirer EG. FC '17.
+- [BigchainDB: a scalable blockchain database](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf). McConaghy T, Marques R, Müller A, De Jonghe D, McConaghy T, McMullen G, Henderson R, Bellemare S, Granzotto A. *Whitepaper*
 
 ## Fungibility
 
