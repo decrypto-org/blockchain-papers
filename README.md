@@ -29,6 +29,7 @@ A curated list of blockchain-related academic papers.
 
 - **[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.com/bitcoin.pdf)**. Nakamoto S. '08.
 - **[SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)**. Bonneau J, Miller A, Clark J, Narayanan A, Kroll JA, Felten EW. S&P '15.
+- [A Survey on Security and Privacy Issues of Bitcoin](https://arxiv.org/pdf/1706.00916.pdf). Conti M, Lal C, Ruj S. arXiv preprint
 
 ## Consensus
 
@@ -90,6 +91,7 @@ A curated list of blockchain-related academic papers.
 - [Smart Contracts Make Bitcoin Mining Pools Vulnerable](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final38.pdf). Velner Y, Teutsch J, Luu L. FC '17.
 - [Mixing Coins of Different Quality: A Game-Theoretic Approach](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final40.pdf). Abramova S, Schöttle P, Böhme R. FC '17.
 - [Decentralized Prediction Market without Arbiter](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final29.pdf). Bentov I, Mizrahi A, Rosenfeld M. FC '17.
+- [Does Governance Have a Role in Pricing? Cross-Country Evidence from Bitcoin Markets](http://www.ninedragonsconsulting.com/uploads/3/0/0/4/30043639/15_btc_does_governance_have_a_role_in_pricing_viglione.pdf). Viglione R.
 
 ## Marketplaces and Trust
 
@@ -126,6 +128,7 @@ A curated list of blockchain-related academic papers.
 - [Confidential Assets](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final41.pdf). Poelstra A, Back A, Friedenbach M, Maxwell G, Wuille P. FC '17.
 - [Mixing Confidential Transactions: Comprehensive Transaction Privacy for Bitcoin](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final6.pdf). Ruffing T, Moreno-Sanchez P. FC '17.
 - [Switch Commitments: A Safety Switch for Confidential Transactions](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final23.pdf). Ruffing T, Malavolta G. FC '17.
+- [CoinParty: Secure Multi-Party Mixing of Bitcoins](https://www.martinhenze.de/wp-content/papercite-data/pdf/zgh+15.pdf). Ziegeldorf, J.H., Grossmann, F., Henze, M., Inden, N. and Wehrle, K. CODASPY '15. 
 
 ## Sidechains, Higher layer and Scalability
 
@@ -141,6 +144,7 @@ A curated list of blockchain-related academic papers.
 - "Elastico": [A secure sharding protocol for open blockchains](https://pdfs.semanticscholar.org/4ab6/b28bb3342cb4f65555a37418b6a25297425e.pdf). Luu L, Narayanan V, Zheng C, Baweja K, Gilbert S, Saxena P. CCS '16.
 - [Improving Authenticated Dynamic Dictionaries, with Applications to Cryptocurrencies](http://fc17.ifca.ai/preproceedings/paper_34.pdf). Reyzin L, Meshkov D, Chepurnoy A, Ivanov S. FC '17.
 - [Service-Oriented Sharding for Blockchains](http://fc17.ifca.ai/preproceedings/paper_73.pdf). Gencer AE, Van Renesse R, Sirer EG. FC '17.
+- [BigchainDB: a scalable blockchain database](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf). McConaghy T, Marques R, Müller A, De Jonghe D, McConaghy T, McMullen G, Henderson R, Bellemare S, Granzotto A. *Whitepaper*
 
 ## Fungibility
 
