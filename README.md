@@ -190,6 +190,7 @@ A curated list of blockchain-related academic papers.
 - [Cryptographic Currencies from a Tech-Policy Perspective: Policy Issues and Technical Direction](http://fc15.ifca.ai/preproceedings/bitcoin/paper_16.pdf). McReynolds E, Lerner A, Scott W, Roesner F, Kohno T. FC '15.
 - [The Other Side of the Coin: User Experiences with Bitcoin Security and Privacy](http://fc16.ifca.ai/preproceedings/33_Krombholz.pdf). Krombholz K, Judmayer A, Gusenbauer M, Weippl E. FC '16.
 - [An analysis of Bitcoin OP_RETURN metadata](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final32.pdf). Bartoletti M, Pompianu L. FC '17.
+- [Blockchain technology and Intellectual Property - Investigating benefits and acceptance in governments and legislations](https://drive.google.com/file/d/1GfyBxMiMH_pRSPpZQ_ZR5tdFL97O-TAP/view?usp=sharing). Rivière J. FC '17.
 
 ## License
 
