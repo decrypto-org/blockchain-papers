@@ -37,6 +37,7 @@ A curated list of blockchain-related academic papers.
 - [Analysis of the Blockchain Protocol in Asynchronous Networks](https://eprint.iacr.org/2016/454.pdf). Pass R, Seeman L, shelat a. EUROCRYPT '17.
 - [On Trees, Chains and Fast Transactions in the Blockchain](https://eprint.iacr.org/2016/545.pdf). Kiayias A, Panagiotakos G. '16.
 - "RSCoin": [Centrally banked cryptocurrencies](https://arxiv.org/pdf/1505.06895.pdf). Danezis G, Meiklejohn S. '15.
+- [A Review on Consensus Algorithm of Blockchain](http://www.smc2017.org/SMC2017_Papers/media/files/0525.pdf). Du Mingxiao, Ma Xiaofeng, Zhang Zhe, Wang Xiangwei, Chen Qijun. SMC '17.
 
 ## Cryptography
 
