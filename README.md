@@ -21,6 +21,7 @@ A curated list of blockchain-related academic papers.
 - [Formal Methods](#formal-methods)
 - [Proof of work](#proof-of-work)
 - [Survey, Sociological & Anthropological](#survey-sociological--anthropological)
+- [Applications](#applications)
 - [License](#license)
 
 ---
@@ -127,7 +128,7 @@ A curated list of blockchain-related academic papers.
 - [Confidential Assets](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final41.pdf). Poelstra A, Back A, Friedenbach M, Maxwell G, Wuille P. FC '17.
 - [Mixing Confidential Transactions: Comprehensive Transaction Privacy for Bitcoin](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final6.pdf). Ruffing T, Moreno-Sanchez P. FC '17.
 - [Switch Commitments: A Safety Switch for Confidential Transactions](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final23.pdf). Ruffing T, Malavolta G. FC '17.
-- [CoinParty: Secure Multi-Party Mixing of Bitcoins](https://www.martinhenze.de/wp-content/papercite-data/pdf/zgh+15.pdf). Ziegeldorf, J.H., Grossmann, F., Henze, M., Inden, N. and Wehrle, K. CODASPY '15. 
+- [CoinParty: Secure Multi-Party Mixing of Bitcoins](https://www.martinhenze.de/wp-content/papercite-data/pdf/zgh+15.pdf). Ziegeldorf, J.H., Grossmann, F., Henze, M., Inden, N. and Wehrle, K. CODASPY '15.
 
 ## Sidechains, Higher layer and Scalability
 
@@ -191,6 +192,13 @@ A curated list of blockchain-related academic papers.
 - [Cryptographic Currencies from a Tech-Policy Perspective: Policy Issues and Technical Direction](http://fc15.ifca.ai/preproceedings/bitcoin/paper_16.pdf). McReynolds E, Lerner A, Scott W, Roesner F, Kohno T. FC '15.
 - [The Other Side of the Coin: User Experiences with Bitcoin Security and Privacy](http://fc16.ifca.ai/preproceedings/33_Krombholz.pdf). Krombholz K, Judmayer A, Gusenbauer M, Weippl E. FC '16.
 - [An analysis of Bitcoin OP_RETURN metadata](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final32.pdf). Bartoletti M, Pompianu L. FC '17.
+
+## Applications
+
+- [Blockstack Technical Whitepaper](https://blockstack.org/whitepaper.pdf). Muneeb A., Ryan S., Jude N, Michael F. '17
+- [Storj A Peer-to-Peer Cloud Storage Network](https://storj.io/storj.pdf). Shawn W., Tome B., Josh B.,James P., Gordon H., Patrick G., Philip H., Chris P. '16
+
+
 
 ## License
 
