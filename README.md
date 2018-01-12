@@ -39,6 +39,7 @@ A curated list of blockchain-related academic papers.
 - [On Trees, Chains and Fast Transactions in the Blockchain](https://eprint.iacr.org/2016/545.pdf). Kiayias A, Panagiotakos G. '16.
 - "RSCoin": [Centrally banked cryptocurrencies](https://arxiv.org/pdf/1505.06895.pdf). Danezis G, Meiklejohn S. '15.
 - [A Review on Consensus Algorithm of Blockchain](http://www.smc2017.org/SMC2017_Papers/media/files/0525.pdf). Du Mingxiao, Ma Xiaofeng, Zhang Zhe, Wang Xiangwei, Chen Qijun. SMC '17.
+- [Anonymous Byzantine Consensus from Moderately-Hard Puzzles: A Model for Bitcoin](https://socrates1024.s3.amazonaws.com/consensus.pdf). Miller A, LaViola JJ Jr. '14.
 
 ## Cryptography
 
