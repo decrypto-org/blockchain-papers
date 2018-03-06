@@ -2,27 +2,27 @@
 
 A curated list of blockchain-related academic papers.
 
-## Contents
-- [General](#general)
-- [Consensus](#consensus)
-- [Cryptography](#cryptography)
-- [Block generation parameters](#block-generation-parameters)
-- [Stake](#stake)
-- [Attacks](#attacks)
-- [Wallets](#wallets)
-- [Crime](#crime)
-- [Economics](#economics)
-- [Marketplaces and Trust](#marketplaces-and-trust)
-- [Privacy](#privacy)
-- [Sidechains, Higher layer and Scalability](#sidechains-higher-layer-and-scalability)
-- [Fungibility](#fungibility)
-- [Network](#network)
-- [Smart Contracts](#smart-contracts)
-- [Formal Methods](#formal-methods)
-- [Proof of work](#proof-of-work)
-- [Survey, Sociological & Anthropological](#survey-sociological--anthropological)
-- [Applications](#applications)
-- [License](#license)
+## Table of Contents
+1. [General](#general)
+1. [Consensus](#consensus)
+1. [Cryptography](#cryptography)
+1. [Block generation parameters](#block-generation-parameters)
+1. [Stake](#stake)
+1. [Attacks](#attacks)
+1. [Wallets](#wallets)
+1. [Crime](#crime)
+1. [Economics](#economics)
+1. [Marketplaces and Trust](#marketplaces-and-trust)
+1. [Privacy](#privacy)
+1. [Sidechains, Higher layer and Scalability](#sidechains-higher-layer-and-scalability)
+1. [Fungibility](#fungibility)
+1. [Network](#network)
+1. [Smart Contracts](#smart-contracts)
+1. [Formal Methods](#formal-methods)
+1. [Proof of work](#proof-of-work)
+1. [Survey, Sociological & Anthropological](#survey-sociological--anthropological)
+1. [Applications](#applications)
+1. [License](#license)
 
 ---
 
