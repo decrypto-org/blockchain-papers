@@ -93,6 +93,7 @@ A curated list of blockchain-related academic papers.
 - [Smart Contracts Make Bitcoin Mining Pools Vulnerable](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final38.pdf). Velner Y, Teutsch J, Luu L. FC '17.
 - [Mixing Coins of Different Quality: A Game-Theoretic Approach](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final40.pdf). Abramova S, Schöttle P, Böhme R. FC '17.
 - [Decentralized Prediction Market without Arbiter](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final29.pdf). Bentov I, Mizrahi A, Rosenfeld M. FC '17.
+- [Blockchain and Smart Contracts for Insurance: Is the Technology Mature Enough?](http://www.mdpi.com/1999-5903/10/2/20/pdf). Gatteschi V, Lamberti F, Demartini C, Pranteda C, Santamaría V, Future Internet, '18.
 
 ## Marketplaces and Trust
 
