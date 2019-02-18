@@ -66,7 +66,6 @@ peer-reviewed and presented in academic conferences.
 - 🎓 [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](http://eprint.iacr.org/2017/573.pdf). Bernardo D, Gazi P, Kiayias A, Russell A. Crypto '17.
 - 🎓 [Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability](https://eprint.iacr.org/2018/378.pdf). Badertscher C, Gazi P, Kiayias A, Russell A, Zikas V. '18.
 - 🎓 [A Proof-of-Stake protocol for consensus on Bitcoin subchains](http://eprint.iacr.org/2017/417.pdf). Bartoletti M, Lande S, & Podda A S. FC '17.
-- 🎓 [Proof-of-Property - A Lightweight and Scalable Blockchain Protocol] (http://conferences.computer.org/icse-w/2018/pdfs/WETSEB2018-4yg6Vlc41C9KIaprNBrkzl/4FCSik4FuK4sTdV3rrd0us/2TM4LIiNnAOajLMlE7OjoD.pdf). Ehmke C, Wessling F, Friedrich C. '18
 
 ## Attacks
 
@@ -154,6 +153,7 @@ peer-reviewed and presented in academic conferences.
 - 🎓 [Improving Authenticated Dynamic Dictionaries, with Applications to Cryptocurrencies](http://fc17.ifca.ai/preproceedings/paper_34.pdf). Reyzin L, Meshkov D, Chepurnoy A, Ivanov S. FC '17.
 - 🎓 [Service-Oriented Sharding for Blockchains](http://fc17.ifca.ai/preproceedings/paper_73.pdf). Gencer AE, Van Renesse R, Sirer EG. FC '17.
 - [Non-Interactive Proofs of Proof-of-Work](https://eprint.iacr.org/2017/963.pdf). Kiayias A, Miller A, Zindros D. '17.
+- 🎓 [Proof-of-Property - A Lightweight and Scalable Blockchain Protocol](http://conferences.computer.org/icse-w/2018/pdfs/WETSEB2018-4yg6Vlc41C9KIaprNBrkzl/4FCSik4FuK4sTdV3rrd0us/2TM4LIiNnAOajLMlE7OjoD.pdf). Ehmke C, Wessling F, Friedrich C. '18.
 
 ## Payment Networks
 
@@ -233,7 +233,6 @@ Sompolinsky Y, Lewenberg Y, Zohar A. '16.
 - [Storj A Peer-to-Peer Cloud Storage Network](https://storj.io/storj.pdf). Shawn W., Tome B., Josh B.,James P., Gordon H., Patrick G., Philip H., Chris P. '16
 - [IPFS - Content Addressed, Versioned, P2P File System](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf). Benet J. '15
 - [BigchainDB: A Scalable Blockchain Database](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf). McConaghy T, Marques R, Müller A, De Jonghe D, McConaghy T, McMullen G, Henderson R, Bellemare S, Granzotto A. '17
-- [A High Performance Blockchain Platform for Intelligent Devices](https://hoticn.com/files/hoticnPapers/053-paper%20124.pdf). Shitang Yu, Kun Lv, Zhou Shao, Yingcheng Guo, Jun Zou, Bo Zhang. '18
 
 
 ## License
