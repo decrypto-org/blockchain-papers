@@ -7,7 +7,7 @@ peer-reviewed and presented in academic conferences.
 1. [General](#general)
 1. [Consensus](#consensus)
 1. [Cryptography](#cryptography)
-1. [Block generation parameters](#block-generation-parameters)
+1. [Block generation and mining](#block-generation-parameters)
 1. [Stake](#stake)
 1. [Attacks](#attacks)
 1. [Wallets](#wallets)
@@ -50,13 +50,14 @@ peer-reviewed and presented in academic conferences.
 - [Distributed Cryptography Based on the Proofs of Work](https://eprint.iacr.org/2014/796). Andrychowicz M, and Dziembowski S. '14.
 - [Scalable, transparent, and post-quantum secure computational integrity](https://eprint.iacr.org/2018/046.pdf). Ben-Sasson E, Bentov I, Horesh Y, Riabzev M. '18.
 
-## Block generation parameters
+## Block generation and mining
 
 - 🎓 [Bootstrapping the Blockchain - Directly](https://eprint.iacr.org/2016/991.pdf). Garay JA, Kiayias A, Leonardos N, Panagiotakos G. '16.
 - [Speed-Security Tradeoffs in Blockchain Protocols](https://pdfs.semanticscholar.org/7de8/ff6bb85a020aa96f62dd86233fe9416550f3.pdf). Kiayias A, Panagiotakos G. '15.
 - 🎓 "GHOST": [Secure High-Rate Transaction Processing in Bitcoin](http://www.cs.huji.ac.il/~avivz/pubs/15/btc_ghost_full.pdf). Sompolinsky Y, Zohar A. FC '15.
 - 🎓 [Inclusive Block Chain Protocols](http://fc15.ifca.ai/preproceedings/paper_101.pdf). Lewenberg Y, Sompolinsky Y, Zohar A. FC '15.
 - 🎓 [On the Security and Performance of Proof of Work Blockchains](https://eprint.iacr.org/2016/555.pdf). Gervais A, Karame GO, Wüst K, Glykantzis V, Ritzdorf H, Capkun S. CCS '16.
+- 🎓 [Smartpool: Practical decentralized pooled mining](https://eprint.iacr.org/2017/019.pdf). Luu L, Velner Y, Teutsch J, Saxena P. USENIX Security '17.
 
 ## Stake
 - 🎓 [Ouroboros: A provably secure proof-of-stake blockchain protocol](https://pdfs.semanticscholar.org/1c14/549f7ba7d6a000d79a7d12255eb11113e6fa.pdf). Kiayias A, Russell A, David B, Oliynykov R. '16.
