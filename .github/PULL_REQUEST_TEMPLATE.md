@@ -12,12 +12,3 @@
 
 - [ ] I have carefully **read and comply** with the [Contributing Guidelines](https://github.com/decrypto-org/blockchain-papers/blob/master/CONTRIBUTING.md) of this repo.
 - [ ] I have **searched** the [PRs](https://github.com/decrypto-org/blockchain-papers/pulls) of this repo and believe that this is not a duplicate.
-
-<!-- 
-  Once all boxes are ticked, it would be very helpful if you could fill in the
-  following list with the appropriate information.
---> 
-
-- **Title**: <!-- Replace with paper's title -->
-- **Link**: <!-- Replace with link to paper -->
-- **Category**: <!-- Replace with appropriate category -->
