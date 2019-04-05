@@ -171,6 +171,11 @@ peer-reviewed and presented in academic conferences.
 - 🎓 [Perun: Virtual payment hubs over cryptocurrencies](https://eprint.iacr.org/2017/635.pdf) Dziembowski S, Eckey L, Faust S, Malinowski D. IEEE S&P '19.
 - 🎓 [General State Channel Networks](https://eprint.iacr.org/2018/320.pdf) Dziembowski S, Faust S, Hostáková K. CCS '18.
 - [Bolt: Anonymous Payment Channels for Decentralized Currencies](https://eprint.iacr.org/2016/701.pdf) Green M, Miers I. '16.
+- [Flare: An Approach to Routing in Lightning Network](https://bitfury.com/content/downloads/whitepaper_flare_an_approach_to_routing_in_lightning_network_7_7_2016.pdf). Prihodko P, Zhigulin S, Sahno M, Ostrovskiy A, Osuntokyn O. '16.
+- [On the Difficulty of Hiding the Balance of Lightning Network Channels](https://eprint.iacr.org/2019/328.pdf). Herrera-Joancomartí J, Navarro-Arribas G, Ranchal-Pedrosa A, Pérez-Solà C, Garcia-Alfaro J. '19.
+- [Pisa: Arbitration Outsourcing for State Channels](https://eprint.iacr.org/2018/582.pdf). McCorry P, Bakshi S, Bentov I, Meiklejohn S, Miller A. '18.
+- 🎓 [Concurrency and Privacy with Payment-Channel Networks](https://eprint.iacr.org/2017/820.pdf). Malavolta G, Moreno-Sanchez P, Kate A, Maffei M, Ravi S. CCS '17.
+- [eltoo: A Simple Layer2 Protocol for Bitcoin](https://blockstream.com/eltoo.pdf). Decker C, Russell R, Osuntokun O. '18.
 
 ## Fungibility
 
