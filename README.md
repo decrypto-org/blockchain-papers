@@ -243,6 +243,15 @@ Sompolinsky Y, Lewenberg Y, Zohar A. '16.
 - [BigchainDB: A Scalable Blockchain Database](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf). McConaghy T, Marques R, Müller A, De Jonghe D, McConaghy T, McMullen G, Henderson R, Bellemare S, Granzotto A. '17
 - 🎓 [Commitcoin: Carbon dating commitments with bitcoin](https://eprint.iacr.org/2011/677.pdf). Clark J, Essex A. FC '12.
 
+## Robotics
+- [The blockchain: a new framework for robotic swarm systems](https://arxiv.org/pdf/1608.00695.pdf). Ferrer E. C. '17
+- 🎓 [Managing Byzantine Robots via Blockchain Technology in a Swarm Robotics Collective Decision Making Scenario]() Strobel V., Ferrer E. C., Dorigo M. AAMAS'18
+- 🎓 [Blockchain technology for robot swarms: A shared knowledge and reputation management system for collective estimation](https://pdfs.semanticscholar.org/8b57/ea6b645878b384b946d81bb9b511c289d7f7.pdf) Strobel V., Dorigo M. ANTS'18
+- 🎓 [An Overview of Blockchain Integration with Robotics and Artificial Intelligence](https://arxiv.org/abs/1810.00329) Lopes V., Alexandre L. A. BROS'18
+- 🎓 [Robotchain: Using Tezos Technology for Robot Event Management](https://ledgerjournal.org/ojs/index.php/ledger/article/view/175) Fernandes M., Alexandre L. A. BROS'18 
+- 🎓 [Detecting Robotic Anomalies using RobotChain](http://www.di.ubi.pt/%7Elfbaa/pubs/ICARSC_2019.pdf) Lopes V., Alexandre L. A. ICARSC'19
+- [Controlling Robots using Artificial Intelligence and a Consortium Blockchain](https://arxiv.org/abs/1903.00660) Lopes V., Alexandre L. A., Pereira N.
+- 🎓 [Robot Workspace Monitoring using a Blockchain-based 3D Vision Approach](http://www.di.ubi.pt/%7Elfbaa/pubs/CVPR_2019.pdf) Lopes V., Pereira N., Alexandre L. A. CVPRW'19
 
 ## License
 
