@@ -248,7 +248,7 @@ Sompolinsky Y, Lewenberg Y, Zohar A. '16.
 - [The blockchain: a new framework for robotic swarm systems](https://arxiv.org/pdf/1608.00695.pdf). Ferrer E. C. '17
 - 🎓 [Managing Byzantine Robots via Blockchain Technology in a Swarm Robotics Collective Decision Making Scenario](https://pdfs.semanticscholar.org/e5f2/e9d3b89c1496bebf42da26e73fb6a767ac12.pdf) Strobel V., Ferrer E. C., Dorigo M. AAMAS'18
 - 🎓 [Blockchain technology for robot swarms: A shared knowledge and reputation management system for collective estimation](https://pdfs.semanticscholar.org/8b57/ea6b645878b384b946d81bb9b511c289d7f7.pdf) Strobel V., Dorigo M. ANTS'18
-- 🎓 [An Overview of Blockchain Integration with Robotics and Artificial Intelligence](https://arxiv.org/abs/1810.00329) Lopes V., Alexandre L. A. BROS'18
+- 🎓 [An Overview of Blockchain Integration with Robotics and Artificial Intelligence](https://ledgerjournal.org/ojs/index.php/ledger/article/view/171) Lopes V., Alexandre L. A. BROS'18
 - 🎓 [Robotchain: Using Tezos Technology for Robot Event Management](https://ledgerjournal.org/ojs/index.php/ledger/article/view/175) Fernandes M., Alexandre L. A. BROS'18 
 - 🎓 [Detecting Robotic Anomalies using RobotChain](http://www.di.ubi.pt/%7Elfbaa/pubs/ICARSC_2019.pdf) Lopes V., Alexandre L. A. ICARSC'19
 - [Controlling Robots using Artificial Intelligence and a Consortium Blockchain](https://arxiv.org/abs/1903.00660) Lopes V., Alexandre L. A., Pereira N.
