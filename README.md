@@ -25,6 +25,7 @@ peer-reviewed and presented in academic conferences.
 1. [DAG-based consensus mechanisms](#dag-based-consensus)
 1. [Survey, Sociological & Anthropological](#survey-sociological--anthropological)
 1. [Applications](#applications)
+1. [Robotics](#robotics)
 1. [License](#license)
 
 ---
