@@ -252,7 +252,7 @@ Sompolinsky Y, Lewenberg Y, Zohar A. '16.
 - 🎓 [Robotchain: Using Tezos Technology for Robot Event Management](https://ledgerjournal.org/ojs/index.php/ledger/article/view/175) Fernandes M., Alexandre L. A. BROS'18 
 - 🎓 [Detecting Robotic Anomalies using RobotChain](http://www.di.ubi.pt/%7Elfbaa/pubs/ICARSC_2019.pdf) Lopes V., Alexandre L. A. ICARSC'19
 - [Controlling Robots using Artificial Intelligence and a Consortium Blockchain](https://arxiv.org/abs/1903.00660) Lopes V., Alexandre L. A., Pereira N.
-- 🎓 [Robot Workspace Monitoring using a Blockchain-based 3D Vision Approach](http://www.di.ubi.pt/%7Elfbaa/pubs/CVPR_2019.pdf) Lopes V., Pereira N., Alexandre L. A. CVPRW'19
+- 🎓 [Robot Workspace Monitoring using a Blockchain-based 3D Vision Approach](http://www.di.ubi.pt/%7Elfbaa/pubs/CVPR2019.pdf) Lopes V., Pereira N., Alexandre L. A. CVPRW'19
 - [A Time-Segmented Consortium Blockchain for Robotic Event Registration](https://arxiv.org/abs/1904.04306) Fernandes M., Alexandre L. A.
 
 ## License
