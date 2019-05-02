@@ -158,6 +158,7 @@ peer-reviewed and presented in academic conferences.
 - 🎓 [Proof-of-Stake Sidechains](https://eprint.iacr.org/2018/1239.pdf). Gaži P, Kiayias A, Zindros D. S&P '19.
 - 🎓 [Proof-of-Work Sidechains](https://eprint.iacr.org/2018/1048.pdf). Kiayias A, Zindros D. FC '19.
 - [FlyClient: Super-Light Clients for Cryptocurrencies](https://eprint.iacr.org/2019/226.pdf). B Bünz, L Kiffer, L Luu, M Zamani. '19.
+- [PolyShard: Coded Sharding Achieves Linearly Scaling Efficiency and Security Simultaneously](https://arxiv.org/pdf/1809.10361.pdf). Li S, Yu M, Avestimehr S, Kannan S, Viswanath P. '18.
 
 ## Payment Networks
 
