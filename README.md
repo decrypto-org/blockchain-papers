@@ -176,6 +176,11 @@ peer-reviewed and presented in academic conferences.
 - [Pisa: Arbitration Outsourcing for State Channels](https://eprint.iacr.org/2018/582.pdf). McCorry P, Bakshi S, Bentov I, Meiklejohn S, Miller A. '18.
 - 🎓 [Concurrency and Privacy with Payment-Channel Networks](https://eprint.iacr.org/2017/820.pdf). Malavolta G, Moreno-Sanchez P, Kate A, Maffei M, Ravi S. CCS '17.
 - [eltoo: A Simple Layer2 Protocol for Bitcoin](https://blockstream.com/eltoo.pdf). Decker C, Russell R, Osuntokun O. '18.
+- [SoK: A Taxonomy for Layer-2 Scalability Related Protocols for Cryptocurrencies](https://eprint.iacr.org/2019/352.pdf). Jourenko M, Kurazumi K, Larangeira M, Tanaka K. '19.
+- [SoK: Off The Chain Transactions](https://eprint.iacr.org/2019/360.pdf). Gudgeon L, Moreno-Sanchez P, Roos S, McCorry P, Gervais A. '19.
+- [Nitro Protocol](https://eprint.iacr.org/2019/219.pdf). Close T. '19.
+- 🎓 [Two-Party State Channels with Assertions](https://fc19.ifca.ai/wtsc/StateAssertions.pdf). Buckland C, McCorry P. FC '19.
+- [Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Malavolta G, Moreno-Sanchez P, Schneidewind C, Kate A, Maffei M. NDSS '19.
 
 ## Fungibility
 
