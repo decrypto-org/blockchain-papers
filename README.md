@@ -164,6 +164,7 @@ peer-reviewed and presented in academic conferences.
 - 🎓 [Proof-of-Work Sidechains](https://eprint.iacr.org/2018/1048.pdf). Kiayias A, Zindros D. FC WTSC '19.
 - [FlyClient: Super-Light Clients for Cryptocurrencies](https://eprint.iacr.org/2019/226.pdf). B Bünz, L Kiffer, L Luu, M Zamani. '19.
 - [PolyShard: Coded Sharding Achieves Linearly Scaling Efficiency and Security Simultaneously](https://arxiv.org/pdf/1809.10361.pdf). Li S, Yu M, Avestimehr S, Kannan S, Viswanath P. '18.
+- 🎓 [ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf). Wang S, Dinh TT, Lin Q, Xie Z, Zhang M, Cai Q, Chen G, Ooi BC, Ruan P. PVLDB '18.
 
 ## Payment Networks
 
