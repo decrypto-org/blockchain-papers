@@ -12,6 +12,8 @@ To add a new link:
    Peer-reviewed papers are preferred.
  * Authors must be named in a Vancouver-style citation.
  * Conference or journal and year must be stated if available.
+ * Keep the commit history clean. Squash your commits to a single one and split
+   major contributions to multiple PRs.
 
 This is a curated list of *blockchain*-related papers, not general cryptography
 or distributed systems. Blockchains are "chains of blocks", not general-purpose
