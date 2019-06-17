@@ -225,6 +225,7 @@ peer-reviewed and presented in academic conferences.
 - [Town crier: An authenticated data feed for smart contracts](https://eprint.iacr.org/2016/168.pdf). Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS '16.
 - 🎓 [A Smart Contract for Boardroom Voting with Maximum Voter Privacy](http://fc17.ifca.ai/preproceedings/paper_80.pdf). McCorry P, Shahandashti SF, Hao F. FC '17.
 - 🎓 [Constant-deposit multiparty lotteries on Bitcoin](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final39.pdf). Bartoletti M, Zunino R. FC '17.
+- 🎓 [Slither: A Static Analysis Framework For Smart Contracts](https://agroce.github.io/wetseb19.pdf). Feist J., Grieco G., Groce A. WETSEB '19.
 
 ## Formal Methods
 
