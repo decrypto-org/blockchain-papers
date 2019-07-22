@@ -240,6 +240,7 @@ peer-reviewed and presented in academic conferences.
 
 ## DAG-based consensus
 
+- [Hathor: An alternative towards a scalable cryptocurrency](https://s3.amazonaws.com/hathor-public-files/hathor-white-paper.pdf). Brogliato M. '18.
 - [SPECTRE: A Fast and Scalable Cryptocurrency Protocol](https://eprint.iacr.org/2016/1159.pdf).
 Sompolinsky Y, Lewenberg Y, Zohar A. '16.
 - "PHANTOM": [A Scalable BlockDAG protocol](https://eprint.iacr.org/2018/104.pdf). Sompolinsky Y, Zohar A. '18.
