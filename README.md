@@ -198,6 +198,7 @@ peer-reviewed and presented in academic conferences.
 - [Nitro Protocol](https://eprint.iacr.org/2019/219.pdf). Close T. '19.
 - 🎓 [Two-Party State Channels with Assertions](https://fc19.ifca.ai/wtsc/StateAssertions.pdf). Buckland C, McCorry P. FC '19.
 - [Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Malavolta G, Moreno-Sanchez P, Schneidewind C, Kate A, Maffei M. NDSS '19.
+- [Privacy-Utility Tradeoffs in Routing Cryptocurrency over Payment Channel Networks](https://arxiv.org/pdf/1909.02717.pdf). Tang W, Wang W, Fanti G, Oh S. '19.
 
 ## Fungibility
 
