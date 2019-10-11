@@ -71,6 +71,9 @@ peer-reviewed and presented in academic conferences.
 - 🎓 [Inclusive Block Chain Protocols](http://fc15.ifca.ai/preproceedings/paper_101.pdf). Lewenberg Y, Sompolinsky Y, Zohar A. FC '15.
 - 🎓 [On the Security and Performance of Proof of Work Blockchains](https://eprint.iacr.org/2016/555.pdf). Gervais A, Karame GO, Wüst K, Glykantzis V, Ritzdorf H, Capkun S. CCS '16.
 - 🎓 [Smartpool: Practical decentralized pooled mining](https://eprint.iacr.org/2017/019.pdf). Luu L, Velner Y, Teutsch J, Saxena P. USENIX Security '17.
+- 🎓 [REM: Resource-Efficient Mining for Blockchains](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-zhang.pdf). Fan Z, Ittay E, Robert E, Ari J, Robbert van R. USENIX Security '17.
+- 🎓 [Bitcoin vs. Bitcoin Cash: Coexistence or Downfall of Bitcoin Cash?](https://arxiv.org/pdf/1902.11064.pdf). Yujin K, Hyoungshick K, Jinwoo S, Yongdae K. S&P '19.
+
 
 ## Stake
 - 🎓 [Ouroboros: A provably secure proof-of-stake blockchain protocol](https://pdfs.semanticscholar.org/1c14/549f7ba7d6a000d79a7d12255eb11113e6fa.pdf). Kiayias A, Russell A, David B, Oliynykov R. '16.
@@ -81,6 +84,7 @@ peer-reviewed and presented in academic conferences.
 - 🎓 [Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability](https://eprint.iacr.org/2018/378.pdf). Badertscher C, Gazi P, Kiayias A, Russell A, Zikas V. '18.
 - 🎓 [A Proof-of-Stake protocol for consensus on Bitcoin subchains](http://eprint.iacr.org/2017/417.pdf). Bartoletti M, Lande S, & Podda A S. FC '17.
 - 🎓 [Snow White: Provably Secure Proofs of Stake.](https://fc19.ifca.ai/preproceedings/141-preproceedings.pdf). Bentov I, Pass R, Shi E. FC '19.
+- 🎓 [Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake](https://eprint.iacr.org/2018/1132.pdf). Thomas K, Aggelos K, Markulf K, Vassilis Z. S&P '19.
 
 ## Attacks
 
@@ -133,6 +137,7 @@ peer-reviewed and presented in academic conferences.
 - [The stellar consensus protocol: A federated model for internet-level consensus](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.93&amp=&rep=rep1&amp=&type=pdf). Mazières D. '15.
 - 🎓 [There’s No Free Lunch, Even Using Bitcoin: Tracking the Popularity and Profits of Virtual Currency Scams](http://fc15.ifca.ai/preproceedings/paper_75.pdf). Vasek M, Moore T. FC '15.
 - 🎓 [Challenges and Opportunities Associated with a Bitcoin-based Transaction Rating System](http://fc14.ifca.ai/bitcoin/papers/bitcoin14_submission_5.pdf). Vandervort D. FC '14.
+- 🎓 [XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets ](https://eprint.iacr.org/2018/643.pdf). Alexei Z, Dominik H, Joshua L, Panayiotis P, Arthur G, William J. K. S&P '19.
 
 
 ## Privacy
@@ -165,7 +170,7 @@ peer-reviewed and presented in academic conferences.
 - 🎓 [Transferable Anonymous Payments via TumbleBit in Permissioned Blockchains](http://ceur-ws.org/Vol-2334/DLTpaper5.pdf). Ferretti C, Leporati A, Mariot L, Nizzardo L. DLT '19.
 - 🎓 [BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf). Sinisa M, Karl W, Moritz S, Kari K, Ghassan K, Srdjan C. USENIX Security '19.
 - 🎓 [Tracing Transactions Across Cryptocurrency Ledgers](https://www.usenix.org/system/files/sec19-yousaf_0.pdf). Haaroon Y, George K, Sarah M .  USENIX Security '19.
-
+- 🎓 [Blind Certificate Authorities](https://shelat.ccis.neu.edu/dl/WAPRS-blindca.pdf). Liang W, Gilad A, Rafael P, Thomas R, Abhi S.  S&P '19.
 
 ## Sidechains, Higher layer and Scalability
 
@@ -183,6 +188,8 @@ peer-reviewed and presented in academic conferences.
 - [FlyClient: Super-Light Clients for Cryptocurrencies](https://eprint.iacr.org/2019/226.pdf). B Bünz, L Kiffer, L Luu, M Zamani. '19.
 - [PolyShard: Coded Sharding Achieves Linearly Scaling Efficiency and Security Simultaneously](https://arxiv.org/pdf/1809.10361.pdf). Li S, Yu M, Avestimehr S, Kannan S, Viswanath P. '18.
 - 🎓 [ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf). Wang S, Dinh TT, Lin Q, Xie Z, Zhang M, Cai Q, Chen G, Ooi BC, Ruan P. PVLDB '18.
+- 🎓 [Redactable Blockchain in the Permissionless Setting](https://arxiv.org/pdf/1901.03206.pdf). Dominic D, Bernardo M, Sri Aravinda Krishnan T. S&P '19.
+
 
 ## Payment Networks
 
@@ -207,6 +214,7 @@ peer-reviewed and presented in academic conferences.
 - [Nitro Protocol](https://eprint.iacr.org/2019/219.pdf). Close T. '19.
 - 🎓 [Two-Party State Channels with Assertions](https://fc19.ifca.ai/wtsc/StateAssertions.pdf). Buckland C, McCorry P. FC '19.
 - [Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Malavolta G, Moreno-Sanchez P, Schneidewind C, Kate A, Maffei M. NDSS '19.
+
 
 ## Fungibility
 
@@ -252,6 +260,8 @@ peer-reviewed and presented in academic conferences.
 - 🎓 [Cuckoo Cycle: a memory bound graph-theoretic proof-of-work](http://fc15.ifca.ai/preproceedings/bitcoin/paper_12.pdf). Tromp J. FC '15.
 - 🎓 [PieceWork: Generalized Outsourcing Control for Proofs of Work](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final24.pdf). Daian P, Eyal I, Juels A, Sirer EG. FC '17.
 - 🎓 [Permacoin: Repurposing bitcoin work for data preservation](http://ieeexplore.ieee.org/iel7/6954656/6956545/06956582.pdf). Miller A, Juels A, Shi E, Parno B, Katz J. Permacoin. S&P '14.
+- 🎓 [Lay Down the Common Metrics: Evaluating Proof-of-Work Consensus Protocols' Security](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/666000b190/pdf?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJjc2RsX2FwaSIsImF1ZCI6ImNzZGxfYXBpX2Rvd25sb2FkX3Rva2VuIiwic3ViIjoiYW5vbnltb3VzQGNvbXB1dGVyLm9yZyIsImVtYWlsIjoiYW5vbnltb3VzQGNvbXB1dGVyLm9yZyIsImV4cCI6MTU2OTQ3MjcwNX0.n257jltAlEtcHlpnTkTQyeQikmbxJMidmqaAb0mZQHE). Ren Z, Bart P. S&P '19.
+
 
 ## DAG-based consensus
 
