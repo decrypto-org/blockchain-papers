@@ -35,13 +35,14 @@ peer-reviewed and presented in academic conferences.
 > Conference
 - [FC(Financial Cryptography and Data Security)](#fc-c)
 
+
 ### Other
 + CoRR
 + T&I(Telematics and Informatics)
 + EC
 + IACR
 
-## Table of Labels
+## Content Labels
 + *`General`*
 + *`Consensus`*: 
     + BFT, *`PoW`*(Proof of Work), *`PoS`*(Proof of Stake), Proof-of-X, *`DAG`*
