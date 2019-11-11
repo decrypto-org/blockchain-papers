@@ -3,6 +3,8 @@
 A curated list of blockchain-related academic papers. Papers with 🎓 have been
 peer-reviewed and presented in academic conferences.
 
+Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.com/decrypto-org/blockchain-papers). This repository is forked from their repository, but adds more great papers and makes a more reasonable organization based on the content and source of papers.
+
 ## Conference Information
 
 ### CCF A
@@ -22,9 +24,12 @@ peer-reviewed and presented in academic conferences.
 + [TOCS(ACM Transactions on Computer Systems)](#tocs-a)
 + [TOPLAS(ACM Transactions on Programming Languages & Systems)](#toplas-a)
 + [JACM(Journal of the ACM)](#jacm-a)
++ [Journal of Cryptology](#journal-of-cryptology-a)
++ [TDSC(IEEE Transactions on Dependable and Secure Computing)](#tdsc-a)
 
 ### CCF B
 > Conference
+- [ASIACRYPT(International Conference on the Theory and Application of Cryptology and Information Security)](#asiacrypt-b)
 - [ESORICS(European Symposium on Research in Computer Security)](#esorics-b)
 - [EuroSys(European Conference on Computer Systems)](#eurosys-b)
 - [ICDCS(IEEE International Conference on Distributed Computing Systems)](#icdcs-b)
@@ -33,8 +38,8 @@ peer-reviewed and presented in academic conferences.
 
 ### CCF C
 > Conference
+- [ACNS(Applied Cryptography and Network Security)](#acns-c)
 - [FC(Financial Cryptography and Data Security)](#fc-c)
-
 
 ### Other
 + CoRR
@@ -46,16 +51,15 @@ peer-reviewed and presented in academic conferences.
 + *`General`*
 + *`Consensus`*: 
     + BFT, *`PoW`*(Proof of Work), *`PoS`*(Proof of Stake), Proof-of-X, *`DAG`*
-+ *`Cryptography`*: 
-    + *`Ring Signature`*, *`Blind Signature`*
 + *`Mining`*
 + *`Attacks`*
 + *`Wallets`*
+    + *`Ring Signature`*, *`Blind Signature`*, *`Threshold Signature`*
 + *`Crime`*
 + *`Economics`*
 + *`Marketplaces`*
 + *`Privacy`*
-    + *`ZKP`*(Zero-Knowledge Proof), *`Ring Signature`*, *`Blind Signature`*
+    + *`Mixing`*, *`ZKP`*(Zero-Knowledge Proof), *`Ring Signature`*, *`Blind Signature`*
 + *`Scalability`*: 
     + *`Off-chain`*, *`Payment Channel`*, *`Payment Networks`*, *`Sidechains`*
 + *`Fungibility`*
@@ -72,144 +76,18 @@ peer-reviewed and presented in academic conferences.
 
 ---
 
-## JACM (A)
-
-- 🎓 [Consensus in the Presence of Partial Synchrony](https://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf). Dwork S., Lynch N. '88. JACM '88.
-    + Keyword: *`Consensus`*
-
-## TOPLAS (A)
-
-- 🎓 [The Byzantine Generals Problem](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf). Lamport L, Shostak R., Pease M. '82. TOPLAS '82.
-    + Keyword: *`Consensus`*
-
-## TOCS (A)
-
-- 🎓 [The part-time parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf). Lamport L. TOCS '98.
-    + Keyword: *`Consensus`*
-
-## OSDI (A)
-
-- 🎓 [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf). Castro M., Liskov B. OSDI '99.
-    + Keyword: *`Consensus`*
-
-## CRYPTO (A)
-
-- 🎓 [Bitcoin as a Transaction Ledger: A Composable Treatment](https://eprint.iacr.org/2017/149.pdf). Badertscher C., Maurer U., Tschudi D., Zikas V. CRYPTO'17.
-    + Keyword: *`Cryptography`*
-
-+ 🎓 [The Bitcoin Backbone Protocol with Chains of Variable Difficulty](https://eprint.iacr.org/2016/1048). Juan A. Garay and Aggelos Kiayias and Nikos Leonardos. Crypto'17.
-    + Keyword: *`Consensus`*, *`PoS`*
-
-- 🎓 [Ouroboros: A provably secure proof-of-stake blockchain protocol](https://pdfs.semanticscholar.org/1c14/549f7ba7d6a000d79a7d12255eb11113e6fa.pdf). Kiayias A, Russell A, David B, Oliynykov R. CRYPTO'17.
-    + Keyword: *`PoS`*
-
-+ 🎓 [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](http://eprint.iacr.org/2017/573.pdf). Bernardo D, Gazi P, Kiayias A, Russell A. Crypto'17.
-    + Keyword: *`Consensus`*, *`PoS`*
-
-- 🎓 [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](http://eprint.iacr.org/2017/573.pdf). Bernardo D, Gazi P, Kiayias A, Russell A. CRYPTO'17.
-    + Keyword: *`PoS`*
-
-- 🎓 [How to Use Bitcoin to Design Fair Protocols](https://eprint.iacr.org/2014/129.pdf). Bentov I, Kumaresan R. CRYPTO'14.
-    + Keyword: *`Economics`*
-
-- 🎓 [Pricing via processing or combatting junk mail](https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf). Dwork C, Naor M. CRYPTO'92.
-    + Keyword: *`Consensus`*, *`PoS`*, **Proof-of-work**
-
-- 🎓 [Blind signatures for untraceable payments](http://blog.koehntopp.de/uploads/Chaum.BlindSigForPayment.1982.PDF). Chaum D. CRYPTO'83.
-    + Keyword: *`Privacy`*, *`Blind Signature`*
-
-## EUROCRYPT (A)
-
-+ 🎓 [Consensus through Herding](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_24.pdf). T-H. Hubert Chan Rafael Pass Elaine Shi. EUROCRYPT'19. 
-    + Keyword: *`Consensus`*
-
-+ 🎓 [Proof-of-Stake Protocols for Privacy-Aware Blockchains](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_23.pdf). Chaya Ganesh Claudio Orlandi Daniel Tschudi. EUROCRYPT'19. 
-    + Keyword: *`PoS`*
-
-+ 🎓 [Multi-Party Virtual State Channels](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_21.pdf). Stefan Dziembowski Lisa Eckey Sebastian Faust Julia Hesse Kristina Hostáková. EUROCRYPT'19. 
-    + Keyword: *`Payment Channel`*
-
-+ 🎓 [Aggregate Cash Systems: A Cryptographic Investigation of Mimblewimble](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_22.pdf). Georg Fuchsbauer Michele Orrù Yannick Seurin. EUROCRYPT'19. 
-    + Keyword: *`System Design`*
-
-+ 🎓 [Analysis of the Blockchain Protocol in Asynchronous Networks](https://eprint.iacr.org/2016/454.pdf). Pass R, Seeman L, shelat a. EUROCRYPT'17
-    + Keyword: *`Consensus-PoW`*
-
-- 🎓 [Fair and Robust Multi-Party Computation using a Global Transaction Ledger](https://eprint.iacr.org/2015/574.pdf). Kiayias A., Zhouh S., Zikas V. EUROCRYPT'16.
-    + Keyword: *`Applications`*
-
-- 🎓 **[The Bitcoin Backbone Protocol: Analysis and Applications](https://eprint.iacr.org/2014/765.pdf)**. Garay J, Kiayias A, Leonardos N. EUROCRYPT'15.
-    + Keyword: *`Consensus`*, *`PoW`*
-
-
-## EuroSys (A)
-
-+ 🎓 [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/pdf/1801.10228.pdf). Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo De Caro, David Enyeart, Christopher Ferris, Gennady Laventman, Yacov Manevich, Srinivasan Muralidharan, Chet Murthy, Binh Nguyen, Manish Sethi, Gari Singh, Keith Smith, Alessandro Sorniotti, Chrysoula Stathakopoulou, Marko Vukolić, Sharon Weed Cocco, Jason Yellick. EuroSys'18
-    + Keyword: *`System Design`*
-
-## S&P (A)
-
-+ 🎓 [Proof-of-Stake Sidechains](https://eprint.iacr.org/2018/1239.pdf). Peter Gaži, Aggelos Kiayias, Dionysis Zindros. IEEE S&P'19.  
-    + Keyword: *`Sidechain`*
-
-- 🎓 [Blind Certificate Authorities](https://shelat.ccis.neu.edu/dl/WAPRS-blindca.pdf). Liang W, Gilad A, Rafael P, Thomas R, Abhi S.  S&P '19.
-    + Keyword: *`Privacy`*
-
-- 🎓 [Bitcoin vs. Bitcoin Cash: Coexistence or Downfall of Bitcoin Cash?](https://arxiv.org/pdf/1902.11064.pdf). Yujin K, Hyoungshick K, Jinwoo S, Yongdae K. S&P '19.
-    + Keyword: *`Mining`*
-
-+ 🎓 [Perun: Virtual payment hubs over cryptocurrencies](https://eprint.iacr.org/2017/635.pdf) Dziembowski S, Eckey L, Faust S, Malinowski D. IEEE S&P'19.
-    + Keyword: *`Payment Networks`*
-
-+ 🎓 [Lay Down the Common Metrics: Evaluating Proof-of-Work Consensus Protocols’ Security](https://www.esat.kuleuven.be/cosic/publications/article-3005.pdf) Ren Zhang, Bart Preneel. IEEE S&P'19.
-    + Keyword: *`Consensus`*, *`PoW`*
-
-+ 🎓 [Redactable Blockchain in the Permissionless Setting](https://arxiv.org/abs/1901.03206). Dominic Deuber, Bernardo Magri, Sri Aravinda Krishnan Thyagarajan. IEEE S&P'19.
-    + Keyword: *`Consensus`*
-
-+ 🎓 [Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake](https://eprint.iacr.org/2018/1132). Thomas Kerber and Markulf Kohlweiss and Aggelos Kiayias and Vassilis Zikas. IEEE S&P'19.
-    + Keyword: *`Consensus`*, *`Privacy`*
-
-+ 🎓 [XCLAIM: Decentralized, Interoperable, Cryptocurrency-Backed Assets](https://eprint.iacr.org/2018/643.pdf). 
-Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervais, William J. Knottenbelt. IEEE S&P'19. 
-    + Keyword: *`Scalaility`*
-
-+ 🎓 OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding. E. Kokoris-Kogias and P. Jovanovic and L. Gasser and N. Gailly and E. Syta and B. Ford. S&P'18
-    + Keyword: *`System`*
-
-- 🎓 [Hijacking Bitcoin: Routing Attacks on Cryptocurrencies](https://arxiv.org/pdf/1605.07524v2). Apostolaki M, Zohar A, Vanbever L. S&P'17.
-    + Keyword: *`Network`*
-
-+ 🎓 [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf). Kosba A, Miller A, Shi E, Wen Z, Papamanthou C. S&P'16
-    + Keyword: *`Privacy`*
-
-+ 🎓 [The Miner's Dilemma](https://arxiv.org/abs/1411.7099). Ittay Eyal. S&P'15
-    + Keyword: *`Consensus`*, *`PoW`*, *`Mining`*
-
-+ 🎓 **[SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)**. Bonneau J, Miller A, Clark J, Narayanan A, Kroll JA, Felten EW. S&P'15
-    + Keyword: *`General`*
-
-+ 🎓 [Permacoin: Repurposing bitcoin work for data preservation](http://ieeexplore.ieee.org/iel7/6954656/6956545/06956582.pdf). Miller A, Juels A, Shi E, Parno B, Katz J. Permacoin. S&P'14.
-    + Keyword: *`Consensus`*, *`PoW`*
-
-+ 🎓 [Zerocash: Decentralized anonymous payments from bitcoin](http://ieeexplore.ieee.org/iel7/6954656/6956545/06956581.pdf). Sasson EB, Chiesa A, Garman C, Green M, Miers I, Tromer E, Virza M. S&P'14.
-    + Keyword: *`Privacy`*
-
-- 🎓 [Zerocoin: Anonymous distributed e-cash from bitcoin](http://ieeexplore.ieee.org/iel7/6547086/6547088/06547123.pdf). Miers I, Garman C, Green M, Rubin AD. S&P'13.
-    + Keyword: *`Privacy`*
-
 ## USENIX Security (A)
 
-+ 🎓 [Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/files/usenix19.pdf). Haaroon Yousaf, George Kappos, and Sarah Meiklejohn. USENIX Security'19 Security Symposium.
++ 🎓 [Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/files/usenix19.pdf). Haaroon Yousaf, George Kappos, and Sarah Meiklejohn. USENIX Security'19.
     + Keyword: *`Transaction Analysis`*
 
-+ 🎓 [StrongChain: Transparent and Collaborative Proof-of-Work Consensus](https://arxiv.org/pdf/1905.09655.pdf). Pawel Szalachowski, Daniël Reijsbergen, and Ivan Homoliak, Siwei Sun. USENIX Security'19 Security Symposium.
++ 🎓 [StrongChain: Transparent and Collaborative Proof-of-Work Consensus](https://arxiv.org/pdf/1905.09655.pdf). Pawel Szalachowski, Daniël Reijsbergen, and Ivan Homoliak, Siwei Sun. USENIX Security'19.
     + Keyword: *`Consensus`*
 
-+ 🎓 [BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf). Sinisa Matetic, Karl Wüst, Moritz Schneider, and Kari Kostiainen, Ghassan Karame, Srdjan Capkun. USENIX Security'19 Security Symposium.
++ 🎓 [BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf). Sinisa Matetic, Karl Wüst, Moritz Schneider, and Kari Kostiainen, Ghassan Karame, Srdjan Capkun. USENIX Security'19.
     + Keyword: *`Privacy`*
 
-+ 🎓 [FastKitten: Practical Smart Contracts on Bitcoin](https://www.usenix.org/system/files/sec19fall_das_prepub.pdf). Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. USENIX Security'19 Security Symposium.
++ 🎓 [FastKitten: Practical Smart Contracts on Bitcoin](https://www.usenix.org/system/files/sec19fall_das_prepub.pdf). Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. USENIX Security'19.
     + Keyword: *`Smart Contracts`*
 
 - 🎓 [teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf). Johannes K, Christian R. USENIX Security'18.
@@ -249,130 +127,100 @@ and Edward W. Felten. USENIX Security'18 Security Symposium.
 - 🎓 [Measuring the Longitudinal Evolution of the Online Anonymous Marketplace Ecosystem](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-soska-updated.pdf). Soska K, Christin N. USENIX Security'15.
     + Keyword: *`Marketplaces`*
 
-## NDSS (A)
+## S&P (A)
 
-- 🎓 [Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Malavolta G, Moreno-Sanchez P, Schneidewind C, Kate A, Maffei M. NDSS'19.
-    + Keyword: *`Payment Channels`*
++ 🎓 [Threshold ecdsa from ecdsa assumptions: The multiparty case](http://www.firstlight.cn/upload/plusfile/20195/21/201952184227868.pdf). Doerner J, Kondi Y, Lee E, et al. S&P'19.
+    + Keyword: *`Wallets`*, *`Threshold Signature`*
 
-+ 🎓 [SABRE: Protecting Bitcoin against Routing Attacks](https://arxiv.org/pdf/1808.06254.pdf). Maria Apostolaki, Gian Marti, Jan Müller, and Laurent Vanbever. NDSS'19.
-    + Keyword: *`Network`*
-
-+ 🎓 [Seth: Protecting Existing Smart Contracts Against Re-Entrancy Attacks](https://arxiv.org/pdf/1812.05934.pdf). Michael Rodler, Wenting Li and Ghassan Karame, Lucas Davi. NDSS'19.
-    + Keyword: *`Smart Contracts`*
-
-+ 🎓 [YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes](https://arxiv.org/pdf/1811.03265.pdf). Sourav Das, Vinay Joseph Ribeiro, and Abhijeet Anand. NDSS'19.
-    + Keyword: *`Smart Contracts`*
-
-+ 🎓 [Fine-Grained and Controlled Rewriting in Blockchains: Chameleon-Hashing Gone Attribute-Based](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02A-3_Derler_paper.pdf). David Derler, Kai Samelin, Daniel Slamanig and Christoph Striecks. NDSS'19.
-    + Keyword: *`Cryptograph`*
-
-+ 🎓 [Privacy-preserving Multi-hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Giulio Malavolta, Pedro Moreno Sanchez, Clara Schneidewind and Matteo Maffei, Aniket Kate. NDSS'19.
-    + Keyword: *`Off-chain`*
-
-+ 🎓 ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS'18.
-    + Keyword: *`Economic`*, *`Smart Contracts`*
-
-+ 🎓 [Chainspace: A Sharded Smart Contracts Platform](https://sheharbano.com/assets/publications/ndss2018-chainspace.pdf). Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, and George Danezis. NDSS'18.
-    + Keyword: *`System Design`*
-
-+ 🎓 [Settling Payments Fast and Private: Efficient Decentralized Routing for Path-Based Transactions](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-3_Roos_paper.pdf). Stefanie Roos, Pedro Moreno-Sanchez, Aniket Kate, and Ian Goldberg. NDSS'18.
-    + Keyword: *`Off-chain`*
-
-- 🎓 [TumbleBit: An untrusted Bitcoin-compatible anonymous payment hub](https://pdfs.semanticscholar.org/a4ce/62a44770a33d1a19b5553f080d4f12e9e55d.pdf). Heilman E, Alshenibr L, Baldimtsi F, Scafuro A, Goldberg S. NDSS'17.
-    + Keyword: *`Privacy`*
-
-- 🎓 [Centrally banked cryptocurrencies](https://arxiv.org/pdf/1505.06895.pdf). Danezis G, Meiklejohn S. NDSS'16.
-    + Keyword: *`Consensus`*, **RSCoin**
-
-## SOSP (A)
-
-+ 🎓 [Teechain: A Secure Payment Network with Asynchronous Blockchain Access](https://arxiv.org/pdf/1707.05454.pdf). Joshua Lind, Oded Naor, Ittay Eyal, Florian Kelbert, Peter Pietzuch, Emin Gun Sirer. SOSP'19
-    + Keyword: *`Payment Networks`*
-
-+ 🎓 [Fast and Secure Global Payments with Stellar](https://www.scs.stanford.edu/~dm/home/papers/lokhava:stellar-core.pdf). Marta Lokhava, Giuliano Losa, David Mazières, Graydon Hoare, Nicolas Barry, Eliezer Gafni, Jonathan Jove, Rafał Malinowski, Jed McCaleb. SOSP'19
-    + Keyword: *`Consensus`*
-
-+ 🎓 [Notary: A Device for Secure Transaction Approval](https://pdos.csail.mit.edu/papers/notary:sosp19.pdf). Anish Athalye, Adam Belay, Frans Kaashoek, Robert Morris, Nickolai Zeldovich.  SOSP'19
-    + Keyword: *`Consensus`*
-
-+ 🎓 [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf). Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich. SOSP'17
-    + Keyword: *`Consensus`*
-
-## VLDB (A)
-
-+ 🎓 A Demonstration of Sterling: A Privacy-Preserving Data Marketplace. Nick Hynes1, David Dao, David Yan, Raymond Cheng, Dawn Song. VLDB'19. 
-    + Keyword: *`Privacy`*
-
-+ 🎓 [CAPER: A Cross-Application Permissioned Blockchain](http://www.vldb.org/pvldb/vol12/p1385-amiri.pdf). Mohammad Javad Amiri, Divyakant Agrawal, Amr El Abbadi. VLDB'19.
-    + Keyword: *`Application`*
-
-+ 🎓 [BlockchainDB - A Shared Database on Blockchains](http://www.vldb.org/pvldb/vol12/p1597-el-hindi.pdf). Muhammad El-Hindi,
-Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
-    + Keyword: *`Application`*
-
-+ 🎓 [Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems](http://www.vldb.org/pvldb/vol12/p975-ruan.pdf). Pingcheng Ruan, Gang Chen, Tien Tuan Anh Dinh, Qian Lin, Beng Chin Ooi, Meihui Zhang. VLDB'19. 
-    + Keyword: *`Provenance`*
-
-+ 🎓 [ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf). Sheng Wang, Tien Tuan Anh Dinh, Qian Lin, Zhongle Xie, Meihui Zhang, Qingchao Cai, Gang Chen, Beng Chin Ooi, Pingcheng Rua. VLDB'18. 
-    + Keyword: *`Storage`*
-
-## PODC (B)
-
-+ 🎓 [The Consensus Number of a Cryptocurrency](https://arxiv.org/pdf/1906.05574.pdf). R. Guerraoui, P. Kuznetsov, M. Monti, M. Pavlovic, D. Seredinschi. PODC'19
-    + Keyword: *`Consensus`*
-
-+ 🎓 Communication Complexity of Byzantine Agreement, Revisited. I. Abraham, T. Chan, D. Dolev, K. Nayak, R. Pass, L. Ren, E. Shi. PODC'19
-    + Keyword: *`Consensus`*, *`BFT`*
-
-+ 🎓 [Exact Byzantine Consensus on Undirected Graphs under Local Broadcast Model](https://arxiv.org/pdf/1903.11677.pdf). M. Khan, S. Naqvi, N. Vaidya. PODC'19
-    + Keyword: *`Consensus`*, *`BFT`*
-
-+ 🎓 Asymptotically Optimal Validated Asynchronous Byzantine Agreement. I. Abraham, D. Malkhi, A. Spiegelman. PODC'19
-    + Keyword: *`Consensus`*, *`BFT`*
-
-+ 🎓 [HotStuff: BFT Consensus with Linearity and Responsiveness](https://www.cs.unc.edu/~reiter/papers/2019/PODC.pdf). M. Yin, I. Abraham, G. Gueta, D. Malkhi, M. Reiter. PODC'19
-    + Keyword: *`Consensus`*, *`BFT`*
-
-+ 🎓 [Atomic Cross-Chain Swaps](https://arxiv.org/abs/1801.09515). Maurice Herlihy. PODC'18
++ 🎓 [Proof-of-Stake Sidechains](https://eprint.iacr.org/2018/1239.pdf). Peter Gaži, Aggelos Kiayias, Dionysis Zindros. IEEE S&P'19.  
     + Keyword: *`Sidechain`*
 
-+ 🎓 [Brief Announcement: Sustainable Blockchains through Proof of eXercise](https://haslab.uminho.pt/ashoker/files/pox-podc.pdf). Ali Shoker. PODC'18
+- 🎓 [Blind Certificate Authorities](https://shelat.ccis.neu.edu/dl/WAPRS-blindca.pdf). Liang W, Gilad A, Rafael P, Thomas R, Abhi S.  S&P '19.
+    + Keyword: *`Privacy`*
+
+- 🎓 [Bitcoin vs. Bitcoin Cash: Coexistence or Downfall of Bitcoin Cash?](https://arxiv.org/pdf/1902.11064.pdf). Yujin K, Hyoungshick K, Jinwoo S, Yongdae K. S&P '19.
+    + Keyword: *`Mining`*
+
++ 🎓 [Perun: Virtual payment hubs over cryptocurrencies](https://eprint.iacr.org/2017/635.pdf) Dziembowski S, Eckey L, Faust S, Malinowski D. IEEE S&P'19.
+    + Keyword: *`Payment Networks`*
+
++ 🎓 [Lay Down the Common Metrics: Evaluating Proof-of-Work Consensus Protocols’ Security](https://www.esat.kuleuven.be/cosic/publications/article-3005.pdf) Ren Zhang, Bart Preneel. IEEE S&P'19.
+    + Keyword: *`Consensus`*, *`PoW`*
+
++ 🎓 [Redactable Blockchain in the Permissionless Setting](https://arxiv.org/abs/1901.03206). Dominic Deuber, Bernardo Magri, Sri Aravinda Krishnan Thyagarajan. IEEE S&P'19.
     + Keyword: *`Consensus`*
 
-+ 🎓 [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
++ 🎓 [Ouroboros Crypsinous: Privacy-Preserving Proof-of-Stake](https://eprint.iacr.org/2018/1132). Thomas Kerber and Markulf Kohlweiss and Aggelos Kiayias and Vassilis Zikas. IEEE S&P'19.
+    + Keyword: *`Consensus`*, *`Privacy`*
+
++ 🎓 [XCLAIM: Decentralized, Interoperable, Cryptocurrency-Backed Assets](https://eprint.iacr.org/2018/643.pdf). 
+Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervais, William J. Knottenbelt. IEEE S&P'19. 
+    + Keyword: *`Scalaility`*
+
++ 🎓 OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding. E. Kokoris-Kogias and P. Jovanovic and L. Gasser and N. Gailly and E. Syta and B. Ford. S&P'18.
+    + Keyword: *`System`*
+
++ 🎓 [Secure two-party threshold ECDSA from ECDSA assumptions](https://eprint.iacr.org/2018/499.pdf). Doerner J, Kondi Y, Lee E, et al. S&P'18.
+    + Keyword: *`Wallets`*, *`Threshold Signature`*
+
+- 🎓 [Hijacking Bitcoin: Routing Attacks on Cryptocurrencies](https://arxiv.org/pdf/1605.07524v2). Apostolaki M, Zohar A, Vanbever L. S&P'17.
+    + Keyword: *`Network`*
+
++ 🎓 [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf). Kosba A, Miller A, Shi E, Wen Z, Papamanthou C. S&P'16
+    + Keyword: *`Privacy`*
+
++ 🎓 [The Miner's Dilemma](https://arxiv.org/abs/1411.7099). Ittay Eyal. S&P'15
+    + Keyword: *`Consensus`*, *`PoW`*, *`Mining`*
+
++ 🎓 **[SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)**. Bonneau J, Miller A, Clark J, Narayanan A, Kroll JA, Felten EW. S&P'15
+    + Keyword: *`General`*
+
++ 🎓 [Permacoin: Repurposing bitcoin work for data preservation](http://ieeexplore.ieee.org/iel7/6954656/6956545/06956582.pdf). Miller A, Juels A, Shi E, Parno B, Katz J. Permacoin. S&P'14.
     + Keyword: *`Consensus`*, *`PoW`*
+
++ 🎓 [Zerocash: Decentralized anonymous payments from bitcoin](http://ieeexplore.ieee.org/iel7/6954656/6956545/06956581.pdf). Sasson EB, Chiesa A, Garman C, Green M, Miers I, Tromer E, Virza M. S&P'14.
+    + Keyword: *`Privacy`*
+
+- 🎓 [Zerocoin: Anonymous distributed e-cash from bitcoin](http://ieeexplore.ieee.org/iel7/6547086/6547088/06547123.pdf). Miers I, Garman C, Green M, Rubin AD. S&P'13.
+    + Keyword: *`Privacy`*
 
 ## CCS (A)
 
-+ 🎓 Efficient Publicly Verifiable 2PC over a Blockchain with Applications to Financially-Secure Computations.	Ruiyu Zhu, Changchang Ding, Yan Huang. CCS'19.
++ 🎓 [Efficient Publicly Verifiable 2PC over a Blockchain with Applications to Financially-Secure Computations](http://homes.sice.indiana.edu/yh33/mypub/pvc.pdf). Ruiyu Zhu, Changchang Ding, Yan Huang. CCS'19.
     + Keyword: *`Consensus Applcation`*
 
 + 🎓 Erlay: Efficient Transaction Relay for Bitcoin.	Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Alexandra (Sasha) Fedorova, Ivan Beschastnikh. CCS'19.
     + Keyword: *`Network`*
 
-+ 🎓 HyperService: Interoperability and Programmability across Heterogeneous Blockchains.	Zhuotao Liu, Yangxi Xiang,Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Yih-Chun Hu. CCS'19.
++ 🎓 [HyperService: Interoperability and Programmability across Heterogeneous Blockchains](https://arxiv.org/pdf/1908.09343).	Zhuotao Liu, Yangxi Xiang,Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Yih-Chun Hu. CCS'19.
     + Keyword: *`Sidechain`*
 
 + 🎓 MatRiCT: Efficient, Scalable and Post-Quantum Blockchain Confidential Transactions Protocol.	Muhammed F. Esgin, Raymond K. Zhao, Ron Steinfeld, Joseph K. Liu, Dongxi Liu. CCS'19. 
-    + Keyword: *`Cryptography`*
+    + Keyword: *`Privacy`*, *`Wallets`*, *`Ring Signature`*, 
 
-+ 🎓 Omniring: Scaling Up Private Payments Without Trusted Setup — Formal Foundations and a Construction of Ring Confidential Transactions with Log-size Proofs.	Russell W. F. Lai, Viktoria Ronge, Tim Ruffing, Dominique Schröder, Sri Aravinda Krishnan Thyagarajan, Jiafan Wang. CCS'19. 
++ 🎓 [Omniring: Scaling Up Private Payments Without Trusted Setup — Formal Foundations and a Construction of Ring Confidential Transactions with Log-size Proofs](https://eprint.iacr.org/2019/580.pdf). Russell W. F. Lai, Viktoria Ronge, Tim Ruffing, Dominique Schröder, Sri Aravinda Krishnan Thyagarajan, Jiafan Wang. CCS'19. 
     + Keyword: *`Payment`*
 
-+ 🎓 Prism: Deconstructing the Blockchain to Approach Physical Limits.	Vivek Bagaria, Sreeram Kannan, David Tse, Giulia Fanti, Pramod Viswanath. CCS'19. 
++ 🎓 [Prism: Deconstructing the Blockchain to Approach Physical Limits](https://arxiv.org/pdf/1810.08092). Vivek Bagaria, Sreeram Kannan, David Tse, Giulia Fanti, Pramod Viswanath. CCS'19. 
     + Keyword: *`Consensus`*
 
-+ 🎓 Learning to Fuzz from Symbolic Execution with Application to Smart Contracts.	Jingxuan He, Mislav Balunovic, Nodar Ambroladze, Petar Tsankov, Martin Vechev. CCS'19. 
++ 🎓 [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf).	Jingxuan He, Mislav Balunovic, Nodar Ambroladze, Petar Tsankov, Martin Vechev. CCS'19. 
     + Keyword: *`Smart Contracts`*
 
-+ 🎓 Specifying and Enforcing Data Privacy in Smart Contracts.	Samuel Steffen, Benjamin Bichsel, Mario Gersbach, Noa Melchior, Petar Tsankov, Martin Vechev. CCS'19. 
-    + Keyword: *`Smart Contracts`*
++ 🎓 [zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-zkay.pdf).	Samuel Steffen, Benjamin Bichsel, Mario Gersbach, Noa Melchior, Petar Tsankov, Martin Vechev. CCS'19.
+    + Keyword: *`Smart Contracts`*, **zkay**
 
 + 🎓 SAMPL: Scalable Auditability of Monitoring Processes using Public Ledgers. Roopa Vishwanathan, Gaurav Panwar, Satyajayant Misra, Austin Bos. CCS'19. 
     + Keyword: *`Ledger`*
 
 + 🎓 [Atomic Multi-Channel Updates with Constant Collateral in Payment-Channel Networks](https://eprint.iacr.org/2019/583.pdf). Christoph Egger, Pedro Moreno-Sanchez, Matteo Maffei. CCS'19. 
     + Keyword: *`Payment Networks`*
+
++ 🎓 [Fast multiparty threshold ecdsa with fast trustless setup](https://eprint.iacr.org/2019/114.pdf). Gennaro R, Goldfeder S. CCS'18.
+    + Keyword: *`Wallets`*, *`Threshold Signature`*
+
++ 🎓 [Fast secure multiparty ecdsa with practical distributed key generation and applications to cryptocurrency custody](https://eprint.iacr.org/2018/987.pdf). Lindell Y, Nof A. CCS'18.
+    + Keyword: *`Wallets`*, *`Threshold Signature`*
 
 + 🎓 [General State Channel Networks](https://eprint.iacr.org/2018/320.pdf) Dziembowski S, Faust S, Hostáková K. CCS'18.
     + Keyword: *`Payment Networks`*
@@ -383,13 +231,10 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 + 🎓 [FairSwap: How to fairly exchange digital goods](https://eprint.iacr.org/2018/740) Dziembowski S, Faust S, Eckey L. CCS'18.
     + Keyword: *`System Design`*
 
-+ 🎓 RapidChain: Scaling Blockchain via Full Sharding. Mahdi Zamani, Mahnush Movahedi, Mariana Raykova. CCS'18.
++ 🎓 [RapidChain: Scaling Blockchain via Full Sharding](https://dl.acm.org/ft_gateway.cfm?ftid=2008927&id=3243853). Mahdi Zamani, Mahnush Movahedi, Mariana Raykova. CCS'18.
     + Keyword: *`System`*
 
-- 🎓 [General State Channel Networks](https://eprint.iacr.org/2018/320.pdf) Dziembowski S, Faust S, Hostáková K. CCS '18.
-    + Keyword: *`Payment Networks`*
-
-- 🎓 [The Gap Game](http://delivery.acm.org/10.1145/3250000/3243737/p713-tsabary.pdf). Tsabary I., Eyal I. CCS '18.
+- 🎓 [The Gap Game](http://delivery.acm.org/10.1145/3250000/3243737/p713-tsabary.pdf). Tsabary I., Eyal I. CCS'18.
     + Keyword: *`Economics`*
 
 - 🎓 [Concurrency and Privacy with Payment-Channel Networks](https://eprint.iacr.org/2017/820.pdf). Malavolta G, Moreno-Sanchez P, Kate A, Maffei M, Ravi S. CCS '17.
@@ -458,13 +303,107 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 + 🎓 [Double-Spending Fast Payments in Bitcoin](https://www.eecis.udel.edu/~ruizhang/CISC859/S17/Paper/p9.pdf). Karame, Ghassan O. and Androulaki, Elli and Capkun, Srdjan. CCS'12.
     + Keyword: *`Consensus`*, *`PoW`*, *`Mining`*
 
-## INFOCOM (A)
+## NDSS (A)
 
-+ 🎓 [Stochastic Models and Wide-Area Network Measurements for Blockchain Design and Analysis](https://www.researchgate.net/publication/321369565_Stochastic_Models_and_Wide-Area_Network_Measurements_for_Blockchain_Design_and_Analysis). Nikolaos Papadis, Sem Borst, Anwar Walid, Mohamed Grissa, Leandros Tassiulas. INFOCOM'18
+- 🎓 [Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Malavolta G, Moreno-Sanchez P, Schneidewind C, Kate A, Maffei M. NDSS'19.
+    + Keyword: *`Payment Channels`*
+    + Github: https://github.com/KZen-networks/multi-hop-locks
+
++ 🎓 [SABRE: Protecting Bitcoin against Routing Attacks](https://arxiv.org/pdf/1808.06254.pdf). Maria Apostolaki, Gian Marti, Jan Müller, and Laurent Vanbever. NDSS'19.
     + Keyword: *`Network`*
 
-+ 🎓 [Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf). Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
-    + Keyword: *`Transaction`*
++ 🎓 [Seth: Protecting Existing Smart Contracts Against Re-Entrancy Attacks](https://arxiv.org/pdf/1812.05934.pdf). Michael Rodler, Wenting Li and Ghassan Karame, Lucas Davi. NDSS'19.
+    + Keyword: *`Smart Contracts`*
+
++ 🎓 [YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes](https://arxiv.org/pdf/1811.03265.pdf). Sourav Das, Vinay Joseph Ribeiro, and Abhijeet Anand. NDSS'19.
+    + Keyword: *`Smart Contracts`*
+
++ 🎓 [Fine-Grained and Controlled Rewriting in Blockchains: Chameleon-Hashing Gone Attribute-Based](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02A-3_Derler_paper.pdf). David Derler, Kai Samelin, Daniel Slamanig and Christoph Striecks. NDSS'19.
+    + Keyword: *`Cryptograph`*
+
++ 🎓 [Privacy-preserving Multi-hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Giulio Malavolta, Pedro Moreno Sanchez, Clara Schneidewind and Matteo Maffei, Aniket Kate. NDSS'19.
+    + Keyword: *`Off-chain`*
+
++ 🎓 ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS'18.
+    + Keyword: *`Economic`*, *`Smart Contracts`*
+
++ 🎓 [Chainspace: A Sharded Smart Contracts Platform](https://sheharbano.com/assets/publications/ndss2018-chainspace.pdf). Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, and George Danezis. NDSS'18.
+    + Keyword: *`System Design`*
+
++ 🎓 [Settling Payments Fast and Private: Efficient Decentralized Routing for Path-Based Transactions](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-3_Roos_paper.pdf). Stefanie Roos, Pedro Moreno-Sanchez, Aniket Kate, and Ian Goldberg. NDSS'18.
+    + Keyword: *`Off-chain`*
+
+- 🎓 [TumbleBit: An untrusted Bitcoin-compatible anonymous payment hub](https://pdfs.semanticscholar.org/a4ce/62a44770a33d1a19b5553f080d4f12e9e55d.pdf). Heilman E, Alshenibr L, Baldimtsi F, Scafuro A, Goldberg S. NDSS'17.
+    + Keyword: *`Privacy`*
+
+- 🎓 [Centrally banked cryptocurrencies](https://arxiv.org/pdf/1505.06895.pdf). Danezis G, Meiklejohn S. NDSS'16.
+    + Keyword: *`Consensus`*, **RSCoin**
+
+## CRYPTO (A)
+
+- 🎓 [Two-party ECDSA from hash proof systems and efficient instantiations](https://hal.archives-ouvertes.fr/hal-02281931/file/CRYPTO19_2pECDSA_extended.pdf). Castagnos G, Catalano D, Laguillaumie F, et al. CRYPTO'19.
+    + Keyword: *`Wallets`*, *`Threshold Signature`*
+
+- 🎓 [Threshold cryptosystems from threshold fully homomorphic encryption](https://pdfs.semanticscholar.org/5224/7b8f30a05bd8bd73b921f918af78c1ef015a.pdf). Boneh D, Gennaro R, Goldfeder S, et al. CRYPTO'18.
+    + Keyword: *`Wallets`*, *`Threshold Signature`*
+
+- 🎓 [Bitcoin as a Transaction Ledger: A Composable Treatment](https://eprint.iacr.org/2017/149.pdf). Badertscher C., Maurer U., Tschudi D., Zikas V. CRYPTO'17.
+    + Keyword: *`Wallets`*
+
++ 🎓 [Fast secure two-party ECDSA signing](https://pdfs.semanticscholar.org/59cb/bb6ccd07dc312d3d0c218d384f004396c370.pdf). Lindell Y. CRYPTO'17.
+    + Keyword: *`Wallets`*, *`Threshold Signature`*
+
++ 🎓 [The Bitcoin Backbone Protocol with Chains of Variable Difficulty](https://eprint.iacr.org/2016/1048). Juan A. Garay and Aggelos Kiayias and Nikos Leonardos. CRYPTO'17.
+    + Keyword: *`Consensus`*, *`PoS`*
+
+- 🎓 [Ouroboros: A provably secure proof-of-stake blockchain protocol](https://pdfs.semanticscholar.org/1c14/549f7ba7d6a000d79a7d12255eb11113e6fa.pdf). Kiayias A, Russell A, David B, Oliynykov R. CRYPTO'17.
+    + Keyword: *`PoS`*
+
++ 🎓 [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](http://eprint.iacr.org/2017/573.pdf). Bernardo D, Gazi P, Kiayias A, Russell A. Crypto'17.
+    + Keyword: *`Consensus`*, *`PoS`*
+
+- 🎓 [How to Use Bitcoin to Design Fair Protocols](https://eprint.iacr.org/2014/129.pdf). Bentov I, Kumaresan R. CRYPTO'14.
+    + Keyword: *`Economics`*
+
+- 🎓 [Two-party generation of DSA signatures](https://link.springer.com/content/pdf/10.1007/3-540-45539-6_15.pdf). MacKenzie P, Reiter M K. CRYPTO'01
+    + Keyword: *`Wallets`*, *`Threshold Signature`*
+
+- 🎓 [Pricing via processing or combatting junk mail](https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf). Dwork C, Naor M. CRYPTO'92.
+    + Keyword: *`Consensus`*, *`PoS`*, **Proof-of-Work**
+
+- 🎓 [Blind signatures for untraceable payments](http://blog.koehntopp.de/uploads/Chaum.BlindSigForPayment.1982.PDF). Chaum D. CRYPTO'83.
+    + Keyword: *`Privacy`*, *`Blind Signature`*
+
+## EUROCRYPT (A)
+
++ 🎓 [Consensus through Herding](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_24.pdf). T-H. Hubert Chan Rafael Pass Elaine Shi. EUROCRYPT'19. 
+    + Keyword: *`Consensus`*
+
++ 🎓 [Proof-of-Stake Protocols for Privacy-Aware Blockchains](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_23.pdf). Chaya Ganesh Claudio Orlandi Daniel Tschudi. EUROCRYPT'19. 
+    + Keyword: *`PoS`*
+
++ 🎓 [Multi-Party Virtual State Channels](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_21.pdf). Stefan Dziembowski Lisa Eckey Sebastian Faust Julia Hesse Kristina Hostáková. EUROCRYPT'19. 
+    + Keyword: *`Payment Channel`*
+
++ 🎓 [Aggregate Cash Systems: A Cryptographic Investigation of Mimblewimble](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_22.pdf). Georg Fuchsbauer Michele Orrù Yannick Seurin. EUROCRYPT'19. 
+    + Keyword: *`System Design`*
+
++ 🎓 [Analysis of the Blockchain Protocol in Asynchronous Networks](https://eprint.iacr.org/2016/454.pdf). Pass R, Seeman L, shelat a. EUROCRYPT'17
+    + Keyword: *`Consensus-PoW`*
+
+- 🎓 [Fair and Robust Multi-Party Computation using a Global Transaction Ledger](https://eprint.iacr.org/2015/574.pdf). Kiayias A., Zhouh S., Zikas V. EUROCRYPT'16.
+    + Keyword: *`Applications`*
+
+- 🎓 **[The Bitcoin Backbone Protocol: Analysis and Applications](https://eprint.iacr.org/2014/765.pdf)**. Garay J, Kiayias A, Leonardos N. EUROCRYPT'15.
+    + Keyword: *`Consensus`*, *`PoW`*
+
+- 🎓 [Practical threshold signatures](https://link.springer.com/content/pdf/10.1007/3-540-45539-6_15.pdf). Shoup V. EUROCRYPT'00.
+    + Keyword: *`Wallets`*, *`Threshold Signature`*
+
+- 🎓 Secure distributed key generation for discrete-log based cryptosystems. Gennaro R, Jarecki S, Krawczyk H, et al. EUROCRYPT'99
+    + Keyword: *`Wallets`*, *`Threshold Signature`*
+
+## INFOCOM (A)
 
 + 🎓 Corking by Forking: Vulnerability Analysis of Blockchain. Shengling Wang and Chenyu Wang, Qin Hu. INFOCOM'19
     + Keyword: *`Security`*
@@ -474,6 +413,118 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 + 🎓 A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement. Huan Zhou, Xue Ouyang, Zhijie Ren, Jinshu Su, Cees de Laat and Zhiming Zhao. INFOCOM'19
     + Keyword: *`Application`*
+
++ 🎓 [Stochastic Models and Wide-Area Network Measurements for Blockchain Design and Analysis](https://www.researchgate.net/publication/321369565_Stochastic_Models_and_Wide-Area_Network_Measurements_for_Blockchain_Design_and_Analysis). Nikolaos Papadis, Sem Borst, Anwar Walid, Mohamed Grissa, Leandros Tassiulas. INFOCOM'18
+    + Keyword: *`Network`*
+
++ 🎓 [Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf). Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
+    + Keyword: *`Transaction`*
+
+## SOSP (A)
+
++ 🎓 [Teechain: A Secure Payment Network with Asynchronous Blockchain Access](https://arxiv.org/pdf/1707.05454.pdf). Joshua Lind, Oded Naor, Ittay Eyal, Florian Kelbert, Peter Pietzuch, Emin Gun Sirer. SOSP'19
+    + Keyword: *`Payment Networks`*
+
++ 🎓 [Fast and Secure Global Payments with Stellar](https://www.scs.stanford.edu/~dm/home/papers/lokhava:stellar-core.pdf). Marta Lokhava, Giuliano Losa, David Mazières, Graydon Hoare, Nicolas Barry, Eliezer Gafni, Jonathan Jove, Rafał Malinowski, Jed McCaleb. SOSP'19
+    + Keyword: *`Consensus`*
+
++ 🎓 [Notary: A Device for Secure Transaction Approval](https://pdos.csail.mit.edu/papers/notary:sosp19.pdf). Anish Athalye, Adam Belay, Frans Kaashoek, Robert Morris, Nickolai Zeldovich. SOSP'19
+    + Keyword: *`Consensus`*
+
++ 🎓 [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://people.csail.mit.edu/nickolai/papers/gilad-algorand.pdf). Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich. SOSP'17
+    + Keyword: *`Consensus`*
+
+## NSDI (A)
+
++ 🎓 [Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
+    + Keyword: *`System`*, **Zones**, **Eventual Atomicity**, **Chu-ko-nu Mining**
+
++ 🎓 [zkLedger: Privacy-Preserving Auditing for Distributed Ledgers](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-narula.pdf). Neha Narula and Willy Vasquez and Madars Virza. NSDI'18
+    + Keyword: *`Privacy`*, **zkLedger**
+
++ 🎓 [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. NSDI’16
+    + Keyword: *`Consensus-PoW`*
+
+## VLDB (A)
+
++ 🎓 [A Demonstration of Sterling: A Privacy-Preserving Data Marketplace](http://www.vldb.org/pvldb/vol11/p2086-hynes.pdf). Nick Hynes1, David Dao, David Yan, Raymond Cheng, Dawn Song. VLDB'19. 
+    + Keyword: *`Privacy`*
+
++ 🎓 [CAPER: A Cross-Application Permissioned Blockchain](http://www.vldb.org/pvldb/vol12/p1385-amiri.pdf). Mohammad Javad Amiri, Divyakant Agrawal, Amr El Abbadi. VLDB'19.
+    + Keyword: *`Application`*
+
++ 🎓 [BlockchainDB - A Shared Database on Blockchains](http://www.vldb.org/pvldb/vol12/p1597-el-hindi.pdf). Muhammad El-Hindi,
+Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
+    + Keyword: *`Application`*
+
++ 🎓 [Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems](http://www.vldb.org/pvldb/vol12/p975-ruan.pdf). Pingcheng Ruan, Gang Chen, Tien Tuan Anh Dinh, Qian Lin, Beng Chin Ooi, Meihui Zhang. VLDB'19. 
+    + Keyword: *`Provenance`*
+
++ 🎓 [ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications](http://www.vldb.org/pvldb/vol11/p1137-wang.pdf). Sheng Wang, Tien Tuan Anh Dinh, Qian Lin, Zhongle Xie, Meihui Zhang, Qingchao Cai, Gang Chen, Beng Chin Ooi, Pingcheng Rua. VLDB'18. 
+    + Keyword: *`Storage`*
+
+## OSDI (A)
+
+- 🎓 [Proving the correct execution of concurrent services in zero-knowledge](https://www.usenix.org/system/files/osdi18-setty.pdf). Srinath Setty, Sebastian Angel, Trinabh Gupta, Jonathan Lee. OSDI'18.
+    + Keyword: *`Formal Methods`*, *`ZKP`*, **Spice**
+
+- 🎓 [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf). Castro M., Liskov B. OSDI'99.
+    + Keyword: *`Consensus`*
+
+## TOCS (A)
+
+- 🎓 [The part-time parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf). Lamport L. TOCS '98.
+    + Keyword: *`Consensus`*
+
+## TOPLAS (A)
+
+- 🎓 [The Byzantine Generals Problem](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf). Lamport L, Shostak R., Pease M. '82. TOPLAS '82.
+    + Keyword: *`Consensus`*
+
+## JACM (A)
+
+- 🎓 [Consensus in the Presence of Partial Synchrony](https://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf). Dwork S., Lynch N. '88. JACM '88.
+    + Keyword: *`Consensus`*
+
+## Journal of Cryptology (A)
+
+## TDSC (A)
+
+- 🎓 Security and privacy in decentralized energy trading through multi-signatures, blockchain and anonymous messaging streams. Aitzhan N Z, Svetinovic D. TDSC'16
+    + Keyword: *`Applications`*
+
+## ASIACRYPT (B)
+
+- 🎓 [Compact multi-signatures for smaller blockchains](https://eprint.iacr.org/2018/483.pdf). Boneh D, Drijvers M, Neven G. ASIACRYPT'18
+    + Keyword: *`Wallets`*, *`Threshold Signature`*
+
+- 🎓 Short signatures from the Weil pairing. Boneh D, Lynn B, Shacham H. ASIACRYPT'01
+    + Keyword: *`Wallets`*, *`Threshold Signature`*
+
+## ESORICS (B)
+
+- 🎓 [Incentives for Harvesting Attack in Proof of Work Mining Pools](https://link.springer.com/chapter/10.1007/978-3-030-29959-0_34). Zolotavkin Y, & Kuchta V. ESORICS'19.
+    + Keyword: *`Attacks`*
+
+- 🎓 [PDFS: practical data feed service for smart contracts](https://arxiv.org/pdf/1808.06641.pdf). Guarnizo J, Szalachowski P. ESORICS'19
+    + Keyword: *`Application`*, *`Smart Contracts`*
+
+- 🎓 [Towards a Marketplace for Secure Outsourced Computations](https://arxiv.org/pdf/1808.09682.pdf). Dang H., Le Tien D., Chang E C. ESORICS'19
+    + Keyword: *`Application`*, *`Payment Channels`*
+
+- 🎓 [Annotary: A Concolic Execution System for Developing Secure Smart Contracts](https://arxiv.org/pdf/1907.03868.pdf). Weiss, K. Schütte, J. ESORICS'19
+    + Keyword: *`Smart Contracts`*
+
+- 🎓 [A Lattice-Based Linkable Ring Signature Supporting Stealth Addresses](https://books.google.com.hk/books?id=TqOvDwAAQBAJ&pg=PA745&lpg=PA745&dq=pdf+A+Lattice-Based+Linkable+Ring+Signature+Supporting+Stealth+Addresses&source=bl&ots=X8AWJqPEBj&sig=ACfU3U1-Ev8mg5y9G1X-GgTeRQN50MhWCQ&hl=zh-CN&sa=X&ved=2ahUKEwiM0IGL-5LlAhUsy4sBHYCuDEwQ6AEwBHoECAkQAQ#v=onepage&q=A%20Lattice-Based%20Linkable%20Ring%20Signature%20Supporting%20Stealth%20Addresses&f=false). Liu, Z., Nguyen, K., Yang, G., Wang, H., Wong, D. S. ESORICS'19
+    + Keyword: *`Privacy`*, *`Ring Signature`*
+
+- 🎓 [Coinshuffle: Practical decentralized coin mixing for bitcoin](http://crypsys.mmci.uni-saarland.de/projects/CoinShuffle/coinshuffle.pdf). Ruffing T, Moreno-Sanchez P, Kate A. ESORICS '14.
+    + Keyword: *`Privacy`*
+
+## EuroSys (B)
+
++ 🎓 [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/pdf/1801.10228.pdf). Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo De Caro, David Enyeart, Christopher Ferris, Gennady Laventman, Yacov Manevich, Srinivasan Muralidharan, Chet Murthy, Binh Nguyen, Manish Sethi, Gari Singh, Keith Smith, Alessandro Sorniotti, Chrysoula Stathakopoulou, Marko Vukolić, Sharon Weed Cocco, Jason Yellick. EuroSys'18
+    + Keyword: *`System Design`*
 
 ## ICDCS (B)
 
@@ -530,36 +581,40 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
     + Keyword: *`Privacy`*
     + Type: *`Short Paper`*
 
-## NSDI (A)
-+ 🎓 [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. NSDI ’16
-    + Keyword: *`Consensus-PoW`*
+## PODC (B)
 
-+ 🎓 [Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
-    + Keyword: *`System`*
++ 🎓 [The Consensus Number of a Cryptocurrency](https://arxiv.org/pdf/1906.05574.pdf). R. Guerraoui, P. Kuznetsov, M. Monti, M. Pavlovic, D. Seredinschi. PODC'19
+    + Keyword: *`Consensus`*
 
-## ESORICS (B)
++ 🎓 Communication Complexity of Byzantine Agreement, Revisited. I. Abraham, T. Chan, D. Dolev, K. Nayak, R. Pass, L. Ren, E. Shi. PODC'19
+    + Keyword: *`Consensus`*, *`BFT`*
 
-- 🎓 [Incentives for Harvesting Attack in Proof of Work Mining Pools](https://link.springer.com/chapter/10.1007/978-3-030-29959-0_34). Zolotavkin Y, & Kuchta V. ESORICS'19.
-    + Keyword: *`Attacks`*
++ 🎓 [Exact Byzantine Consensus on Undirected Graphs under Local Broadcast Model](https://arxiv.org/pdf/1903.11677.pdf). M. Khan, S. Naqvi, N. Vaidya. PODC'19
+    + Keyword: *`Consensus`*, *`BFT`*
 
-- 🎓 [PDFS: practical data feed service for smart contracts](https://arxiv.org/pdf/1808.06641.pdf). Guarnizo J, Szalachowski P. ESORICS'19
-    + Keyword: *`Application`*, *`Smart Contracts`*
++ 🎓 Asymptotically Optimal Validated Asynchronous Byzantine Agreement. I. Abraham, D. Malkhi, A. Spiegelman. PODC'19
+    + Keyword: *`Consensus`*, *`BFT`*
 
-- 🎓 [Towards a Marketplace for Secure Outsourced Computations](https://arxiv.org/pdf/1808.09682.pdf). Dang H., Le Tien D., Chang E C. ESORICS'19
-    + Keyword: *`Application`*, *`Payment Channels`*
++ 🎓 [HotStuff: BFT Consensus with Linearity and Responsiveness](https://www.cs.unc.edu/~reiter/papers/2019/PODC.pdf). M. Yin, I. Abraham, G. Gueta, D. Malkhi, M. Reiter. PODC'19
+    + Keyword: *`Consensus`*, *`BFT`*
 
-- 🎓 [Annotary: A Concolic Execution System for Developing Secure Smart Contracts](https://arxiv.org/pdf/1907.03868.pdf). Weiss, K. Schütte, J. ESORICS'19
-    + Keyword: *`Smart Contracts`*
++ 🎓 [Atomic Cross-Chain Swaps](https://arxiv.org/abs/1801.09515). Maurice Herlihy. PODC'18
+    + Keyword: *`Sidechain`*
 
-- 🎓 [A Lattice-Based Linkable Ring Signature Supporting Stealth Addresses](https://books.google.com.hk/books?id=TqOvDwAAQBAJ&pg=PA745&lpg=PA745&dq=pdf+A+Lattice-Based+Linkable+Ring+Signature+Supporting+Stealth+Addresses&source=bl&ots=X8AWJqPEBj&sig=ACfU3U1-Ev8mg5y9G1X-GgTeRQN50MhWCQ&hl=zh-CN&sa=X&ved=2ahUKEwiM0IGL-5LlAhUsy4sBHYCuDEwQ6AEwBHoECAkQAQ#v=onepage&q=A%20Lattice-Based%20Linkable%20Ring%20Signature%20Supporting%20Stealth%20Addresses&f=false). Liu, Z., Nguyen, K., Yang, G., Wang, H., Wong, D. S. ESORICS'19
-    + Keyword: *`Privacy`*, *`Ring Signature`*
++ 🎓 [Brief Announcement: Sustainable Blockchains through Proof of eXercise](https://haslab.uminho.pt/ashoker/files/pox-podc.pdf). Ali Shoker. PODC'18
+    + Keyword: *`Consensus`*
 
-- 🎓 [Coinshuffle: Practical decentralized coin mixing for bitcoin](http://crypsys.mmci.uni-saarland.de/projects/CoinShuffle/coinshuffle.pdf). Ruffing T, Moreno-Sanchez P, Kate A. ESORICS '14.
-    + Keyword: *`Privacy`*
++ 🎓 [FruitChains: A Fair Blockchain](https://eprint.iacr.org/2016/916.pdf).Rafael Pass, Elaine Shi. PODC'17
+    + Keyword: *`Consensus`*, *`PoW`*
 
 ## CoNEXT (B)
 + 🎓 [On the Necessity of a Prescribed Block Validity Consensus: Analyzing Bitcoin Unlimited Mining Protocol](https://eprint.iacr.org/2017/686.pdf). Ren Zhang, Bart Preneel. CoNEXT '17
     + Keyword: *`Consensus`*, *`PoW`*
+
+## ACNS (C)
+
++ 🎓 [Threshold-optimal DSA/ECDSA signatures and an application to Bitcoin wallet security](https://eprint.iacr.org/2016/013.pdf). Gennaro R, Goldfeder S, Narayanan A. ACNS'16.
+    + Keyword: *`Wallets`*, *`Threshold Signature`*
 
 ## FC (C)
 
@@ -782,6 +837,9 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 ## Others
 
+- [ShareLock: Mixing for Cryptocurrencies from Multiparty ECDSA](https://eprint.iacr.org/2019/563.pdf). Omer Shlomovits and István András Seres. IACR'19.
+    + Keyword: *`Privacy`*, *`Threshold Signature`*, *`Mixing`*
+
 - [SoK: A Taxonomy for Layer-2 Scalability Related Protocols for Cryptocurrencies](https://eprint.iacr.org/2019/352.pdf). Jourenko M, Kurazumi K, Larangeira M, Tanaka K. '19.
     + Keyword: *`Payment Networks`*, **SoK**
 
@@ -827,8 +885,8 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 - [Low-Resource Eclipse Attacks on Ethereum’s Peer-to-Peer Network](https://eprint.iacr.org/2018/236.pdf). Marcus Y, Heilman E, Goldberg S. IACR'18.
     + Keyword: *`Attacks`*
     
-- [Scalable, transparent, and post-quantum secure computational integrity](https://eprint.iacr.org/2018/046.pdf). Ben-Sasson E, Bentov I, Horesh Y, Riabzev M. IACR'18.
-    + Keyword: *`Cryptography`*
+<!-- - [Scalable, transparent, and post-quantum secure computational integrity](https://eprint.iacr.org/2018/046.pdf). Ben-Sasson E, Bentov I, Horesh Y, Riabzev M. IACR'18.
+    + Keyword: *`Cryptography`* -->
 
 - 🎓[A systematic literature review of blockchain-based applications: Current status, classification and open issues](https://www.researchgate.net/profile/Thomas_Dasaklis/publication/329136952_A_systematic_literature_review_of_blockchain-based_applications_Current_status_classification_and_open_issues/links/5c4cab1ba6fdccd6b5cb7ea1/A-systematic-literature-review-of-blockchain-based-applications-Current-status-classification-and-open-issues.pdf). Casino F, Dasaklis T, Patsakis C. T&I'18.
     + Keyword: *`General`*
@@ -893,8 +951,8 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 - 🎓 [A Fast and Scalable Payment Network with Bitcoin Duplex Micropayment Channels](https://pdfs.semanticscholar.org/c8d2/b0c1f9b1ca739c340e9dc4a2ff71b5bfbb2e.pdf). Decker C, Wattenhofer R. SSS'15.
     + Keyword: *`Payment Networks`*
     
-- [On Bitcoin as a public randomness source](https://pdfs.semanticscholar.org/ebae/9c7d91ea8b6a987642040a2142cc5ea67f7d.pdf). Bonneau J, Clark J, Goldfeder S. IACR'15.
-    + Keyword: *`Cryptography`*
+<!-- - [On Bitcoin as a public randomness source](https://pdfs.semanticscholar.org/ebae/9c7d91ea8b6a987642040a2142cc5ea67f7d.pdf). Bonneau J, Clark J, Goldfeder S. IACR'15.
+    + Keyword: *`Cryptography`* -->
 
 - [Decentralized trusted timestamping using the crypto currency bitcoin](https://arxiv.org/pdf/1502.04015.pdf). Gipp B., Meuschke N., Gernandt A. CoRR'15
     + Keyword: *`Applications`*
@@ -909,7 +967,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
     + Keyword: *`Smart Contracts`*, **Ethereum**
 
 - [Distributed Cryptography Based on the Proofs of Work](https://eprint.iacr.org/2014/796.pdf). Andrychowicz M, and Dziembowski S. IACR'14.
-    + Keyword: *`Cryptography`*
+    + Keyword: *`Consensus`*, *`PoW`*
     
 - [Anonymous Byzantine Consensus from Moderately-Hard Puzzles: A Model for Bitcoin](https://socrates1024.s3.amazonaws.com/consensus.pdf). Miller A, LaViola JJ Jr. '14.
     + Keyword: *`Consensus`*
