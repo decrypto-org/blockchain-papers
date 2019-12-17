@@ -267,7 +267,7 @@ Sompolinsky Y, Lewenberg Y, Zohar A. '16.
 - [OpenTimestamps: Securing Software Updates using the Bitcoin Blockchain Financial Cryptography and Data Security](https://github.com/opentimestamps/). Todd P, Halpin H. (FC Poster '17)
 - 🎓 [Decentralized trusted timestamping using the crypto currency bitcoin](https://arxiv.org/pdf/1502.04015.pdf). Gipp B., Meuschke N., Gernandt A. iConference 2015
 - 🎓 [Fair and Robust Multi-Party Computation using a Global Transaction Ledger](https://eprint.iacr.org/2015/574.pdf). Kiayias A., Zhouh S., Zikas V. EUROCRYPT '16.
-
+- [BlockChain Based Distributed System for Academic Record](https://github.com/rizwan3d/BlockChain-Based-Distributed-System-for-Academic-Record). Muhammad Rizwan, Muhammad Umer, Fahad Ali
 
 ## License
 
