@@ -3,7 +3,7 @@
 A curated list of blockchain-related academic papers. Papers with 🎓 have been
 peer-reviewed and presented in academic conferences.
 
-Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.com/decrypto-org/blockchain-papers). This repository is forked from their repository, but adds more great papers and makes a more reasonable organization based on the content and source of papers.
+Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.com/decrypto-org/blockchain-papers). This repository is forked from their repository, but continuously add great papers and makes a more reasonable organization based on the content and source of papers.
 
 ## Conference Information
 
@@ -48,31 +48,27 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 + IACR
 
 ## Content Labels
-+ *`General`*
-+ *`Consensus`*: 
-    + BFT, *`PoW`*(Proof of Work), *`PoS`*(Proof of Stake), Proof-of-X, *`DAG`*
-+ *`Mining`*
++ *`Composition`*
+    + *`System`*
+    + *`Network`*, *`Wallets`*, *`Mining`*, *`Smart Contracts`*
+    + *`Consensus`*: 
+        + BFT, *`PoW`*(Proof of Work), *`PoS`*(Proof of Stake), Proof-of-X, *`DAG`*
 + *`Attacks`*
-+ *`Wallets`*
-    + *`Ring Signature`*, *`Blind Signature`*, *`Threshold Signature`*
-+ *`Crime`*
-+ *`Economics`*
-+ *`Marketplaces`*
 + *`Privacy`*
-    + *`Mixing`*, *`ZKP`*(Zero-Knowledge Proof), *`Ring Signature`*, *`Blind Signature`*
+    + *`Mixing`*, *`ZKP`*(Zero-Knowledge Proof), *`Ring Signature`*, *`Blind Signature`*, *`RingCT`*, *`Threshold Signature`*
 + *`Scalability`*: 
-    + *`Off-chain`*, *`Payment Channel`*, *`Payment Networks`*, *`Sidechains`*
-+ *`Fungibility`*
-+ *`Network`*
-+ *`Smart Contracts`*
-+ *`Formal Methods`*
-+ *`Survey`* 
-+ *`Sociological`* 
-+ *`Anthropological`* 
-+ *`Applications`*
-+ *`Crosschain`*
+    + *`Layer 2`*
+        + *`Payment Channel`*, *`Payment Networks`*
+    + *`Sidechains`*, *`Programmability`*
+    + *`Interoperability`*
 + *`Security`*
-+ *`System`*
+    + *`Threshold Signature`*
+    + *`Formal Methods`*, *`sMPC`*
+    + *`Post-quantum`*
++ *`Applications`*
+    + *`Crime`*, *`Economics`*, *`Marketplaces`*, *`Sociological`*, *`Anthropological`*
+
+> + **Article Types**: *`SoK`*(Systematization of Knowledge), *`Survey`*, *`Review`*, *`Empirical Study`*, *`Short Paper`*, *`Workshop`*
 
 ---
 
@@ -173,7 +169,7 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
     + Keyword: *`Consensus`*, *`PoW`*, *`Mining`*
 
 + 🎓 **[SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)**. Bonneau J, Miller A, Clark J, Narayanan A, Kroll JA, Felten EW. S&P'15
-    + Keyword: *`General`*
+    + Keyword: *`SoK`*
 
 + 🎓 [Permacoin: Repurposing bitcoin work for data preservation](http://ieeexplore.ieee.org/iel7/6954656/6956545/06956582.pdf). Miller A, Juels A, Shi E, Parno B, Katz J. Permacoin. S&P'14.
     + Keyword: *`Consensus`*, *`PoW`*
@@ -187,31 +183,31 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 ## CCS (A)
 
 + 🎓 [Efficient Publicly Verifiable 2PC over a Blockchain with Applications to Financially-Secure Computations](http://homes.sice.indiana.edu/yh33/mypub/pvc.pdf). Ruiyu Zhu, Changchang Ding, Yan Huang. CCS'19.
-    + Keyword: *`Consensus Applcation`*
+    + Keyword: *`Consensus`*, *`sMPC`*
 
-+ 🎓 Erlay: Efficient Transaction Relay for Bitcoin.	Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Alexandra (Sasha) Fedorova, Ivan Beschastnikh. CCS'19.
-    + Keyword: *`Network`*
++ 🎓 [Erlay: Efficient Transaction Relay for Bitcoin](https://www.ece.ubc.ca/~sasha/papers/ccs19.pdf).	Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Alexandra (Sasha) Fedorova, Ivan Beschastnikh. CCS'19.
+    + Keyword: **Erlay**, *`Scalability`*, *`Network`*
 
 + 🎓 [HyperService: Interoperability and Programmability across Heterogeneous Blockchains](https://arxiv.org/pdf/1908.09343).	Zhuotao Liu, Yangxi Xiang,Jian Shi, Peng Gao, Haoyu Wang, Xusheng Xiao, Bihan Wen, Yih-Chun Hu. CCS'19.
-    + Keyword: *`Sidechain`*
+    + Keyword: **HyperService**, *`Sidechain`*, *`Interoperability`*, *`Programmability`*
 
-+ 🎓 MatRiCT: Efficient, Scalable and Post-Quantum Blockchain Confidential Transactions Protocol.	Muhammed F. Esgin, Raymond K. Zhao, Ron Steinfeld, Joseph K. Liu, Dongxi Liu. CCS'19. 
-    + Keyword: *`Privacy`*, *`Wallets`*, *`Ring Signature`*, 
++ 🎓 [MatRiCT: Efficient, Scalable and Post-Quantum Blockchain Confidential Transactions Protocol](https://eprint.iacr.org/2019/1287.pdf).	Muhammed F. Esgin, Raymond K. Zhao, Ron Steinfeld, Joseph K. Liu, Dongxi Liu. CCS'19. 
+    + Keyword: **MatRiCT**, *`Privacy`*, *`Wallets`*, *`RingCT`*, *`Post-quantum`*
 
 + 🎓 [Omniring: Scaling Up Private Payments Without Trusted Setup — Formal Foundations and a Construction of Ring Confidential Transactions with Log-size Proofs](https://eprint.iacr.org/2019/580.pdf). Russell W. F. Lai, Viktoria Ronge, Tim Ruffing, Dominique Schröder, Sri Aravinda Krishnan Thyagarajan, Jiafan Wang. CCS'19. 
-    + Keyword: *`Payment`*
+    + Keyword: **Omniring**, *`Payment`*, *`RingCT`*
 
 + 🎓 [Prism: Deconstructing the Blockchain to Approach Physical Limits](https://arxiv.org/pdf/1810.08092). Vivek Bagaria, Sreeram Kannan, David Tse, Giulia Fanti, Pramod Viswanath. CCS'19. 
-    + Keyword: *`Consensus`*
+    + Keyword: **Prism**, *`Consensus`*, *`PoW`*
 
 + 🎓 [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf).	Jingxuan He, Mislav Balunovic, Nodar Ambroladze, Petar Tsankov, Martin Vechev. CCS'19. 
     + Keyword: *`Smart Contracts`*
 
 + 🎓 [zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-zkay.pdf).	Samuel Steffen, Benjamin Bichsel, Mario Gersbach, Noa Melchior, Petar Tsankov, Martin Vechev. CCS'19.
-    + Keyword: *`Smart Contracts`*, **zkay**
+    + Keyword: **zkay**, *`Smart Contracts`*
 
-+ 🎓 SAMPL: Scalable Auditability of Monitoring Processes using Public Ledgers. Roopa Vishwanathan, Gaurav Panwar, Satyajayant Misra, Austin Bos. CCS'19. 
-    + Keyword: *`Ledger`*
++ 🎓 [SAMPL: Scalable Auditability of Monitoring Processes using Public Ledgers](https://www.cs.nmsu.edu/~roopa/sampl.pdf). Roopa Vishwanathan, Gaurav Panwar, Satyajayant Misra, Austin Bos. CCS'19. 
+    + Keyword: **SAMPL**, *`Ledger`*
 
 + 🎓 [Atomic Multi-Channel Updates with Constant Collateral in Payment-Channel Networks](https://eprint.iacr.org/2019/583.pdf). Christoph Egger, Pedro Moreno-Sanchez, Matteo Maffei. CCS'19. 
     + Keyword: *`Payment Networks`*
@@ -322,7 +318,7 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
     + Keyword: *`Cryptograph`*
 
 + 🎓 [Privacy-preserving Multi-hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Giulio Malavolta, Pedro Moreno Sanchez, Clara Schneidewind and Matteo Maffei, Aniket Kate. NDSS'19.
-    + Keyword: *`Off-chain`*
+    + Keyword: *`Scalability`*, *`Layer 2`*
 
 + 🎓 ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS'18.
     + Keyword: *`Economic`*, *`Smart Contracts`*
@@ -331,7 +327,7 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
     + Keyword: *`System Design`*
 
 + 🎓 [Settling Payments Fast and Private: Efficient Decentralized Routing for Path-Based Transactions](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-3_Roos_paper.pdf). Stefanie Roos, Pedro Moreno-Sanchez, Aniket Kate, and Ian Goldberg. NDSS'18.
-    + Keyword: *`Off-chain`*
+    + Keyword: *`Scalability`*, *`Layer 2`*
 
 - 🎓 [TumbleBit: An untrusted Bitcoin-compatible anonymous payment hub](https://pdfs.semanticscholar.org/a4ce/62a44770a33d1a19b5553f080d4f12e9e55d.pdf). Heilman E, Alshenibr L, Baldimtsi F, Scafuro A, Goldberg S. NDSS'17.
     + Keyword: *`Privacy`*
@@ -571,7 +567,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
     + Keyword: *`Application`*
 
 + 🎓 Towards A Novel Architecture for Enabling Interoperability Amongst Multiple Blockchains. Hai Jin, Xiaohai Dai, and Jiang Xiao. ICDCS'18
-    + Keyword: *`Crosschain`*
+    + Keyword: *`Interoperability`*
 
 + 🎓 Towards Dependable, Scalable, and Pervasive Distributed Ledgers with Blockchains. Zhang Kaiwen, Jacobsen Hans-Arno.ICDCS'18
     + Keyword: *`Consensus`*
@@ -618,6 +614,78 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 ## FC (C)
 
+- 🎓 [Leveraging Bitcoin Testnet for Bidirectional Botnet Command and Control Systems](http://fc20.ifca.ai/preproceedings/71.pdf). Federico Franzoni (Universitat Pompeu Fabra), Vanesa Daza (Universitat Pompeu Fabra), Iván Abellán (Universitat Pompeu Fabra). FC'20
+    + Keyword: *`Attacks`*
+
+- 🎓 [Security Analysis on dBFT protocol of NEO](http://fc20.ifca.ai/preproceedings/32.pdf). Qin Wang (Swinburne University of Technology), Jiangshan Yu (Monash University), Zhiniang Peng (Qihoo 360 Core Security), Vancuong Bui (Swinburne University of Technology), Shiping Chen (Csiro, Data61), Yong Ding (Cyberspace Security Research Center), Yang Xiang (Swinburne University of Technology). FC'20
+    + Keyword: *`Attacks`*
+
+- 🎓 [Breaking the encryption scheme of the Moscow internet voting system](http://fc20.ifca.ai/preproceedings/178.pdf). Pierrick Gaudry (CNRS, Inria, Université de Lorraine), Alexander Golovnev (Harvard University). FC'20
+    + Keyword: *`Attacks`*
+
+- 🎓 [Short Paper: XOR Arbiter PUFs have Systematic Response Bias](http://fc20.ifca.ai/preproceedings/58.pdf). Nils Wisiol (Technische Universität Berlin), Niklas Pirnay (Technische Universität Berlin). FC'20
+    + Keyword: *`Attacks`*
+
+- 🎓 [Selfish Mining Re-Examined](http://fc20.ifca.ai/preproceedings/4.pdf). Kevin Alarcón Negy (Cornell University), Peter R. Rizun (Bitcoin Unlimited), Emin Gün Sirer (Cornell University). FC'20
+    + Keyword: *`Consensus`*, *`Mining`*
+
+- 🎓 [Fairness and Efficiency in DAG-based Cryptocurrencies](http://fc20.ifca.ai/preproceedings/165.pdf). Georgios Birmpas (University of Oxford), Elias Koutsoupias (University of Oxford), Philip Lazos (Sapienza University of Rome), Francisco J. Marmolejo Cossío (University of Oxford). FC'20
+    + Keyword: *`Consensus`*, *`DAG`*
+
+- 🎓 [Stake Shift in Major Cryptocurrencies: An Empirical Study](http://fc20.ifca.ai/preproceedings/195.pdf). Rainer Stütz (Austrian Institute of Technology), Peter Gaži (IOHK), Bernhard Haslhofer (Austrian Institute of Technology), Jacob Illium (Chainalysis). FC'20
+    + Keyword: *`Consensus`*
+    + Type: *`Empirical Study`*
+
+- 🎓 [Coded Merkle Tree: Solving Data Availability Attacks in Blockchains](http://fc20.ifca.ai/preproceedings/47.pdf). Mingchao Yu (University of Southern California), Saeid Sahraei (University of Southern California), Songze Li, Salman Avestimehr (University of Southern California), Sreeram Kannan (University of Washington), Pramod Viswanath (University of Illinois at Urbana-Champaign). FC'20
+    + Keyword: *`Consensus`*
+
+- 🎓 [Decentralized Privacy-Preserving Netting Protocol on Blockchain for Payment Systems](http://fc20.ifca.ai/preproceedings/27.pdf). Shengjiao Cao (Ant Financial), Yuan Yuan (Ant Financial), Angelo De Caro (IBM Research), Karthik Nandakumar (IBM Research), Kaoutar Elkhiyaoui (IBM Research), Yanyan Hu (IBM Research). FC'20
+    + Keyword: *`Economics`*
+
+- 🎓 [The Arwen Trading Protocols](http://fc20.ifca.ai/preproceedings/23.pdf). Ethan Heilman (Boston University/Arwen), Sebastien Lipmann (Arwen), Sharon Goldberg (Boston University/Arwen). FC'20
+    + Keyword: *`Economics`*
+
+- 🎓 [SoK: A Classification Framework for Stablecoin Designs](http://fc20.ifca.ai/preproceedings/119.pdf). Amani Moin (Cornell University), Kevin Sekniqi (Cornell University), Emin Gün Sirer (Cornell University). FC'20
+    + Keyword: *`System`*
+    + Type: *`SoK`*
+
+- 🎓 [Zether: Towards Privacy in a Smart Contract World](http://fc20.ifca.ai/preproceedings/158.pdf). Benedikt Bünz (Stanford University), Shashank Agrawal (Visa Research), Mahdi Zamani (Visa Research), Dan Boneh (Stanford University). FC'20
+    + Keyword: *`Privacy`*, *`Smart Contract`*
+    
+- 🎓 [An airdrop that preserves recipient privacy](http://fc20.ifca.ai/preproceedings/54.pdf). Riad S. Wahby (Stanford), Dan Boneh (Stanford), Christopher Jeffrey (Purse.io), Joseph Poon (Lightning Network). FC'20
+    + Keyword: *`Privacy`*, *`Smart Contract`*
+
+- 🎓 [SoK: Layer-Two Blockchain Protocols](http://fc20.ifca.ai/preproceedings/150.pdf). Lewis Gudgeon (Imperial College London), Pedro Moreno-Sanchez (TU Wein), Stefanie Roos (TU Delft), Patrick McCorry (PISA Research), Arthur Gervais (Imperial College London). FC'20
+    + Keyword: *`Scalability`*, *`Layer 2`*
+    + Type: *`SoK`*
+
+- 🎓 [MicroCash: Practical Concurrent Processing of Micropayments](http://fc20.ifca.ai/preproceedings/38.pdf). Ghada Almashaqbeh (Columbia), Allison Bishop (Proof of Trading and Columbia), Justin Cappos (New York University). FC'20
+    + Keyword: *`Scalability`*, *`Layer 2`*
+
+- 🎓 [LockDown: Balance Availability Attack against Lightning Network Channels](http://fc20.ifca.ai/preproceedings/73.pdf). Cristina Pérez-Solà (Universitat Oberta de Catalunya), Alejandro Ranchal-Pedrosa (University of Sydney), Jordi Herrera-Joancomarti (Universitat Autònoma de Barcelona), Guillermo Navarro-Arribas (Universitat Autònoma de Barcelona), Joaquin Garcia-Alfaro (Institut Polytechnique de Paris). FC'20
+    + Keyword: *`Scalability`*, *`Layer 2`*
+
+- 🎓 [Ride the Lightning: The Game Theory of Payment Channels](http://fc20.ifca.ai/preproceedings/134.pdf). Zeta Avarikioti (ETH Zurich), Lioba Heimbach (ETH Zurich), Yuyi Wang (ETH Zurich), Roger Wattenhofer (ETH Zurich). FC'20
+    + Keyword: *`Scalability`*, *`Layer 2`*
+
+- 🎓 [How to profit from payments channels](http://fc20.ifca.ai/preproceedings/201.pdf). Oguzhan Ersoy (Delft University of Technology), Stefanie Roos (Delft University of Technology), Zekeriya Erkin (Delft University of Technology). FC'20
+    + Keyword: *`Scalability`*, *`Layer 2`*
+
+- 🎓 [Boomerang: Redundancy Improves Latency and Throughput in Payment Networks](http://fc20.ifca.ai/preproceedings/12.pdf). Joachim Neu (Stanford University), Vivek Bagaria (Stanford University), David Tse (Stanford University). FC'20
+    + Keyword: *`Scalability`*, *`Layer 2`*
+
+- 🎓 [DLSAG: Non-Interactive Refund Transactions For Interoperable Payment Channels in Monero](http://fc20.ifca.ai/preproceedings/124.pdf). Pedro Moreno-Sanchez (TU Wien), Arthur Blue, Duc Le (Purdue University), Sarang Noether (Monero Research Lab), Brandon Goodell (Monero Research Lab), Aniket Kate (Purdue University). FC'20
+    + Keyword: *`Scalability`*, *`Layer 2`*
+
+- 🎓 [Cerberus Channels: Incentivizing Watchtowers for Bitcoin](http://fc20.ifca.ai/preproceedings/132.pdf). Zeta Avarikioti (ETH Zurich), Orfeas Stefanos Thyfronitis Litos (University of Edinburgh), Roger Wattenhofer (ETH Zurich). FC'20
+    + Keyword: *`Scalability`*, *`Layer 2`*
+
+- 🎓 [RingCT 3.0 for Blockchain Confidential Transaction](http://fc20.ifca.ai/preproceedings/52.pdf): Shorter Size and Stronger Security. Tsz Hon Yuen (The University of Hong Kong), Shi-feng Sun (Monash University), Joseph K. Liu (Monash University), Man Ho Au (Hong Kong Polytechnic University), Muhammed F. Esgin (Monash University), Qingzhao Zhang (Shanghai Jiao Tong University), Dawu Gu (Shanghai Jiao Tong University). FC'20
+    + Keyword: *`Privacy`*, *`RingCT`*
+
+- 🎓 [BLAZE: Practical Lattice-Based Blind Signatures for Privacy-Preserving Applications](http://fc20.ifca.ai/preproceedings/141.pdf). Nabil Alkeilani Alkadri (Technische Universität Darmstadt), Rachid El Bansarkhani (QuantiCor Security GmbH), Johannes Buchmann (Technische Universität Darmstadt). FC'20
+    + Keyword: *`Privacy`*, *`Blind Signatures`*
+
 - 🎓 [Two-Party State Channels with Assertions](https://fc19.ifca.ai/wtsc/StateAssertions.pdf). Buckland C, McCorry P. FC '19.
     + Keyword: *`Payment Networks`*
 
@@ -643,13 +711,13 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
     + Keyword: *`Smart Contracts`*
 
 - 🎓 [PieceWork: Generalized Outsourcing Control for Proofs of Work](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final24.pdf). Daian P, Eyal I, Juels A, Sirer EG. FC'17.
-    + Keyword: *`Economic-PoW`*
+    + Keyword: *`Economic`*, *`PoW`*
 
 - 🎓 [OpenTimestamps: Securing Software Updates using the Bitcoin Blockchain Financial Cryptography and Data Security](https://github.com/opentimestamps/). Todd P, Halpin H. (FC Poster'17)
     + Keyword: *`Application`*
 
 + 🎓 [A Proof-of-Stake protocol for consensus on Bitcoin subchains](http://eprint.iacr.org/2017/417.pdf). Bartoletti M, Lande S, & Podda A S. FC'17.
-    + Keyword: *`Consensus-PoS`*
+    + Keyword: *`Consensus`*, *`PoW`*
 
 - 🎓 [Improving Authenticated Dynamic Dictionaries, with Applications to Cryptocurrencies](http://fc17.ifca.ai/preproceedings/paper_34.pdf). Reyzin L, Meshkov D, Chepurnoy A, Ivanov S. FC'17.
     + Keyword: *`Scalability`*, *`Sidechains`*
@@ -701,9 +769,6 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 - 🎓 [The Other Side of the Coin: User Experiences with Bitcoin Security and Privacy](http://fc16.ifca.ai/preproceedings/33_Krombholz.pdf). Krombholz K, Judmayer A, Gusenbauer M, Weippl E. FC'16.
     + Keyword: *`Survey`*, *`Sociological`*, *`Anthropological`*
-
-- 🎓 [The Bitcoin Brain Drain: A Short Paper on the Use and Abuse of Bitcoin Brain Wallets](http://fc16.ifca.ai/preproceedings/36_Vasek.pdf). Vasek M, Bonneau J, Castellucci R, Keith C, Moore T. FC'16.
-    + Keyword: *`Crime`*
 
 - 🎓 [Why buy when you can rent? Bribery attacks on Bitcoin-style consensus](http://fc16.ifca.ai/bitcoin/papers/Bon16b.pdf). Bonneau J. FC '16.
     + Keyword: *`Economics`*
@@ -806,9 +871,6 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 - 🎓 [How Did Dread Pirate Roberts Acquire and Protect His Bitcoin Wealth?](http://fc14.ifca.ai/bitcoin/papers/bitcoin14_submission_2.pdf). Ron D, Shamir A. FC '14.
     + Keyword: *`Privacy`*
 
-- 🎓 [Towards Risk Scoring of Bitcoin Transactions](http://fc14.ifca.ai/bitcoin/papers/bitcoin14_submission_15.pdf). Möser M, Böhme R, Breuker D. FC'14.
-    + Keyword: *`Fungibility`*
-
 - 🎓 [The Bitcoin P2P network](http://fc14.ifca.ai/bitcoin/papers/bitcoin14_submission_3.pdf). Donet Donet JA, Perez-Sola C, Herrera-Joancomart J. FC '14.
     + Keyword: *`Network`*
 
@@ -889,7 +951,8 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
     + Keyword: *`Cryptography`* -->
 
 - 🎓[A systematic literature review of blockchain-based applications: Current status, classification and open issues](https://www.researchgate.net/profile/Thomas_Dasaklis/publication/329136952_A_systematic_literature_review_of_blockchain-based_applications_Current_status_classification_and_open_issues/links/5c4cab1ba6fdccd6b5cb7ea1/A-systematic-literature-review-of-blockchain-based-applications-Current-status-classification-and-open-issues.pdf). Casino F, Dasaklis T, Patsakis C. T&I'18.
-    + Keyword: *`General`*
+    + Keyword: *`Applications`*
+    + Type: *`Review`*
 
 - [Storj A Peer-to-Peer Cloud Storage Network](https://storj.io/storjv3.pdf). Shawn W., Tome B., Josh B., James P., Gordon H., Patrick G., Philip H., Chris P. '18
     + Keyword: *`Applications`*, *`Storage`*
@@ -904,7 +967,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
     + Keyword: *`Scalability`*
 
 - [Bitcoin's Academic Pedigree](http://delivery.acm.org/10.1145/3140000/3132259/p36-narayanan.pdf?ip=88.197.32.177&id=3132259&acc=OPEN&key=5641A0C343C36AC1%2E4ABAF8470B13FB25%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1541082825_ead879dbf5b3644bfed2a09e11b47834). Narayanan A, Clark J. ACM Queue '17.
-    + Keyword: *`General`*
+    + Keyword: *`SoK`*
 
 - 🎓 [On Trees, Chains and Fast Transactions in the Blockchain](https://eprint.iacr.org/2016/545.pdf). Kiayias A, Panagiotakos G. LATINCRYPT '17.
     + Keyword: *`Consensus`*
@@ -994,7 +1057,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
     + Keyword: *`Economics`*
 
 - **[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.com/bitcoin.pdf)**. Nakamoto S. '08.
-    + Keyword: *`General`*, **Bitcoin**
+    + Keyword: *`SoK`*, **Bitcoin**
 
 - [Money as IOUs in social trust networks & a proposal for a decentralized currency network protocol](http://library.uniteddiversity.coop/Money_and_Economics/decentralizedcurrency.pdf). Fugger R. '04.
     + Keyword: *`Marketplaces`*
