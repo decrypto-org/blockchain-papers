@@ -5,41 +5,43 @@ peer-reviewed and presented in academic conferences.
 
 Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.com/decrypto-org/blockchain-papers). This repository is forked from their repository, but continuously add great papers and makes a more reasonable organization based on the content and source of papers.
 
+If you want to join with us, please feel free to contact me. Then, remember to read `CONTRIBUTING.md` before adding papers.
+
 ## Conference Information
 
 ### CCF A
 > Conference
-- [USENIX Security(Usenix Security Symposium)](#usenix-security-a)
-- [S&P(IEEE Security and Privacy)](#sp-a)
-- [CCS(ACM Conference on Computer and Communications Security)](#ccs-a)
-- [NDSS(Network and Distributed System Security)](#ndss-a)
-- [CRYPTO(International Cryptology Conference)](#crypto-a)
-- [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a)
-- [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a)
-- [SOSP(ACM Symposium on Operating Systems Principles)](#sosp-a)
-- [NSDI(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a)
-- [VLDB(International Conference on Very Large Data Bases)](#vldb-a)
-- [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a)
+- [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2019
+- [S&P(IEEE Security and Privacy)](#sp-a) <= 2019
+- [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2019
+- [NDSS(Network and Distributed System Security)](#ndss-a) <= 2019
+- [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2019
+- [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2019
+- [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a) <= 2019
+- [SOSP(ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019
+- [NSDI(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2019
+- [VLDB(International Conference on Very Large Data Bases)](#vldb-a) <= 2019
+- [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2019
 > Journal
-+ [TOCS(ACM Transactions on Computer Systems)](#tocs-a)
-+ [TOPLAS(ACM Transactions on Programming Languages & Systems)](#toplas-a)
-+ [JACM(Journal of the ACM)](#jacm-a)
-+ [Journal of Cryptology](#journal-of-cryptology-a)
-+ [TDSC(IEEE Transactions on Dependable and Secure Computing)](#tdsc-a)
++ [TOCS(ACM Transactions on Computer Systems)](#tocs-a) <= 2019
++ [TOPLAS(ACM Transactions on Programming Languages & Systems)](#toplas-a) <= 2019
++ [JACM(Journal of the ACM)](#jacm-a) <= 2019
++ [Journal of Cryptology](#journal-of-cryptology-a) <= 2019
++ [TDSC(IEEE Transactions on Dependable and Secure Computing)](#tdsc-a) <= 2019
 
 ### CCF B
 > Conference
-- [ASIACRYPT(International Conference on the Theory and Application of Cryptology and Information Security)](#asiacrypt-b)
-- [ESORICS(European Symposium on Research in Computer Security)](#esorics-b)
-- [EuroSys(European Conference on Computer Systems)](#eurosys-b)
-- [ICDCS(IEEE International Conference on Distributed Computing Systems)](#icdcs-b)
-- [PODC(ACM Symposium on Principles of Distributed Computing)](#podc-b)
-- [CoNEXT(ACM Conference on Emerging Networking EXperiments and Technologies)](#conext-b)
+- [ASIACRYPT(International Conference on the Theory and Application of Cryptology and Information Security)](#asiacrypt-b) <= 2019
+- [ESORICS(European Symposium on Research in Computer Security)](#esorics-b) <= 2019
+- [EuroSys(European Conference on Computer Systems)](#eurosys-b) <= 2019
+- [ICDCS(IEEE International Conference on Distributed Computing Systems)](#icdcs-b) <= 2019
+- [PODC(ACM Symposium on Principles of Distributed Computing)](#podc-b) <= 2019
+- [CoNEXT(ACM Conference on Emerging Networking EXperiments and Technologies)](#conext-b) <= 2019
 
 ### CCF C
 > Conference
-- [ACNS(Applied Cryptography and Network Security)](#acns-c)
-- [FC(Financial Cryptography and Data Security)](#fc-c)
+- [ACNS(Applied Cryptography and Network Security)](#acns-c) <= 2019
+- [FC(Financial Cryptography and Data Security)](#fc-c) <= 2020
 
 ### Other
 + CoRR
