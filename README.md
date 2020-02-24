@@ -12,7 +12,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ### CCF A
 > Conference
 - [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2019
-- [S&P(IEEE Security and Privacy)](#sp-a) <= 2019
+- [S&P(IEEE Security and Privacy)](#sp-a) <= 2020
 - [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2019
 - [NDSS(Network and Distributed System Security)](#ndss-a) <= 2019
 - [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2019
@@ -43,7 +43,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [ACNS(Applied Cryptography and Network Security)](#acns-c) <= 2019
 - [FC(Financial Cryptography and Data Security)](#fc-c) <= 2020
 
-### Other
+### [Other](#others)
 + CoRR
 + T&I(Telematics and Informatics)
 + EC
@@ -114,7 +114,7 @@ and Edward W. Felten. USENIX Security'18 Security Symposium.
     + Keyword: *`Mining`*
 
 - 🎓 **[Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf)**. Kogias EK, Jovanovic P, Gailly N, Khoffi I, Gasser L, Ford B. USENIX Security'16.
-    + Keyword: *`Consensus`*, *`PoS`*, **ByzCoin**
+    + Keyword: **ByzCoin**, *`Consensus`*, *`PoS`*
 
 - 🎓 [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. USENIX'16.
     + Keyword: *`Scalability`*
@@ -127,8 +127,26 @@ and Edward W. Felten. USENIX Security'18 Security Symposium.
 
 ## S&P (A)
 
++ 🎓 [OHIE: Blockchain Scaling Made Simple](https://www.comp.nus.edu.sg/~prateeks/papers/Ohie.pdf). Haifeng Yu (National University of Singapore);  Ivica Nikolic (National University of Singapore);  Ruomu Hou(National University of Singapore);  Prateek Saxena (National University of Singapore). S&P'20.
+    + Keyword: **OHIE**, *`Scalaility`*, *`Consensus`*
+
++ 🎓 [A Stealthier Partitioning Attack against Bitcoin Peer-to-Peer Network](https://www.comp.nus.edu.sg/~kangms/papers/erebus-attack.pdf). Muoi Tran (National University of Singapore);  Inho Choi (National University of Singapore);  Gi Jun Moon (Korea University);  Anh V. Vu (Japan Advanced Institute of Science and Technology);  Min Suk Kang (National University of Singapore). S&P'20.
+    + Keyword: **EREBUS**, *`Attacks`*
+
++ 🎓 [VERISMART: A Highly Precise Safety Verifier for Ethereum Smart Contracts](https://arxiv.org/pdf/1908.11227.pdf). Sunbeom So (Korea University);  Myungho Lee (Korea University);  Jisu Park (Korea University);  Heejo Lee (Korea University);  Hakjoo Oh (Korea University). S&P'20.
+    + Keyword: **VERISMART**, *`Smart Contracts`*, *`Formal Methods`*
+
++ 🎓 [FlyClient: Super-Light Clients for Cryptocurrencies](https://eprint.iacr.org/2019/226.pdf). Benedikt Bünz (Stanford University);  Lucianna Kiffer (Northeastern University);  Loi Lu (Kyber Network);  Mahdi Zamani (Visa Research). S&P'20.
+    + Keyword: **FlyClient**, *`Scalaility`*, *`Wallets`*
+
++ 🎓 [VerX: Safety Verification of Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/sp20-verx.pdf). Anton Permenev (ChainSecurity);  Dimitar Dimitrov (ETH Zurich);  Petar Tsankov (ChainSecurity);  Dana Drachsler-Cohen (ETH Zurich);  Martin Vechev (ETH Zurich). S&P'20.
+    + Keyword: **VerX**, *`Smart Contracts`*, *`Formal Methods`*
+
 + 🎓 [Threshold ecdsa from ecdsa assumptions: The multiparty case](http://www.firstlight.cn/upload/plusfile/20195/21/201952184227868.pdf). Doerner J, Kondi Y, Lee E, et al. S&P'19.
     + Keyword: *`Wallets`*, *`Threshold Signature`*
+
++ 🎓 [Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability](https://arxiv.org/pdf/1904.05234.pdf). Philip Daian (Cornell Tech, USA);  Steven Goldfeder (Cornell Tech, USA);  Tyler Kell (Cornell Tech, USA);  Yunqi Li (UIUC,  USA);  Xueyuan Zhao (Carnegie Mellon University, USA);  Iddo Bentov (Cornell Tech, USA);   Lorenz Breidenbach (ETH Zurich, Switzerland);  Ari Juels (Cornell Tech, USA)
+    + Keyword: *`Attacks`*
 
 + 🎓 [Proof-of-Stake Sidechains](https://eprint.iacr.org/2018/1239.pdf). Peter Gaži, Aggelos Kiayias, Dionysis Zindros. IEEE S&P'19.  
     + Keyword: *`Sidechain`*
