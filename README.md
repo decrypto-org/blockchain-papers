@@ -11,7 +11,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ### CCF A
 > Conference
-- [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2019
+- [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2020 Summer
 - [S&P(IEEE Security and Privacy)](#sp-a) <= 2020
 - [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2019
 - [NDSS(Network and Distributed System Security)](#ndss-a) <= 2019
@@ -64,7 +64,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
     + *`Sidechains`*, *`Programmability`*
     + *`Interoperability`*
 + *`Security`*
-    + *`Threshold Signature`*
+    + *`Multi-signature`*, *`Threshold Signature`*
     + *`Formal Methods`*, *`sMPC`*
     + *`Post-quantum`*
 + *`Applications`*
@@ -75,6 +75,9 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ---
 
 ## USENIX Security (A)
+
++ 🎓 [Pixel: Multi-signatures for Consensus](https://smeiklej.com/files/usenix19.pdf). Manu Drijvers, DFINITY; Sergey Gorbunov, Algorand and University of Waterloo; Gregory Neven, DFINITY; Hoeteck Wee, Algorand and CNRS, ENS, PSL. USENIX Security'20.
+    + Keyword: **Pixel**, *`Multi-signature`*, *`PoS`*
 
 + 🎓 [Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/files/usenix19.pdf). Haaroon Yousaf, George Kappos, and Sarah Meiklejohn. USENIX Security'19.
     + Keyword: *`Transaction Analysis`*
