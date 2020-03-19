@@ -106,10 +106,6 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 + 🎓 [An Empirical Analysis of Anonymity in Zcash](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kappos.pdf). George Kappos, Haaroon Yousaf, Mary Maller, and Sarah Meiklejohn. USENIX Security'18 Security Symposium.
     + Keyword: *`Anonymity Privacy`*
 
-+ 🎓 [Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf). Harry Kalodner, Steven Goldfeder, Xiaoqi Chen, S. Matthew Weinberg,
-and Edward W. Felten. USENIX Security'18 Security Symposium.
-    + Keyword: *`Smart Contracts`*
-
 - 🎓 [Smartpool: Practical decentralized pooled mining](https://eprint.iacr.org/2017/019.pdf). Luu L, Velner Y, Teutsch J, Saxena P. USENIX Security'17.
     + Keyword: *`Mining`*
 
