@@ -17,7 +17,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [NDSS(Network and Distributed System Security)](#ndss-a) <= 2019
 - [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2019
 - [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2019
-- [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a) <= 2019
+- [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a) <= 2020
 - [SOSP(ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019
 - [NSDI(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2019
 - [VLDB(International Conference on Very Large Data Bases)](#vldb-a) <= 2019
@@ -60,7 +60,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
     + *`Mixing`*, *`ZKP`*(Zero-Knowledge Proof), *`Ring Signature`*, *`Blind Signature`*, *`RingCT`*, *`Threshold Signature`*
 + *`Scalability`*: 
     + *`Layer 2`*
-        + *`Payment Channel`*, *`Payment Networks`*
+        + *`Payment Channel`*, *`Payment Channel Networks`*
     + *`Sidechains`*, *`Programmability`*
     + *`Interoperability`*
 + *`Security`*
@@ -161,7 +161,7 @@ and Edward W. Felten. USENIX Security'18 Security Symposium.
     + Keyword: *`Mining`*
 
 + 🎓 [Perun: Virtual payment hubs over cryptocurrencies](https://eprint.iacr.org/2017/635.pdf) Dziembowski S, Eckey L, Faust S, Malinowski D. IEEE S&P'19.
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
 
 + 🎓 [Lay Down the Common Metrics: Evaluating Proof-of-Work Consensus Protocols’ Security](https://www.esat.kuleuven.be/cosic/publications/article-3005.pdf) Ren Zhang, Bart Preneel. IEEE S&P'19.
     + Keyword: *`Consensus`*, *`PoW`*
@@ -233,7 +233,7 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
     + Keyword: **SAMPL**, *`Ledger`*
 
 + 🎓 [Atomic Multi-Channel Updates with Constant Collateral in Payment-Channel Networks](https://eprint.iacr.org/2019/583.pdf). Christoph Egger, Pedro Moreno-Sanchez, Matteo Maffei. CCS'19. 
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
 
 + 🎓 [Fast multiparty threshold ecdsa with fast trustless setup](https://eprint.iacr.org/2019/114.pdf). Gennaro R, Goldfeder S. CCS'18.
     + Keyword: *`Wallets`*, *`Threshold Signature`*
@@ -242,7 +242,7 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
     + Keyword: *`Wallets`*, *`Threshold Signature`*
 
 + 🎓 [General State Channel Networks](https://eprint.iacr.org/2018/320.pdf) Dziembowski S, Faust S, Hostáková K. CCS'18.
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
 
 - 🎓 [Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability](https://eprint.iacr.org/2018/378.pdf). Badertscher C, Gazi P, Kiayias A, Russell A, Zikas V. CCS'18.
     + Keyword: *`PoS`*
@@ -257,13 +257,13 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
     + Keyword: *`Economics`*
 
 - 🎓 [Concurrency and Privacy with Payment-Channel Networks](https://eprint.iacr.org/2017/820.pdf). Malavolta G, Moreno-Sanchez P, Kate A, Maffei M, Ravi S. CCS '17.
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
 
-+ 🎓 [Revive: Rebalancing Off-Blockchain Payment Networks](https://eprint.iacr.org/2017/823.pdf). Khalil, R., & Gervais, A. CCS'17.
-    + Keyword: *`Payment Networks`*
++ 🎓 [Revive: Rebalancing Off-Blockchain Payment Channel Networks](https://eprint.iacr.org/2017/823.pdf). Khalil, R., & Gervais, A. CCS'17.
+    + Keyword: *`Payment Channel Networks`*
 
 - 🎓 [Bolt: Anonymous Payment Channels for Decentralized Currencies](https://eprint.iacr.org/2016/701.pdf) Green M, Miers I. CCS'16.
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
 
 + 🎓 [The Honey Badger of BFT Protocols](https://infoscience.epfl.ch/record/222858/files/199.pdf). Miller A, Xia Y, Croman K, Shi E, Song D. CCS'16.
     + Keyword: *`System`*
@@ -323,6 +323,19 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
     + Keyword: *`Consensus`*, *`PoW`*, *`Mining`*
 
 ## NDSS (A)
+- 🎓 [Bobtail: Improved Blockchain Security with Low-Variance Mining](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23095.pdf). George Bissias (University of Massachusetts Amherst), Brian N. Levine (University of Massachusetts Amherst). NDSS'20
+    + Keyword: *`Mining`*
+
+- 🎓 [Snappy: Fast On-chain Payments with Practical Collaterals](). Vasilios Mavroudis (University College London), Karl Wüst (ETH Zurich), Aritra Dhar (ETH Zurich), Kari Kostiainen (ETH Zurich), Srdjan Capkun (ETH Zurich). NDSS'20
+
+- 🎓 [The Attack of the Clones Against Proof-of-Authority](). 
+Parinya Ekparinya (University of Sydney), Vincent Gramoli (University of Sydney and CSIRO-Data61), Guillaume Jourjon (CSIRO-Data61). NDSS'20
+ 
+- 🎓 [Broken Metre: Attacking Resource Metering in EVM](). 
+Daniel Perez (Imperial College London), Benjamin Livshits (Imperial College London, UCL Centre for Blockchain Technologies, and Brave Software). NDSS'20
+ 
+- 🎓 [Finding Safety in Numbers with Secure Allegation Escrows](). 
+Venkat Arun (Massachusetts Institute of Technology), Aniket Kate (Purdue University), Deepak Garg (Max Planck Institute for Software Systems), Peter Druschel (Max Planck Institute for Software Systems), Bobby Bhattacharjee (University of Maryland). NDSS'20
 
 - 🎓 [Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Malavolta G, Moreno-Sanchez P, Schneidewind C, Kate A, Maffei M. NDSS'19.
     + Keyword: *`Payment Channels`*
@@ -424,13 +437,21 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 
 ## INFOCOM (A)
 
-+ 🎓 Corking by Forking: Vulnerability Analysis of Blockchain. Shengling Wang and Chenyu Wang, Qin Hu. INFOCOM'19
++ 🎓 [Modeling the Impact of Network Connectivity on Consensus Security of Proof-of-Work Blockchain](https://arxiv.org/pdf/2002.08912.pdf). 
+Yang Xiao (Virginia Tech, USA); Ning Zhang (Washington University in St. Louis, USA); Wenjing Lou and Thomas Hou (Virginia Tech, USA)
+    + Keyword: *`Consensus-PoW`*, *`Security`*
+
++ 🎓 [Secure Balance Planning of Off-blockchain Payment Channel Networks](https://www.u-aizu.ac.jp/~pengli/files/pcn_planning_infocom2020.pdf). 
+Peng Li and Toshiaki Miyazaki (The University of Aizu, Japan); Wanlei Zhou (University of Technology Sydney, Australia)
+    + Keyword: *`Payment Channel Networks`*
+
++ 🎓 [Corking by Forking: Vulnerability Analysis of Blockchain](https://sci-hub.tw/https://ieeexplore.ieee.org/document/8737490). Shengling Wang and Chenyu Wang, Qin Hu. INFOCOM'19
     + Keyword: *`Security`*
 
-+ 🎓 ACCEL: Accelerating the Bitcoin Blockchain for High-throughput, Low-latency Applications. Adiseshu Hari, Murali Kodialam, T. V Lakshman. INFOCOM'19
++ 🎓 [ACCEL: Accelerating the Bitcoin Blockchain for High-throughput, Low-latency Applications](https://sci-hub.tw/https://ieeexplore.ieee.org/document/8737556). Adiseshu Hari, Murali Kodialam, T. V Lakshman. INFOCOM'19
     + Keyword: *`Scalability`*
 
-+ 🎓 A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement. Huan Zhou, Xue Ouyang, Zhijie Ren, Jinshu Su, Cees de Laat and Zhiming Zhao. INFOCOM'19
++ 🎓 [A Blockchain based Witness Model for Trustworthy Cloud Service Level Agreement Enforcement](https://pure.uva.nl/ws/files/42160225/Blockchain_based_Witness_Model.pdf). Huan Zhou, Xue Ouyang, Zhijie Ren, Jinshu Su, Cees de Laat and Zhiming Zhao. INFOCOM'19
     + Keyword: *`Application`*
 
 + 🎓 [Stochastic Models and Wide-Area Network Measurements for Blockchain Design and Analysis](https://www.researchgate.net/publication/321369565_Stochastic_Models_and_Wide-Area_Network_Measurements_for_Blockchain_Design_and_Analysis). Nikolaos Papadis, Sem Borst, Anwar Walid, Mohamed Grissa, Leandros Tassiulas. INFOCOM'18
@@ -442,7 +463,7 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 ## SOSP (A)
 
 + 🎓 [Teechain: A Secure Payment Network with Asynchronous Blockchain Access](https://arxiv.org/pdf/1707.05454.pdf). Joshua Lind, Oded Naor, Ittay Eyal, Florian Kelbert, Peter Pietzuch, Emin Gun Sirer. SOSP'19
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
 
 + 🎓 [Fast and Secure Global Payments with Stellar](https://www.scs.stanford.edu/~dm/home/papers/lokhava:stellar-core.pdf). Marta Lokhava, Giuliano Losa, David Mazières, Graydon Hoare, Nicolas Barry, Eliezer Gafni, Jonathan Jove, Rafał Malinowski, Jed McCaleb. SOSP'19
     + Keyword: *`Consensus`*
@@ -694,7 +715,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 - 🎓 [How to profit from payments channels](http://fc20.ifca.ai/preproceedings/201.pdf). Oguzhan Ersoy (Delft University of Technology), Stefanie Roos (Delft University of Technology), Zekeriya Erkin (Delft University of Technology). FC'20
     + Keyword: *`Scalability`*, *`Layer 2`*
 
-- 🎓 [Boomerang: Redundancy Improves Latency and Throughput in Payment Networks](http://fc20.ifca.ai/preproceedings/12.pdf). Joachim Neu (Stanford University), Vivek Bagaria (Stanford University), David Tse (Stanford University). FC'20
+- 🎓 [Boomerang: Redundancy Improves Latency and Throughput in Payment Channel Networks](http://fc20.ifca.ai/preproceedings/12.pdf). Joachim Neu (Stanford University), Vivek Bagaria (Stanford University), David Tse (Stanford University). FC'20
     + Keyword: *`Scalability`*, *`Layer 2`*
 
 - 🎓 [DLSAG: Non-Interactive Refund Transactions For Interoperable Payment Channels in Monero](http://fc20.ifca.ai/preproceedings/124.pdf). Pedro Moreno-Sanchez (TU Wien), Arthur Blue, Duc Le (Purdue University), Sarang Noether (Monero Research Lab), Brandon Goodell (Monero Research Lab), Aniket Kate (Purdue University). FC'20
@@ -710,7 +731,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
     + Keyword: *`Privacy`*, *`Blind Signatures`*
 
 - 🎓 [Two-Party State Channels with Assertions](https://fc19.ifca.ai/wtsc/StateAssertions.pdf). Buckland C, McCorry P. FC '19.
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
 
 - 🎓 [Snow White: Provably Secure Proofs of Stake.](https://fc19.ifca.ai/preproceedings/141-preproceedings.pdf). Bentov I, Pass R, Shi E. FC '19.
     + Keyword: *`PoS`*
@@ -722,7 +743,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
     + Keyword: *`Attacks`*
 
 - 🎓 [Teechan: Payment Channels Using Trusted Execution Environments](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final21.pdf). Lind J, Eyal I, Pietzuch P, Sirer EG. FC BITCOIN '17.
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
 
 - 🎓 [A Proof-of-Stake protocol for consensus on Bitcoin subchains](http://eprint.iacr.org/2017/417.pdf). Bartoletti M, Lande S, & Podda A S. FC'17.
     + Keyword: *`PoS`*
@@ -926,31 +947,31 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
     + Keyword: *`Privacy`*, *`Threshold Signature`*, *`Mixing`*
 
 - [SoK: A Taxonomy for Layer-2 Scalability Related Protocols for Cryptocurrencies](https://eprint.iacr.org/2019/352.pdf). Jourenko M, Kurazumi K, Larangeira M, Tanaka K. '19.
-    + Keyword: *`Payment Networks`*, **SoK**
+    + Keyword: *`Payment Channel Networks`*, **SoK**
 
 - [SoK: Off The Chain Transactions](https://eprint.iacr.org/2019/360.pdf). Gudgeon L, Moreno-Sanchez P, Roos S, McCorry P, Gervais A. '19.
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
 
-- [Sprites and State Channels: Payment Networks that Go Faster than Lightning](https://arxiv.org/pdf/1702.05812.pdf) Miller A, Bentov I, Kumaresan R, Cordi C, McCorry P. FC'19.
-    + Keyword: *`Payment Networks`*
+- [Sprites and State Channels: Payment Channel Networks that Go Faster than Lightning](https://arxiv.org/pdf/1702.05812.pdf) Miller A, Bentov I, Kumaresan R, Cordi C, McCorry P. FC'19.
+    + Keyword: *`Payment Channel Networks`*
 
 - [Nitro Protocol](https://eprint.iacr.org/2019/219.pdf). Close T. '19.
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
 
 - [NOCUST – A Non-Custodial 2nd-Layer Financial Intermediary](https://liquidity.network/NOCUST_Liquidity_Network_Paper.pdf). Khalil R, Gervais, A. ICAR'18.
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
 
 - [Counterfactual: Generalized state channels](https://l4.ventures/papers/statechannels.pdf). Coleman J, Horne L, Xuanji L. '18.
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
 
 - [Flare: An Approach to Routing in Lightning Network](https://bitfury.com/content/downloads/whitepaper_flare_an_approach_to_routing_in_lightning_network_7_7_2016.pdf). Prihodko P, Zhigulin S, Sahno M, Ostrovskiy A, Osuntokyn O. '16.
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
 
 - [The bitcoin lightning network: Scalable off-chain instant payments](https://www.weusecoins.com/assets/pdf/library/Lightning%20Network%20Whitepaper.pdf). Poon J, Dryja T. '15.
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
 
 - [Reaching The Ground With Lightning](https://github.com/ElementsProject/lightning/raw/master/doc/deployable-lightning.pdf). Russell R. '15.
-    + Keyword: *`Payment Networks`*, **Deployable Lightning**
+    + Keyword: *`Payment Channel Networks`*, **Deployable Lightning**
 
 - [FlyClient: Super-Light Clients for Cryptocurrencies](https://eprint.iacr.org/2019/226.pdf). B Bünz, L Kiffer, L Luu, M Zamani. IACR'19.
     + Keyword: *`Scalability`*
@@ -1035,7 +1056,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
     + Keyword: *`Marketplaces`*
 
 - 🎓 [A Fast and Scalable Payment Network with Bitcoin Duplex Micropayment Channels](https://pdfs.semanticscholar.org/c8d2/b0c1f9b1ca739c340e9dc4a2ff71b5bfbb2e.pdf). Decker C, Wattenhofer R. SSS'15.
-    + Keyword: *`Payment Networks`*
+    + Keyword: *`Payment Channel Networks`*
     
 <!-- - [On Bitcoin as a public randomness source](https://pdfs.semanticscholar.org/ebae/9c7d91ea8b6a987642040a2142cc5ea67f7d.pdf). Bonneau J, Clark J, Goldfeder S. IACR'15.
     + Keyword: *`Cryptography`* -->
