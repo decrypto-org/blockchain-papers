@@ -14,7 +14,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2020 Summer
 - [S&P(IEEE Security and Privacy)](#sp-a) <= 2020
 - [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2019
-- [NDSS(Network and Distributed System Security)](#ndss-a) <= 2019
+- [NDSS(Network and Distributed System Security)](#ndss-a) <= 2020
 - [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2019
 - [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2019
 - [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a) <= 2020
@@ -265,7 +265,7 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
     + Keyword: *`System`*
 
 - 🎓 [A secure sharding protocol for open blockchains](https://www.comp.nus.edu.sg/~prateeks/papers/Elastico.pdf). Luu L, Narayanan V, Zheng C, Baweja K, Gilbert S, Saxena P. CCS '16.
-    + Keyword: *`Sharding`*, *`Scalability`*, **Elastico**
+    + Keyword: **Elastico**, *`Sharding`*, *`Scalability`*
 
 - 🎓 **[On the instability of Bitcoin without the block reward](http://www.cs.princeton.edu/~smattw/CKWN-CCS16.pdf)**. Carlsten M, Kalodner H, Weinberg SM, Narayanan A. CCS'16.
     + Keyword: *`Economics`*
@@ -286,7 +286,7 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
     + Keyword: *`Smart Contracts`*
 
 - 🎓 **[Making Smart Contracts Smarter](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf)**. Luu L, Chu DH, Olickel H, Saxena P, Hobor A. CCS'16.
-    + Keyword: *`Smart Contracts`*, **Oyente**
+    + Keyword: **Oyente**, *`Smart Contracts`*
 
 - 🎓 [The Ring of Gyges: Investigating the Future of Criminal Smart Contracts](http://www.initc3.org/files/Gyges.pdf). Juels A, Kosba A, Shi E. CCS'16.
     + Keyword: *`Smart Contracts`*
@@ -322,16 +322,18 @@ Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervai
 - 🎓 [Bobtail: Improved Blockchain Security with Low-Variance Mining](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23095.pdf). George Bissias (University of Massachusetts Amherst), Brian N. Levine (University of Massachusetts Amherst). NDSS'20
     + Keyword: *`Mining`*
 
-- 🎓 [Snappy: Fast On-chain Payments with Practical Collaterals](). Vasilios Mavroudis (University College London), Karl Wüst (ETH Zurich), Aritra Dhar (ETH Zurich), Kari Kostiainen (ETH Zurich), Srdjan Capkun (ETH Zurich). NDSS'20
+- 🎓 [Snappy: Fast On-chain Payments with Practical Collaterals](https://arxiv.org/abs/2001.01278.pdf). Vasilios Mavroudis (University College London), Karl Wüst (ETH Zurich), Aritra Dhar (ETH Zurich), Kari Kostiainen (ETH Zurich), Srdjan Capkun (ETH Zurich). NDSS'20
+    + Keyword: *`Scalability`*
 
-- 🎓 [The Attack of the Clones Against Proof-of-Authority](). 
-Parinya Ekparinya (University of Sydney), Vincent Gramoli (University of Sydney and CSIRO-Data61), Guillaume Jourjon (CSIRO-Data61). NDSS'20
- 
-- 🎓 [Broken Metre: Attacking Resource Metering in EVM](). 
+- 🎓 [The Attack of the Clones Against Proof-of-Authority](https://arxiv.org/abs/1902.10244.pdf). Parinya Ekparinya (University of Sydney), Vincent Gramoli (University of Sydney and CSIRO-Data61), Guillaume Jourjon (CSIRO-Data61). NDSS'20
+    + Keyword: *`Attacks`*
+
+- 🎓 [Broken Metre: Attacking Resource Metering in EVM](https://arxiv.org/abs/1909.07220.pdf). 
 Daniel Perez (Imperial College London), Benjamin Livshits (Imperial College London, UCL Centre for Blockchain Technologies, and Brave Software). NDSS'20
- 
-- 🎓 [Finding Safety in Numbers with Secure Allegation Escrows](). 
-Venkat Arun (Massachusetts Institute of Technology), Aniket Kate (Purdue University), Deepak Garg (Max Planck Institute for Software Systems), Peter Druschel (Max Planck Institute for Software Systems), Bobby Bhattacharjee (University of Maryland). NDSS'20
+    + Keyword: *`Attacks`*
+
+- 🎓 [SODA: A Generic Online Detection Framework for Smart Contracts](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24449.pdf). Ting Chen (University of Electronic Science and Technology of China), Rong Cao (University of Electronic Science and Technology of China), Ting Li (University of Electronic Science and Technology of China), Xiapu Luo (The Hong Kong Polytechnic University), Guofei Gu (Texas A&M University), Yufei Zhang (University of Electronic Science and Technology of China), Zhou Liao (University of Electronic Science and Technology of China), Hang Zhu (University of Electronic Science and Technology of China), Gang Chen (Chengdu Kongdi Technology Inc.), Zheyuan He (University of Electronic Science and Technology of China), Yuxing Tang (University of Electronic Science and Technology of China), Xiaodong Lin (University of Guelph), Xiaosong Zhang (University of Electronic Science and Technology of China). NDSS'20
+    + Keyword: *`Smart Contracts`*, *`Formal Methods`*
 
 - 🎓 [Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Malavolta G, Moreno-Sanchez P, Schneidewind C, Kate A, Maffei M. NDSS'19.
     + Keyword: *`Payment Channels`*
