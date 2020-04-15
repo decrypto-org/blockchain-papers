@@ -15,13 +15,14 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [S&P(IEEE Security and Privacy)](#sp-a) <= 2020
 - [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2019
 - [NDSS(Network and Distributed System Security)](#ndss-a) <= 2020
-- [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2019
-- [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2019
+- [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2019 (Calling for paper in 2020)
+- [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2020
 - [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a) <= 2020
-- [SOSP(ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019
+- [SOSP(ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019 (No schedule in 2020)
 - [NSDI(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
-- [VLDB(International Conference on Very Large Data Bases)](#vldb-a) <= 2019
-- [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2019
+- [VLDB(International Conference on Very Large Data Bases)](#vldb-a) <= 2019 (Calling for paper in 2020)
+- [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2019 (Calling for paper in 2020)
+
 > Journal
 + [TOCS(ACM Transactions on Computer Systems)](#tocs-a) <= 2019
 + [TOPLAS(ACM Transactions on Programming Languages & Systems)](#toplas-a) <= 2019
@@ -31,9 +32,9 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ### CCF B
 > Conference
-- [ASIACRYPT(International Conference on the Theory and Application of Cryptology and Information Security)](#asiacrypt-b) <= 2019
-- [ESORICS(European Symposium on Research in Computer Security)](#esorics-b) <= 2019
-- [EuroSys(European Conference on Computer Systems)](#eurosys-b) <= 2019
+- [ASIACRYPT(International Conference on the Theory and Application of Cryptology and Information Security)](#asiacrypt-b) <= 2019 (Calling for paper in 2020)
+- [ESORICS(European Symposium on Research in Computer Security)](#esorics-b) <= 2019 (Calling for paper in 2020)
+- [EuroSys(European Conference on Computer Systems)](#eurosys-b) <= 2020
 - [ICDCS(IEEE International Conference on Distributed Computing Systems)](#icdcs-b) <= 2019
 - [PODC(ACM Symposium on Principles of Distributed Computing)](#podc-b) <= 2019
 - [CoNEXT(ACM Conference on Emerging Networking EXperiments and Technologies)](#conext-b) <= 2019
@@ -407,6 +408,8 @@ Daniel Perez (Imperial College London), Benjamin Livshits (Imperial College Lond
 
 ## EUROCRYPT (A)
 
+> no papers directly related to blockchain in EUROCRYPTO'20
+
 + 🎓 [Consensus through Herding](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_24.pdf). T-H. Hubert Chan Rafael Pass Elaine Shi. EUROCRYPT'19. 
     + Keyword: *`Consensus`*
 
@@ -564,6 +567,8 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
     + Keyword: *`Privacy`*
 
 ## EuroSys (B)
+
+> no papers directly related to blockchain in EUROSYS'20
 
 + 🎓 [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/pdf/1801.10228.pdf). Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo De Caro, David Enyeart, Christopher Ferris, Gennady Laventman, Yacov Manevich, Srinivasan Muralidharan, Chet Murthy, Binh Nguyen, Manish Sethi, Gari Singh, Keith Smith, Alessandro Sorniotti, Chrysoula Stathakopoulou, Marko Vukolić, Sharon Weed Cocco, Jason Yellick. EuroSys'18
     + Keyword: *`System Design`*
