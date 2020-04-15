@@ -19,7 +19,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2019
 - [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a) <= 2020
 - [SOSP(ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019
-- [NSDI(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2019
+- [NSDI(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
 - [VLDB(International Conference on Very Large Data Bases)](#vldb-a) <= 2019
 - [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2019
 > Journal
@@ -473,6 +473,9 @@ Peng Li and Toshiaki Miyazaki (The University of Aizu, Japan); Wanlei Zhou (Univ
     + Keyword: *`Consensus`*
 
 ## NSDI (A)
+
++ 🎓 [High Throughput Cryptocurrency Routing in Payment Channel Networks](https://www.usenix.org/system/files/nsdi20-paper-sivaraman.pdf). Vibhaalakshmi Sivaraman, Massachusetts Institute of Technology; Shaileshh Bojja Venkatakrishnan, Ohio State University; Kathleen Ruan, Carnegie Mellon University; Parimarjan Negi and Lei Yang, Massachusetts Institute of Technology; Radhika Mittal, University of Illinois at Urbana-Champaign; Giulia Fanti, Carnegie Mellon University; Mohammad Alizadeh, Massachusetts Institute of Technology. NSDI'20
+    + Keyword: *`Payment Channel Networks`*, **Spider**
 
 + 🎓 [Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
     + Keyword: *`System`*, **Zones**, **Eventual Atomicity**, **Chu-ko-nu Mining**
