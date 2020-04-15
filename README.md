@@ -48,6 +48,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 + T&I(Telematics and Informatics)
 + EC
 + IACR
++ EuroS&P <= 2020
 
 ## Content Labels
 + *`Composition`*
@@ -1112,6 +1113,9 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 - 🎓 [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf) Lamport L. '00, ACM SIGACT News '01.
     + Keyword: *`Consensus`*
+
+- 🎓 [Accountability in a Permissioned Blockchain:Formal Analysis of Hyperledger Fabric](https://eprint.iacr.org/2020/386.pdf). Ralf Küsters, Daniel Rausch, and Mike Simon (University of Stuttgart). EuroS&P'20
+    + Keyword: *`Formal Methods`*
 
 ## License
 
