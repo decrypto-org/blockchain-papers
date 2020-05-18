@@ -268,6 +268,7 @@ Sompolinsky Y, Lewenberg Y, Zohar A. '16.
 - 🎓 [Decentralized trusted timestamping using the crypto currency bitcoin](https://arxiv.org/pdf/1502.04015.pdf). Gipp B., Meuschke N., Gernandt A. iConference 2015
 - 🎓 [Fair and Robust Multi-Party Computation using a Global Transaction Ledger](https://eprint.iacr.org/2015/574.pdf). Kiayias A., Zhouh S., Zikas V. EUROCRYPT '16.
 
+- [BitFund: A Benevolent Blockchain Funding Network](https://eprint.iacr.org/2020/579.pdf). Hartman D. '20
 
 ## License
 
