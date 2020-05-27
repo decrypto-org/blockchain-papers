@@ -22,6 +22,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [NSDI(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
 - [VLDB(International Conference on Very Large Data Bases)](#vldb-a) <= 2019 (Calling for paper in 2020)
 - [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2019 (Calling for paper in 2020)
+- [SIGMOD(ACM Conference on Management of Data)](#sigmod-a) <= 2020
 
 > Journal
 + [TOCS(ACM Transactions on Computer Systems)](#tocs-a) <= 2019
@@ -57,22 +58,30 @@ If you want to join with us, please feel free to contact me. Then, remember to r
     + *`Network`*, *`Wallets`*, *`Mining`*, *`Smart Contracts`*
     + *`Consensus`*: 
         + BFT, *`PoW`*(Proof of Work), *`PoS`*(Proof of Stake), Proof-of-X, *`DAG`*
-+ *`Attacks`*
 + *`Privacy`*
-    + *`Mixing`*, *`ZKP`*(Zero-Knowledge Proof), *`Ring Signature`*, *`Blind Signature`*, *`RingCT`*, *`Threshold Signature`*
+    + *`Mixing`*,  *`Ring Signature`*, *`RingCT`*
+    + *`ZKP`*(Zero-Knowledge Proof)
+    + *`Blind Signature`*
+    + *`sMPC`*, *`Threshold Signature`*
+    + *`TEE`*
 + *`Scalability`*: 
     + *`Layer 2`*
         + *`Payment Channel`*, *`Payment Channel Networks`*
     + *`Sidechains`*, *`Programmability`*
-    + *`Interoperability`*
++ *`Interoperability`*
 + *`Security`*
     + *`Multi-signature`*, *`Threshold Signature`*
-    + *`Formal Methods`*, *`sMPC`*
+    + *`Formal Methods`*
     + *`Post-quantum`*
 + *`Applications`*
     + *`Crime`*, *`Economics`*, *`Marketplaces`*, *`Sociological`*, *`Anthropological`*
++ *`Attacks`*
 
-> + **Article Types**: *`SoK`*(Systematization of Knowledge), *`Survey`*, *`Review`*, *`Empirical Study`*, *`Short Paper`*, *`Workshop`*
+> + **Article Types**: 
+>   + *`SoK`*(Systematization of Knowledge), *`Survey`*, *`Review`*
+>   + *`Empirical Study`*
+>   + *`Research Paper`*, *`Industrial Paper`*
+>   + *`Short Paper`*, *`Workshop`*
 
 ---
 
@@ -516,6 +525,21 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 - 🎓 [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf). Castro M., Liskov B. OSDI'99.
     + Keyword: *`Consensus`*
 
+## SIGMOD (A)
+
+- 🎓 Confidentiality Support over Financial Grade Consortium Blockchain. 
+Ying Yan (Ant Financial Services Group), Changzheng Wei (Ant Financial Services Group), Xuepeng Guo (Ant Financial Services Group), Xuming Lu (Ant Financial Services Group), Xiaofu Zheng (Ant Financial Services Group), Qi Liu (Ant Financial Services Group), Chenhui Zhou (Ant Financial Services Group), Xuyang Song (Ant Financial Services Group), Boran Zhao (Ant Financial Services Group), Hui Zhang (Ant Financial Services Group), Guofei Jiang (Ant Financial Services Group). SIGMOD'20
+    + Keyword: *`Privacy`*, *`TEE`*
+    + Type: *`Industrial Paper`*
+
+- 🎓 FalconDB: Blockchain-based Collaborative Database. 
+Yanqing Peng (University of Utah), Min Du (University of California, Berkeley), Feifei Li (University of Utah), Raymond Cheng (University of California, Berkeley), Dawn Song (University of California, Berkeley). SIGMOD'20
+    + Keyword: *`Application`*
+    + Type: *`Research Paper`*
+
+- 🎓 A Transactional Perspective on Execute-order-validate Blockchains. Pingcheng Ruan (National University of Singapore), Dumitrel Loghin (National University of Singapore), Quang-Trung Ta (National University of Singapore), Meihui Zhang (Beijing Institute of Technology), Gang Chen (Zhejiang University), Beng Chin Ooi (National University of Singapore). SIGMOD'20
+    + Type: *`Research Paper`*
+
 ## TOCS (A)
 
 - 🎓 [The part-time parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf). Lamport L. TOCS '98.
@@ -535,7 +559,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 
 ## TDSC (A)
 
-- 🎓 Security and privacy in decentralized energy trading through multi-signatures, blockchain and anonymous messaging streams. Aitzhan N Z, Svetinovic D. TDSC'16
+- 🎓 [Security and privacy in decentralized energy trading through multi-signatures, blockchain and anonymous messaging streams](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/7589035). Aitzhan N Z, Svetinovic D. TDSC'16
     + Keyword: *`Applications`*
 
 ## ASIACRYPT (B)
@@ -543,7 +567,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 - 🎓 [Compact multi-signatures for smaller blockchains](https://eprint.iacr.org/2018/483.pdf). Boneh D, Drijvers M, Neven G. ASIACRYPT'18
     + Keyword: *`Wallets`*, *`Threshold Signature`*
 
-- 🎓 Short signatures from the Weil pairing. Boneh D, Lynn B, Shacham H. ASIACRYPT'01
+- 🎓 [Short signatures from the Weil pairing](https://www.iacr.org/archive/asiacrypt2001/22480516.pdf). Boneh D, Lynn B, Shacham H. ASIACRYPT'01
     + Keyword: *`Wallets`*, *`Threshold Signature`*
 
 ## ESORICS (B)
@@ -639,7 +663,7 @@ Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
 + 🎓 [Exact Byzantine Consensus on Undirected Graphs under Local Broadcast Model](https://arxiv.org/pdf/1903.11677.pdf). M. Khan, S. Naqvi, N. Vaidya. PODC'19
     + Keyword: *`Consensus`*, *`BFT`*
 
-+ 🎓 Asymptotically Optimal Validated Asynchronous Byzantine Agreement. I. Abraham, D. Malkhi, A. Spiegelman. PODC'19
++ 🎓 [Asymptotically Optimal Validated Asynchronous Byzantine Agreement](https://dl.acm.org/doi/pdf/10.1145/3293611.3331612). I. Abraham, D. Malkhi, A. Spiegelman. PODC'19
     + Keyword: *`Consensus`*, *`BFT`*
 
 + 🎓 [HotStuff: BFT Consensus with Linearity and Responsiveness](https://www.cs.unc.edu/~reiter/papers/2019/PODC.pdf). M. Yin, I. Abraham, G. Gueta, D. Malkhi, M. Reiter. PODC'19
