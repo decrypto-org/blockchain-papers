@@ -11,7 +11,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ### CCF A
 > Conference
-- [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2020 Summer
+- [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2020 Fall
 - [S&P(IEEE Security and Privacy)](#sp-a) <= 2020
 - [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2019
 - [NDSS(Network and Distributed System Security)](#ndss-a) <= 2020
@@ -86,6 +86,24 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ---
 
 ## USENIX Security (A)
+
++ 🎓 [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf) Joel Frank, Cornelius Aschermann, and Thorsten Holz, Ruhr-University Bochum. USENIX Security'20.
+    + Keyword: *`Smart Contracts`*, *`Formal Methods`*
+
++ 🎓 [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/system/files/sec20-zhou-shunfan.pdf) Shunfan Zhou, Zhemin Yang, and Jie Xiang, Fudan University; Yinzhi Cao, Johns Hopkins University; Min Yang and Yuan Zhang, Fudan University. USENIX Security'20.
+    + Keyword: *`Attacks`*，*`Smart Contracts`*
+
++ 🎓 [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/system/files/sec20-zhang-mengya.pdf) Mengya Zhang, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin, The Ohio State University. USENIX Security'20.
+    + Keyword: *`Attacks`*
+
++ 🎓 [Remote Side-Channel Attacks on Anonymous Transactions](https://www.usenix.org/system/files/sec20-tramer.pdf) Florian Tramer and Dan Boneh, Stanford University; Kenny Paterson, ETH Zurich. USENIX Security'20.
+    + Keyword: *`Anonymity Privacy`*, *`Attacks`*
+
++ 🎓 [BlockSci: Design and applications of a blockchain analysis platform](https://www.usenix.org/system/files/sec20-kalodner.pdf) Harry Kalodner, Malte Möser, and Kevin Lee, Princeton University; Steven Goldfeder, Cornell Tech; Martin Plattner, University of Innsbruck; Alishah Chator, Johns Hopkins University; Arvind Narayanan, Princeton University. USENIX Security'20.
+    + Keyword: *`Security`*
+
++ 🎓 [The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections](https://www.usenix.org/system/files/sec20-specter.pdf) Michael A. Specter, James Koppel, and Daniel Weitzner, MIT. USENIX Security'20.
+    + Keyword: *`Security`*
 
 + 🎓 [Pixel: Multi-signatures for Consensus](https://smeiklej.com/files/usenix19.pdf). Manu Drijvers, DFINITY; Sergey Gorbunov, Algorand and University of Waterloo; Gregory Neven, DFINITY; Hoeteck Wee, Algorand and CNRS, ENS, PSL. USENIX Security'20.
     + Keyword: **Pixel**, *`Multi-signature`*, *`PoS`*
