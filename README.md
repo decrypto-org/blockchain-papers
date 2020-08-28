@@ -11,7 +11,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ### CCF A
 > Conference
-- [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2020 Fall
+- [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2020
 - [S&P(IEEE Security and Privacy)](#sp-a) <= 2020
 - [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2019
 - [NDSS(Network and Distributed System Security)](#ndss-a) <= 2020
@@ -1164,6 +1164,10 @@ Yanqing Peng (University of Utah), Min Du (University of California, Berkeley), 
 - 🎓 [Accountability in a Permissioned Blockchain:Formal Analysis of Hyperledger Fabric](https://eprint.iacr.org/2020/386.pdf). Ralf Küsters, Daniel Rausch, and Mike Simon (University of Stuttgart). EuroS&P'20
     + Keyword: *`Formal Methods`*
 
+- 🎓 [Revisiting Transactional Statistics of High-scalability Blockchain](https://arxiv.org/pdf/2003.02693.pdf). Daniel Perez (Imperial College London); Jiahua Xu (UCL); Benjamin Livshits (Imperial College London). IMC'20
+    + Keyword: *`Scalability`*
+    + Type: *`Empirical Study`*
+    
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
