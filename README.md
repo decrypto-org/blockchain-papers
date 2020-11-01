@@ -23,7 +23,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [SOSP(ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019 (No schedule in 2020)
 - [NSDI(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
 - [VLDB(International Conference on Very Large Data Bases)](#vldb-a) <= 2019 (Calling for paper in 2020)
-- [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2019 (Calling for paper in 2020)
+- [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2020
 - [SIGMOD(ACM Conference on Management of Data)](#sigmod-a) <= 2020
 
 > Journal
@@ -88,9 +88,9 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 > - **Article Types**:
 >   - _`SoK`_(Systematization of Knowledge), _`Survey`_, _`Review`_
->   - _`Empirical Study`_
->   - _`Research Paper`_, _`Industrial Paper`_
->   - _`Short Paper`_, _`Workshop`_
+>   - _`Empirical`_
+>   - _`Research`_(default), _`Industrial`_
+>   - _`Short`_, _`Workshop`_
 
 ---
 
@@ -656,6 +656,22 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## OSDI (A)
 
+- 🎓 [Virtual Consensus in Delos](https://maheshba.bitbucket.io/papers/delos-osdi2020.pdf). Mahesh Balakrishnan, Jason Flinn, Chen Shen, Mihir Dharamshi, Ahmed Jafri, Xiao Shi, Santosh Ghosh, Hazem Hassan, Aaryaman Sagar, Rhed Shi, Jingming Liu, Filip Gruszczynski, Xianan Zhang, Huy Hoang, Ahmed Yossef, Francois Richard, and Yee Jiun Song, Facebook, Inc. OSDI'20
+
+  - Keyword: _`Scalability`_, _`Consensus`_
+
+- 🎓 [Byzantine Ordered Consensus without Byzantine Oligarchy](https://eprint.iacr.org/2020/1300.pdf). Yunhao Zhang, Cornell University; Srinath Setty, Qi Chen, and Lidong Zhou, Microsoft Research; Lorenzo Alvisi, Cornell University. OSDI'20
+
+  - Keyword: _`Scalability`_, _`Consensus`_, **Byzantine Ordered Consensus**
+
+- 🎓 [Microsecond Consensus for Microsecond Applications](https://arxiv.org/pdf/2010.06288.pdf). Marcos K. Aguilera and Naama Ben-David, VMware Research; Rachid Guerraoui, EPFL; Virendra J. Marathe, Oracle Labs; Athanasios Xygkis and Igor Zablotchi, EPFL. OSDI'20
+
+  - Keyword: _`Scalability`_, _`Consensus`_
+
+- 🎓 [Blockene: A High-throughput Blockchain Over Mobile Devices](https://www.usenix.org/conference/osdi20/presentation/satija). Sambhav Satija and Apurv Mehra, Microsoft Research India; Sudheesh Singanamalla, University of Washington; Karan Grover, Muthian Sivathanu, Nishanth Chandran, Divya Gupta, and Satya Lokam, Microsoft Research India. OSDI'20
+
+  - Keyword: _`Scalability`_, _`Consensus`_
+
 - 🎓 [Proving the correct execution of concurrent services in zero-knowledge](https://www.usenix.org/system/files/osdi18-setty.pdf). Srinath Setty, Sebastian Angel, Trinabh Gupta, Jonathan Lee. OSDI'18.
 
   - Keyword: _`Formal Methods`_, _`ZKP`_, **Spice**
@@ -666,13 +682,16 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ## SIGMOD (A)
 
 - 🎓 Confidentiality Support over Financial Grade Consortium Blockchain.
-  Ying Yan (Ant Financial Services Group), Changzheng Wei (Ant Financial Services Group), Xuepeng Guo (Ant Financial Services Group), Xuming Lu (Ant Financial Services Group), Xiaofu Zheng (Ant Financial Services Group), Qi Liu (Ant Financial Services Group), Chenhui Zhou (Ant Financial Services Group), Xuyang Song (Ant Financial Services Group), Boran Zhao (Ant Financial Services Group), Hui Zhang (Ant Financial Services Group), Guofei Jiang (Ant Financial Services Group). SIGMOD'20 + Keyword: _`Privacy`_, _`TEE`_ + Type: _`Industrial Paper`_
+  Ying Yan (Ant Financial Services Group), Changzheng Wei (Ant Financial Services Group), Xuepeng Guo (Ant Financial Services Group), Xuming Lu (Ant Financial Services Group), Xiaofu Zheng (Ant Financial Services Group), Qi Liu (Ant Financial Services Group), Chenhui Zhou (Ant Financial Services Group), Xuyang Song (Ant Financial Services Group), Boran Zhao (Ant Financial Services Group), Hui Zhang (Ant Financial Services Group), Guofei Jiang (Ant Financial Services Group). SIGMOD'20
 
-- 🎓 FalconDB: Blockchain-based Collaborative Database.
-  Yanqing Peng (University of Utah), Min Du (University of California, Berkeley), Feifei Li (University of Utah), Raymond Cheng (University of California, Berkeley), Dawn Song (University of California, Berkeley). SIGMOD'20 + Keyword: _`Application`_ + Type: _`Research Paper`_
+  - Keyword: _`Privacy`_, _`TEE`_
+  - Type: _`Industrial`_
 
-- 🎓 A Transactional Perspective on Execute-order-validate Blockchains. Pingcheng Ruan (National University of Singapore), Dumitrel Loghin (National University of Singapore), Quang-Trung Ta (National University of Singapore), Meihui Zhang (Beijing Institute of Technology), Gang Chen (Zhejiang University), Beng Chin Ooi (National University of Singapore). SIGMOD'20
-  - Type: _`Research Paper`_
+- 🎓 [FalconDB: Blockchain-based Collaborative Database](http://www.cs.utah.edu/~lifeifei/papers/falcondb.pdf). Yanqing Peng (University of Utah), Min Du (University of California, Berkeley), Feifei Li (University of Utah), Raymond Cheng (University of California, Berkeley), Dawn Song (University of California, Berkeley). SIGMOD'20
+
+  - Keyword: _`Application`_
+
+- 🎓 [A Transactional Perspective on Execute-order-validate Blockchains](https://arxiv.org/pdf/2003.10064.pdf). Pingcheng Ruan (National University of Singapore), Dumitrel Loghin (National University of Singapore), Quang-Trung Ta (National University of Singapore), Meihui Zhang (Beijing Institute of Technology), Gang Chen (Zhejiang University), Beng Chin Ooi (National University of Singapore). SIGMOD'20
 
 ## TOCS (A)
 
@@ -880,7 +899,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - 🎓 [Stake Shift in Major Cryptocurrencies: An Empirical Study](http://fc20.ifca.ai/preproceedings/195.pdf). Rainer Stütz (Austrian Institute of Technology), Peter Gaži (IOHK), Bernhard Haslhofer (Austrian Institute of Technology), Jacob Illium (Chainalysis). FC'20
 
   - Keyword: _`Consensus`_
-  - Type: _`Empirical Study`_
+  - Type: _`Empirical`_
 
 - 🎓 [Coded Merkle Tree: Solving Data Availability Attacks in Blockchains](http://fc20.ifca.ai/preproceedings/47.pdf). Mingchao Yu (University of Southern California), Saeid Sahraei (University of Southern California), Songze Li, Salman Avestimehr (University of Southern California), Sreeram Kannan (University of Washington), Pramod Viswanath (University of Illinois at Urbana-Champaign). FC'20
 
@@ -1439,7 +1458,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [Revisiting Transactional Statistics of High-scalability Blockchain](https://arxiv.org/pdf/2003.02693.pdf). Daniel Perez (Imperial College London); Jiahua Xu (UCL); Benjamin Livshits (Imperial College London). IMC'20
   - Keyword: _`Scalability`_
-  - Type: _`Empirical Study`_
+  - Type: _`Empirical`_
 
 ## License
 
