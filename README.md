@@ -17,7 +17,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [S&P(IEEE Security and Privacy)](#sp-a) <= 2020
 - [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2020
 - [NDSS(Network and Distributed System Security)](#ndss-a) <= 2020
-- [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2019 (Calling for paper in 2020)
+- [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2020
 - [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2020
 - [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a) <= 2020
 - [SOSP(ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019 (No schedule in 2020)
@@ -495,6 +495,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Consensus`_, **RSCoin**
 
 ## CRYPTO (A)
+
+- 🎓 [Order-Fairness for Byzantine Consensus](https://eprint.iacr.org/2020/269.pdf). Mahimna Kelkar, Fan Zhang, Steven Goldfeder, Ari Juels. CRYPTO'20
+
+  - Keyword: _`Consensus`_
 
 - 🎓 [Two-party ECDSA from hash proof systems and efficient instantiations](https://hal.archives-ouvertes.fr/hal-02281931/file/CRYPTO19_2pECDSA_extended.pdf). Castagnos G, Catalano D, Laguillaumie F, et al. CRYPTO'19.
 
@@ -1407,7 +1411,9 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Smart Contracts`_, **Ethereum**
 
 - [Distributed Cryptography Based on the Proofs of Work](https://eprint.iacr.org/2014/796.pdf). Andrychowicz M, and Dziembowski S. IACR'14.
+
   - Keyword: _`Consensus`_, _`PoW`_
+
 - [Anonymous Byzantine Consensus from Moderately-Hard Puzzles: A Model for Bitcoin](https://socrates1024.s3.amazonaws.com/consensus.pdf). Miller A, LaViola JJ Jr. '14.
 
   - Keyword: _`Consensus`_
