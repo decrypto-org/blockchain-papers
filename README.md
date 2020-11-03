@@ -22,7 +22,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a) <= 2020
 - [SOSP(ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019 (No schedule in 2020)
 - [NSDI(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
-- [VLDB(International Conference on Very Large Data Bases)](#vldb-a) <= 2019 (Calling for paper in 2020)
+- [VLDB(International Conference on Very Large Data Bases)](#vldb-a) <= 2020
 - [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2020
 - [SIGMOD(ACM Conference on Management of Data)](#sigmod-a) <= 2020
 
@@ -90,7 +90,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 >   - _`SoK`_(Systematization of Knowledge), _`Survey`_, _`Review`_
 >   - _`Empirical`_
 >   - _`Research`_(default), _`Industrial`_
->   - _`Short`_, _`Workshop`_
+>   - _`Short`_, _`Workshop`_, _`Demo`_
 
 ---
 
@@ -635,6 +635,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Consensus-PoW`_
 
 ## VLDB (A)
+
+- 🎓 [Scalable, Resilient and Configurable Permissioned Blockchain Fabric](http://www.vldb.org/pvldb/vol13/p2893-rahnama.pdf), Sajjad Rahnama (University of California Davis); Suyash Gupta (University of California Davis); Thamir Qadah (Purdue University); Jelle Hellings (University of California Davis); Mohammad Sadoghi (University of California, Davis). VLDB'20
+
+  - Type: _`Demo`_
 
 - 🎓 [A Demonstration of Sterling: A Privacy-Preserving Data Marketplace](http://www.vldb.org/pvldb/vol11/p2086-hynes.pdf). Nick Hynes1, David Dao, David Yan, Raymond Cheng, Dawn Song. VLDB'19.
 
