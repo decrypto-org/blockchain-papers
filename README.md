@@ -7,6 +7,10 @@ Thanks to the excellent work of [decrypto-org/blockchain-papers](https://github.
 
 If you want to join with us, please feel free to contact me. Then, remember to read `CONTRIBUTING.md` before adding papers.
 
+## News
+
+- Added ASE'20
+
 ## Conference Information
 
 ### CCF A
@@ -25,6 +29,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [VLDB(International Conference on Very Large Data Bases)](#vldb-a) <= 2020
 - [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2020
 - [SIGMOD(ACM Conference on Management of Data)](#sigmod-a) <= 2020
+- [ASE(International Conference on Automated Software Engineering)](#ase-a) <= 2020
 
 > Journal
 
@@ -39,10 +44,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 > Conference
 
 - [ASIACRYPT(International Conference on the Theory and Application of Cryptology and Information Security)](#asiacrypt-b) <= 2019 (Calling for paper in 2020)
-- [ESORICS(European Symposium on Research in Computer Security)](#esorics-b) <= 2019 (Calling for paper in 2020)
+- [ESORICS(European Symposium on Research in Computer Security)](#esorics-b) <= 2020
 - [EuroSys(European Conference on Computer Systems)](#eurosys-b) <= 2020
 - [ICDCS(IEEE International Conference on Distributed Computing Systems)](#icdcs-b) <= 2019
-- [PODC(ACM Symposium on Principles of Distributed Computing)](#podc-b) <= 2019
+- [PODC(ACM Symposium on Principles of Distributed Computing)](#podc-b) <= 2020
 - [CoNEXT(ACM Conference on Emerging Networking EXperiments and Technologies)](#conext-b) <= 2019
 
 ### CCF C
@@ -66,7 +71,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - _`System`_
   - _`Network`_, _`Wallets`_, _`Mining`_, _`Smart Contracts`_
   - _`Consensus`_:
-    - BFT, _`PoW`_(Proof of Work), _`PoS`_(Proof of Stake), Proof-of-X, _`DAG`_
+    - _`BFT`_, _`PoW`_(Proof of Work), _`PoS`_(Proof of Stake), _`Proof-of-X`_, _`DAG`_
 - _`Privacy`_
   - _`Mixing`_, _`Ring Signature`_, _`RingCT`_
   - _`ZKP`_(Zero-Knowledge Proof)
@@ -89,7 +94,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 > - **Article Types**:
 >   - _`SoK`_(Systematization of Knowledge), _`Survey`_, _`Review`_
 >   - _`Empirical`_
->   - _`Research`_(default), _`Industrial`_
+>   - _`Research`_(default), _`Industrial`_, _`Tool`_
 >   - _`Short`_, _`Workshop`_, _`Demo`_
 
 ---
@@ -716,6 +721,24 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - 🎓 [Consensus in the Presence of Partial Synchrony](https://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf). Dwork S., Lynch N. '88. JACM '88.
   - Keyword: _`Consensus`_
 
+## ASE (A)
+
+- 🎓 [Demystifying Loops in Smart Contracts](https://fredfeng.github.io/papers/ase20-consul.pdf).
+  Benjamin Mariano (University of Texas at Austin), Yanju Chen (University of California, Santa Barbara), Yu Feng (University of California, Santa Barbara), Shuvendu K. Lahiri (Microsoft Research), and Isil Dillig (University of Texas at Austin). ASE'20
+
+- 🎓 [Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts](https://yuleisui.github.io/publications/ase20.pdf). Yinxing Xue (University of Science and Technology of China), Mingliang Ma (University of Science and Technology of China), Yun Lin (National University of Singapore), Yulei Sui (University of Technology Sydney), Jiaming Ye (University of Science and Technology of China), and Tianyong Peng (University of Science and Technology of China). ASE'20
+
+- 🎓 [Summary-Based Symbolic Evaluation for Smart Contracts](https://homes.cs.washington.edu/~emina/doc/solar.ase20.pdf). Yu Feng (University of California, Santa Barbara), Emina Torlak (University of Washington), and Rastislav Bodik (University of
+  Washington). ASE'20
+
+- 🎓 [SmartBugs: A Framework to Analyze Solidity Smart Contracts](https://www.inesc-id.pt/publications/15467/pdf/). João Ferreira (INESC-ID & IST, University of Lisbon, Portugal), Pedro Cruz (INESC-ID & IST, University of Lisbon, Portugal), Thomas Durieux (KTH Royal Institute of Technology, Sweden), and Rui Abreu (INESC-ID &
+  IST, University of Lisbon, Portugal). ASE'20
+
+  - Type: _`Tool`_
+
+- 🎓 [EXPRESS: An Energy-Efficient and Secure Framework for Mobile Edge Computing and Blockchain based Smart Systems](https://drive.google.com/file/d/1VtUJY6IY4SOcLAz_690nTYgHxj3xCeQs/view). Jia Xu (Anhui University, China), Xiao Liu (Deakin University, Australia), Xuejun Li (Anhui University, China), Lei Zhang Antwork Robotics Co., Ltm.), and Yun Yang (Swinburne University of Technology, Australia). ASE'20
+  - Type: _`Tool`_
+
 ## Journal of Cryptology (A)
 
 ## TDSC (A)
@@ -734,7 +757,35 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## ESORICS (B)
 
-- 🎓 [Incentives for Harvesting Attack in Proof of Work Mining Pools](https://link.springer.com/chapter/10.1007/978-3-030-29959-0_34). Zolotavkin Y, & Kuchta V. ESORICS'19.
+- 🎓 [Anonymity Preserving Byzantine Vector Consensus](https://gramoli.redbellyblockchain.io/web/doc/pubs/anonymous-vote-ESORICS20.pdf). Christian Cachin, Daniel Collins, Tyler Crain, Vincent Gramoli. ESORICS'20
+
+  - Keyword: _`Consensus`_
+
+- 🎓 [LegIoT: Ledgered Trust Management Platform for IoT](https://se.informatik.uni-wuerzburg.de/secure-software-systems-group/staff0/alexandra-dmitrienko/?tx_extbibsonomycsl_publicationlist%5BuserName%5D=sssgroup&tx_extbibsonomycsl_publicationlist%5BintraHash%5D=74fa5167627be7d794d5ddd457ba1bbb&tx_extbibsonomycsl_publicationlist%5BfileName%5D=LegIoT_camera_ready-v4.pdf&tx_extbibsonomycsl_publicationlist%5Baction%5D=download&tx_extbibsonomycsl_publicationlist%5Bcontroller%5D=Document&cHash=d3e5fdff7d78ca4cb3b00d4bb92b70ee). Jens Neureither, Alexandra Dmitrienko, David Koisser, Ferdinand Brasser, Ahmad-Reza Sadeghi. ESORICS'20
+
+- 🎓 [Distributed Detection of APTs: Consensus vs. Clustering](https://www.nics.uma.es/pub/papers/1846.pdf). Juan E. Rubio, Cristina Alcaraz, Ruben Rios, Rodrigo Roman, Javier Lopez. ESORICS'20
+
+- 🎓 [How to Model the Bribery Attack: A Practical Quantification Method in Blockchain](https://link.springer.com/chapter/10.1007%2F978-3-030-59013-0_28). Hanyi Sun, Na Ruan, Chunhua Su. ESORICS'20
+
+  - Keyword: _`Attacks`_
+
+- 🎓 [Updatable Blockchains](https://eprint.iacr.org/2020/887.pdf). Michele Ciampi, Nikos Karayannidis, Aggelos Kiayias, Dionysis Zindros. ESORICS'20
+
+- 🎓 [PrivacyGuard: Enforcing Private Data Usage Control with Blockchain and Attested Off-Chain Contract Execution](https://arxiv.org/pdf/1904.07275.pdf). Yang Xiao, Ning Zhang, Jin Li, Wenjing Lou, Y. Thomas Hou. ESORICS'20
+
+- 🎓 [2-hop Blockchain: Combining Proof-of-Work and Proof-of-Stake Securely](https://eprint.iacr.org/2016/716.pdf). Tuyet Duong, Lei Fan, Jonathan Katz, Phuc Thai, Hong-Sheng Zhou. ESORICS'20
+
+  - Keyword: _`Consensus`_, _`PoW`_(Proof of Work), _`PoS`_(Proof of Stake), _`Proof-of-X`_
+
+- 🎓 [Generic Superlight Client for Permissionless Blockchains](https://arxiv.org/pdf/2003.06552.pdf). Yuan Lu, Qiang Tang, Guiling Wang. ESORICS'20
+
+  - Keyword: _`Wallets`_
+
+- 🎓 [LNBot: A Covert Hybrid Botnet on Bitcoin Lightning Network for Fun and Profit](https://arxiv.org/pdf/1912.10617.pdf). Ahmet Kurt, Enes Erdin, Mumin Cebe, Kemal Akkaya, A. Selcuk Uluagac. ESORICS'20
+
+- 🎓 [PGC: Decentralized Confidential Payment System with Auditability](https://eprint.iacr.org/2019/319.pdf). Yu Chen, Xuecheng Ma, Cong Tang, Man Ho Au. ESORICS'20
+
+- 🎓 [Incentives for Harvesting Attack in Proof of Work Mining Pools](https://link.springer.com/chapter/10.1007/978-3-030-29959-0_34). Zolotavkin Y, & Kuchta V. ESORICS'19
 
   - Keyword: _`Attacks`_
 
@@ -829,13 +880,73 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - 🎓 Towards Dependable, Scalable, and Pervasive Distributed Ledgers with Blockchains. Zhang Kaiwen, Jacobsen Hans-Arno.ICDCS'18
 
   - Keyword: _`Consensus`_
-  - Type: _`Short Paper`_
+  - Type: _`Short`_
 
 - 🎓 A Flexible Network Approach to Privacy of Blockchain Transactions. David M¨odinger, Henning Kopp, Frank Kargl and Franz J. Hauck. ICDCS'18
   - Keyword: _`Privacy`_
-  - Type: _`Short Paper`_
+  - Type: _`Short`_
 
 ## PODC (B)
+
+- 🎓 [Genuinely Distributed Byzantine Machine Learning](https://arxiv.org/pdf/1905.03853.pdf). El-Mahdi El-Mhamdi (EPFL), Rachid Guerraoui (EPFL), Arsany Guirguis (EPFL), Lê Nguyên Hoang (EPFL), Sébastien Rouault (EPFL). PODC'20
+
+  - Keyword: _`Consensus`_
+
+- 🎓 [Fault-Tolerance in Distributed Optimization: The Case of Redundancy](https://arxiv.org/pdf/2009.14763.pdf). Nirupam Gupta (Georgetown University), Nitin H. Vaidya (Georgetown University), Probably Approximately Knowing (video), Yoram Moses (Technion), Nitzan Zamir (Technion). PODC'20
+
+  - Keyword: _`Consensus`_
+
+- 🎓 [Positive Aging Admits Fast Asynchronous Plurality Consensus](). Gregor Bankhamer (University of Salzburg), Robert Elsässer (University of Salzburg), Dominik Kaaser (University of Hamburg), Matjaž Krnc (University of Primorska). PODC'20
+
+  - Keyword: _`Consensus`_
+
+- 🎓 [K set-agreement bounds in round-based models through combinatorial topology](). Adam Shimi (IRIT, University of Toulouse), Armando Castaneda (UNAM). PODC'20
+
+  - Keyword: _`Consensus`_
+
+- 🎓 [On Using Null Messages in a Byzantine Setting](). Guy Goren (Technion), Yoram Moses (Technion). PODC'20
+
+  - Type: _`Short`_
+
+- 🎓 [Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited](https://eprint.iacr.org/2020/842.pdf). Yuan Lu (New Jersey Institute of Technology), Zhenliang Lu, Qiang Tang (New Jersey Institute of Technology JDD-NJIT-ISCAS Joint Blockchain Lab), Guiling Wang (New Jersey Institute of Technology). PODC'20
+
+  - Keyword: _`Consensus`_
+
+- 🎓 [Revisiting Asynchronous Fault Tolerant Computation with Optimal Resilience](https://arxiv.org/pdf/2006.16686.pdf). Ittai Abraham (VMware Research), Danny Dolev (Hebrew University), Gilad Stern (Hebrew University). PODC'20
+
+  - Keyword: _`Consensus`_
+
+- 🎓 [Asynchronous Byzantine Approximate Consensus in Directed Networks](https://arxiv.org/pdf/2004.09054.pdf). Dimitris Sakavalas (Boston College), Lewis Tseng (Boston College), Nitin H. Vaidya (Georgetown University). PODC'20
+
+  - Keyword: _`Consensus`_
+
+- 🎓 [On the Subject of Non-Equivocation](https://itu.dk/people/debois/papers/podc20.pdf). Mads Frederik Madsen (IT University of Copenhagen), Søren Debois (IT University of Copenhagen). PODC'20
+
+  - Keyword: _`Consensus`_
+
+- 🎓 [Almost-surely Terminating Asynchronous Byzantine Agreement Protocols with a Constant Expected Running Time](https://eprint.iacr.org/2018/394.pdf). Ashish Choudhury (IIIT Bangalore). PODC'20
+
+  - Keyword: _`Consensus`_, _`BFT`_
+  - Type: _`Short`_
+
+- 🎓 [On the Significance of Consecutive Ballots in Paxos](https://arxiv.org/pdf/2006.01885.pdf). Eli Goldweber (University of Michigan), Nuda Zhang (University of Michigan), Manos Kapritsos (University of Michigan). PODC'20
+
+  - Keyword: _`Consensus`_
+  - Type: _`Short`_
+
+- 🎓 [Not a COINcidence: Sub-Quadratic Asynchronous Byzantine Agreement WHP](https://arxiv.org/pdf/2002.06545.pdf). Shir Cohen (Technion), Idit Keidar (Technion), Alexander Spiegelman (Novi). PODC'20
+
+  - Keyword: _`Consensus`_, _`BFT`_
+  - Type: _`Short`_
+
+- 🎓 [Byzantine Agreement with Unknown Participants and Failures](https://dl.acm.org/doi/pdf/10.1145/3382734.3405740). Pankaj Khanchandani (ETH Zurich), Roger Wattenhofer (ETH Zurich). PODC'20
+
+  - Keyword: _`Consensus`_
+  - Type: _`Short`_
+
+- 🎓 [Perigee: Efficient Peer-to-Peer Network Design for Blockchains](https://arxiv.org/pdf/2006.14186.pdf). Yifan Mao (The Ohio State University), Soubhik Deb (University of Washington Seattle), Shaileshh Bojja Venkatakrishnan (The Ohio State University), Sreeram Kannan (University of Washington Seattle), Kannan Srinivasan (The Ohio State University). PODC'20
+
+  - Keyword: _`Network`_
 
 - 🎓 [The Consensus Number of a Cryptocurrency](https://arxiv.org/pdf/1906.05574.pdf). R. Guerraoui, P. Kuznetsov, M. Monti, M. Pavlovic, D. Seredinschi. PODC'19
 
