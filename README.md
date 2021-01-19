@@ -10,6 +10,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ## News
 
 - **Added NDSS'21!**
+- **Added ICDCS'20!**
 - **Added ACSAC'20!**
 - **Added ASE'20!**
 - **Added PODC'20!**
