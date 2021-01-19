@@ -52,7 +52,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [ESORICS(European Symposium on Research in Computer Security)](#esorics-b) <= 2020
 - [ACSAC(Annual Computer Security Applications Conference)](#acsac-b) <= 2020
 - [EuroSys(European Conference on Computer Systems)](#eurosys-b) <= 2020
-- [ICDCS(IEEE International Conference on Distributed Computing Systems)](#icdcs-b) <= 2019
+- [ICDCS(IEEE International Conference on Distributed Computing Systems)](#icdcs-b) <= 2020
 - [PODC(ACM Symposium on Principles of Distributed Computing)](#podc-b) <= 2020
 - [CoNEXT(ACM Conference on Emerging Networking EXperiments and Technologies)](#conext-b) <= 2020
 
@@ -84,10 +84,12 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - _`Blind Signature`_
   - _`sMPC`_, _`Threshold Signature`_
   - _`TEE`_
+- _`Auditation`_
 - _`Scalability`_:
   - _`Layer 2`_
     - _`Payment Channel`_, _`Payment Channel Networks`_
   - _`Sidechains`_, _`Programmability`_
+  - _`Concurrent`_
 - _`Interoperability`_
 - _`Security`_
   - _`Multi-signature`_, _`Threshold Signature`_
@@ -840,6 +842,53 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`System`_
 
 ## ICDCS (B)
+
+- 🎓 [An Analysis of Blockchain Consistency in Asynchronous Networks: Deriving a Neat Bound](https://arxiv.org/pdf/1909.06587.pdf). Jun Zhao, Jing Tang, Li Zengxiang, Huaxiong Wang, Kwok-Yan Lam and Kaiping Xue. ICDCS'20
+
+- 🎓 [Fair and Efficient Gossip in Hyperledger Fabric](https://arxiv.org/pdf/2004.07060.pdf). Nicolae Berendea, Hugues Mercier, Emanuel Onica and Etienne Rivière. ICDCS'20
+
+  - Keywork: _`Network`_
+
+- 🎓 [Privacy-assured and Lightweight On-chain Auditing of Decentralized Storage](https://arxiv.org/pdf/2005.05531.pdf). Yuefeng Du, Huayi Duan, Anxin Zhou, Cong Wang, Man Ho Au and Qian Wang. ICDCS'20
+
+  - Keywork: _`Auditation`_, _`Privacy`_
+
+- 🎓 [Game theoretical analysis of Cross-Chain Swaps](https://hal.archives-ouvertes.fr/hal-02414356/document). Marianna Belotti, Stefano Secci, Stefano Moretti and Maria Potop-Butucaru. ICDCS'20
+
+  - Keywork: _`Auditation`_, _`Privacy`_
+
+- 🎓 A Certificateless Consortium Blockchain for IoTs. Xiaobing Guo, Qingxiao Guo, Min Liu, Yunhao Wang, Yilong Ma and Bo Yang. ICDCS'20
+
+  - Keywork: _`System`_
+
+- 🎓 [TinyEVM: Off-Chain Smart Contracts on Low-Power IoT](https://research.chalmers.se/publication/516951/file/516951_Fulltext.pdf). Christos Profentzas, Olaf Landsiedel and Magnus Almgren. ICDCS'20
+
+  - Keyword: _`Smart Contracts`_
+
+- 🎓 [Permissioned Blockchain Through the Looking Glass: Architectural and Implementation Lessons Learned](https://arxiv.org/pdf/1911.09208.pdf). Suyash Gupta, Sajjad Rahnama and Mohammad Sadoghi. ICDCS'20
+
+  - Keywork: _`System`_
+
+- 🎓 Toward Trustworthy Blockchain-as-a-Service with Auditing. Yongrae Jo, Jeonghyun Ma and Chanik Park. ICDCS'20
+
+  - Keywork: _`Auditation`_
+
+- 🎓 [Consistency of Proof-of-Stake Blockchains with Concurrent Honest Slot Leaders](https://arxiv.org/pdf/2001.06403.pdf). Aggelos Kiayias, Saad Quader and Alexander Russell. ICDCS'20
+
+  - Keywork: _`Concurrent`_
+
+- 🎓 LVQ: A Lightweight Verifiable Query Approach for Transaction History in Bitcoin. Xiaohai Dai, Jiang Xiao, Wenhui Yang, Chaofan Wang, Jian Chang, Rui Han and Hai Jin. ICDCS'20
+
+- 🎓 [A Study on Nine Years of Bitcoin Transactions: Understanding Real-world Behaviors of Bitcoin Miners and Users](http://bit.csc.lsu.edu/~fchen/publications/papers/icdcs20-bitcoin.pdf). Binbing Hou and Feng Chen. ICDCS'20
+
+- 🎓 [On Exploiting Transaction Concurrency To Speed Up Blockchains](https://arxiv.org/pdf/2003.06128.pdf). Daniel Reijsbergen and Anh Dinh. ICDCS'20
+
+  - Keywork: _`Concurrent`_
+
+- 🎓 SAFEPAY on Ethereum: A Framework For Detecting Unfair Payments in Smart Contracts. Yue Li, Han Liu, Zhiqiang Yang, Qian Ren, Lei Wang and Bangdao Chen. ICDCS'20
+
+  - Keyword: _`Smart Contracts`_, _`Formal Methods`_
+  - Type: _`Demo`_
 
 - 🎓 [Selfish Mining in Ethereum](https://arxiv.org/abs/1901.04620) Jianyu Niu and Chen Feng. ICDCS'19
 
