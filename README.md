@@ -9,7 +9,12 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## News
 
-- Added ASE'20
+- **Added NDSS'21!**
+- **Added ACSAC'20!**
+- **Added ASE'20!**
+- **Added PODC'20!**
+- **Added ESORICS'20!**
+- **Added CoNEXT'20!**
 
 ## Conference Information
 
@@ -20,7 +25,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2020
 - [S&P(IEEE Security and Privacy)](#sp-a) <= 2020
 - [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2020
-- [NDSS(Network and Distributed System Security)](#ndss-a) <= 2020
+- [NDSS(Network and Distributed System Security)](#ndss-a) <= 2021
 - [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2020
 - [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2020
 - [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a) <= 2020
@@ -45,10 +50,11 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - [ASIACRYPT(International Conference on the Theory and Application of Cryptology and Information Security)](#asiacrypt-b) <= 2019 (Calling for paper in 2020)
 - [ESORICS(European Symposium on Research in Computer Security)](#esorics-b) <= 2020
+- [ACSAC(Annual Computer Security Applications Conference)](#acsac-b) <= 2020
 - [EuroSys(European Conference on Computer Systems)](#eurosys-b) <= 2020
 - [ICDCS(IEEE International Conference on Distributed Computing Systems)](#icdcs-b) <= 2019
 - [PODC(ACM Symposium on Principles of Distributed Computing)](#podc-b) <= 2020
-- [CoNEXT(ACM Conference on Emerging Networking EXperiments and Technologies)](#conext-b) <= 2019
+- [CoNEXT(ACM Conference on Emerging Networking EXperiments and Technologies)](#conext-b) <= 2020
 
 ### CCF C
 
@@ -349,7 +355,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [FairSwap: How to fairly exchange digital goods](https://eprint.iacr.org/2018/740) Dziembowski S, Faust S, Eckey L. CCS'18.
 
-  - Keyword: _`System Design`_
+  - Keyword: _`System`_
 
 - 🎓 [RapidChain: Scaling Blockchain via Full Sharding](https://dl.acm.org/ft_gateway.cfm?ftid=2008927&id=3243853). Mahdi Zamani, Mahnush Movahedi, Mariana Raykova. CCS'18.
   - Keyword: _`System`_
@@ -438,6 +444,18 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## NDSS (A)
 
+- 🎓 As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service. Kai Li, Jiaqi Chen, Xianghong Liu, and Yuzhe Tang (Syracuse University); XiaoFeng Wang (Indiana University Bloomington); Xiapu Luo (The Hong Kong Polytechnic University). NDSS'21
+
+  - Keyword: _`Attacks`_, _`Network`_
+
+- 🎓 [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains](https://eprint.iacr.org/2019/857.pdf). Karl Wüst, Loris Diana, and Kari Kostiainen (ETH Zurich); Ghassan Karame (NEC Laboratories Europe GmbH); Sinisa Matetic and Srdjan Capkun (ETH Zurich). NDSS'21
+
+  - Keyword: _`Smart Contracts`_
+
+- 🎓 [SquirRL: Automating Attack Analysis on Blockchain Incentive Mechanisms with Deep Reinforcement Learning](https://arxiv.org/pdf/1912.01798.pdf). Charlie Hou (CMU, IC3); Mingxun Zhou (Peking University); Yan Ji and Phil Daian (Cornell Tech, IC3); Florian Tramèr (Stanford University); Giulia Fanti (CMU, IC3); Ari Juels (Cornell Tech, IC3). NDSS'21
+
+  - Keyword: _`Attacks`_, _`Mining`_
+
 - 🎓 [Bobtail: Improved Blockchain Security with Low-Variance Mining](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23095.pdf). George Bissias (University of Massachusetts Amherst), Brian N. Levine (University of Massachusetts Amherst). NDSS'20
 
   - Keyword: _`Mining`_
@@ -487,7 +505,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 * 🎓 [Chainspace: A Sharded Smart Contracts Platform](https://sheharbano.com/assets/publications/ndss2018-chainspace.pdf). Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, and George Danezis. NDSS'18.
 
-  - Keyword: _`System Design`_
+  - Keyword: _`System`_
 
 * 🎓 [Settling Payments Fast and Private: Efficient Decentralized Routing for Path-Based Transactions](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-3_Roos_paper.pdf). Stefanie Roos, Pedro Moreno-Sanchez, Aniket Kate, and Ian Goldberg. NDSS'18.
   - Keyword: _`Scalability`_, _`Layer 2`_
@@ -562,7 +580,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [Aggregate Cash Systems: A Cryptographic Investigation of Mimblewimble](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_22.pdf). Georg Fuchsbauer Michele Orrù Yannick Seurin. EUROCRYPT'19.
 
-  - Keyword: _`System Design`_
+  - Keyword: _`System`_
 
 - 🎓 [Analysis of the Blockchain Protocol in Asynchronous Networks](https://eprint.iacr.org/2016/454.pdf). Pass R, Seeman L, shelat a. EUROCRYPT'17
   - Keyword: _`Consensus-PoW`_
@@ -808,12 +826,18 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - 🎓 [Coinshuffle: Practical decentralized coin mixing for bitcoin](http://crypsys.mmci.uni-saarland.de/projects/CoinShuffle/coinshuffle.pdf). Ruffing T, Moreno-Sanchez P, Kate A. ESORICS '14.
   - Keyword: _`Privacy`_
 
+## ACSAC (B)
+
+- 🎓 Policy-based Chameleon Hash for Blockchain Rewriting with Black-box Accountability. Yangguang Tian, Pawel Szalachowski, Jianying Zhou (Singapore University of Technology and Design), Yingjiu Li (University of Oregon), Nan Li (University of Newcastle). ACSAC'20
+
+  - Keyword: _`System`_
+
 ## EuroSys (B)
 
 > no papers directly related to blockchain in EUROSYS'20
 
 - 🎓 [Hyperledger Fabric: A Distributed Operating System for Permissioned Blockchains](https://arxiv.org/pdf/1801.10228.pdf). Elli Androulaki, Artem Barger, Vita Bortnikov, Christian Cachin, Konstantinos Christidis, Angelo De Caro, David Enyeart, Christopher Ferris, Gennady Laventman, Yacov Manevich, Srinivasan Muralidharan, Chet Murthy, Binh Nguyen, Manish Sethi, Gari Singh, Keith Smith, Alessandro Sorniotti, Chrysoula Stathakopoulou, Marko Vukolić, Sharon Weed Cocco, Jason Yellick. EuroSys'18
-  - Keyword: _`System Design`_
+  - Keyword: _`System`_
 
 ## ICDCS (B)
 
@@ -980,6 +1004,8 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Consensus`_, _`PoW`_
 
 ## CoNEXT (B)
+
+> no papers directly related to blockchain in CoNEXT'20
 
 - 🎓 [On the Necessity of a Prescribed Block Validity Consensus: Analyzing Bitcoin Unlimited Mining Protocol](https://eprint.iacr.org/2017/686.pdf). Ren Zhang, Bart Preneel. CoNEXT '17
   - Keyword: _`Consensus`_, _`PoW`_
