@@ -194,6 +194,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## S&P (A)
 
+- 🎓 [ZEXE: Enabling Decentralized Private Computation](https://par.nsf.gov/servlets/purl/10175111). Sean Bowe, Alessandro Chiesa, Matthew Green, Ian Miers, Pratyush Mishra, Howard Wu. S&P'20.
+
+  - Keyword: **ZEXE**, _`Smart Contracts`_, _`Privacy`_, _`ZKP`_
+
 - 🎓 [OHIE: Blockchain Scaling Made Simple](https://www.comp.nus.edu.sg/~prateeks/papers/Ohie.pdf). Haifeng Yu (National University of Singapore); Ivica Nikolic (National University of Singapore); Ruomu Hou(National University of Singapore); Prateek Saxena (National University of Singapore). S&P'20.
 
   - Keyword: **OHIE**, _`Scalaility`_, _`Consensus`_
@@ -234,7 +238,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [Perun: Virtual payment hubs over cryptocurrencies](https://eprint.iacr.org/2017/635.pdf) Dziembowski S, Eckey L, Faust S, Malinowski D. IEEE S&P'19.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: **Perun**, _`Payment Channel Networks`_
 
 - 🎓 [Lay Down the Common Metrics: Evaluating Proof-of-Work Consensus Protocols’ Security](https://www.esat.kuleuven.be/cosic/publications/article-3005.pdf) Ren Zhang, Bart Preneel. IEEE S&P'19.
 
@@ -248,8 +252,9 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
   - Keyword: _`Consensus`_, _`Privacy`_
 
-- 🎓 [XCLAIM: Decentralized, Interoperable, Cryptocurrency-Backed Assets](https://eprint.iacr.org/2018/643.pdf).
-  Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervais, William J. Knottenbelt. IEEE S&P'19. + Keyword: _`Scalaility`_
+- 🎓 [XCLAIM: Decentralized, Interoperable, Cryptocurrency-Backed Assets](https://eprint.iacr.org/2018/643.pdf). Alexei Zamyatin, Dominik Harz, Joshua Lind, Panayiotis Panayiotou, Arthur Gervais, William J. Knottenbelt. IEEE S&P'19.
+
+  - Keyword: **XCLAIM**, _`Scalaility`_
 
 - 🎓 [OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding](https://eprint.iacr.org/2017/406.pdf). E. Kokoris-Kogias and P. Jovanovic and L. Gasser and N. Gailly and E. Syta and B. Ford. S&P'18.
 
@@ -263,7 +268,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf). Kosba A, Miller A, Shi E, Wen Z, Papamanthou C. S&P'16
 
-  - Keyword: _`Privacy`_
+  - Keyword: **Hawk**, _`Privacy`_
 
 - 🎓 [The Miner's Dilemma](https://arxiv.org/abs/1411.7099). Ittay Eyal. S&P'15
 
@@ -278,21 +283,21 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Consensus`_, _`PoW`_
 
 - 🎓 [Zerocash: Decentralized anonymous payments from bitcoin](http://ieeexplore.ieee.org/iel7/6954656/6956545/06956581.pdf). Sasson EB, Chiesa A, Garman C, Green M, Miers I, Tromer E, Virza M. S&P'14.
-  - Keyword: _`Privacy`_
+  - Keyword: **Zerocash**, _`Privacy`_
 
 * 🎓 [Zerocoin: Anonymous distributed e-cash from bitcoin](http://ieeexplore.ieee.org/iel7/6547086/6547088/06547123.pdf). Miers I, Garman C, Green M, Rubin AD. S&P'13.
-  - Keyword: _`Privacy`_
+  - Keyword: **Zerocoin**, _`Privacy`_
 
 ## CCS (A)
 
 - 🎓 [eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts](https://arxiv.org/pdf/2005.06227.pdf).
   Clara Schneidewind (TU Wien); Markus Scherer (TU Wien); Ilya Grishchenko (TU Wien); Matteo Maffei (TU Wien)
 
-  - Keyword: _`Smart Contracts`_
+  - Keyword: **eThor**, _`Smart Contracts`_
 
 - 🎓 [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://eprint.iacr.org/2019/835.pdf). Karl Wüst (ETH Zurich); Sinisa Matetic (ETH Zurich); Silvan Egli (ETH Zurich); Kari Kostiainen (ETH Zurich); Srdjan Capkun (ETH Zurich)
 
-  - Keyword: _`Smart Contracts`_
+  - Keyword: **ACE**, _`Smart Contracts`_
 
 - 🎓 [BDoS: Blockchain Denial-of-Service Attacks](https://arxiv.org/pdf/1912.07497.pdf). Michael Mirkin (Technion); Yan Ji (Cornell Tech); Jonathan Pang (Cornell University); Ariah Klages-Mundt (Cornell University); Ittay Eyal (Technion); Ari Juels (Cornell Tech). CCS'20.
 
@@ -300,7 +305,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [Dumbo: Faster Asynchronous BFT Protocols](https://eprint.iacr.org/2020/841.pdf). Bingyong Guo (Institute of Software, Chinese Academy of Sciences; State Key Laboratory of Cryptology; School of Computer Science and Technology, University of Chinese Academy of Sciences; JDD-NJIT-ISCAS Joint Blockchain Lab); Zhenliang Lu (New jersey institute of technology; JDD-NJIT-ISCAS Joint Blockchain Lab); Qiang Tang (New Jersey Institute of Technology; JDD-NJIT-ISCAS Joint Blockchain Lab); Jing Xu (Institute of Software, Chinese Academy of Sciences; JDD-NJIT-ISCAS Joint Blockchain Lab); Zhenfeng Zhang (Institute of Software, Chinese Academy of Sciences; JDD-NJIT-ISCAS Joint Blockchain Lab). CCS'20
 
-  - Keyword: _`Consensus`_
+  - Keyword: **Dumbo**, _`Consensus`_
 
 - 🎓 [Efficient Publicly Verifiable 2PC over a Blockchain with Applications to Financially-Secure Computations](http://homes.sice.indiana.edu/yh33/mypub/pvc.pdf). Ruiyu Zhu, Changchang Ding, Yan Huang. CCS'19.
 
@@ -358,10 +363,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [FairSwap: How to fairly exchange digital goods](https://eprint.iacr.org/2018/740) Dziembowski S, Faust S, Eckey L. CCS'18.
 
-  - Keyword: _`System`_
+  - Keyword: **FairSwap**, _`System`_
 
 - 🎓 [RapidChain: Scaling Blockchain via Full Sharding](https://dl.acm.org/ft_gateway.cfm?ftid=2008927&id=3243853). Mahdi Zamani, Mahnush Movahedi, Mariana Raykova. CCS'18.
-  - Keyword: _`System`_
+  - Keyword: **RapidChain**, _`System`_
 
 * 🎓 [The Gap Game](http://delivery.acm.org/10.1145/3250000/3243737/p713-tsabary.pdf). Tsabary I., Eyal I. CCS'18.
 
@@ -457,22 +462,23 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [SquirRL: Automating Attack Analysis on Blockchain Incentive Mechanisms with Deep Reinforcement Learning](https://arxiv.org/pdf/1912.01798.pdf). Charlie Hou (CMU, IC3); Mingxun Zhou (Peking University); Yan Ji and Phil Daian (Cornell Tech, IC3); Florian Tramèr (Stanford University); Giulia Fanti (CMU, IC3); Ari Juels (Cornell Tech, IC3). NDSS'21
 
-  - Keyword: _`Attacks`_, _`Mining`_
+  - Keyword: **SquirRL**, _`Attacks`_, _`Mining`_
 
 - 🎓 [Bobtail: Improved Blockchain Security with Low-Variance Mining](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23095.pdf). George Bissias (University of Massachusetts Amherst), Brian N. Levine (University of Massachusetts Amherst). NDSS'20
 
-  - Keyword: _`Mining`_
+  - Keyword: **Bobtail**, _`Mining`_
 
 - 🎓 [Snappy: Fast On-chain Payments with Practical Collaterals](https://arxiv.org/abs/2001.01278.pdf). Vasilios Mavroudis (University College London), Karl Wüst (ETH Zurich), Aritra Dhar (ETH Zurich), Kari Kostiainen (ETH Zurich), Srdjan Capkun (ETH Zurich). NDSS'20
 
-  - Keyword: _`Scalability`_
+  - Keyword: **Snappy**, _`Scalability`_
 
 - 🎓 [The Attack of the Clones Against Proof-of-Authority](https://arxiv.org/abs/1902.10244.pdf). Parinya Ekparinya (University of Sydney), Vincent Gramoli (University of Sydney and CSIRO-Data61), Guillaume Jourjon (CSIRO-Data61). NDSS'20
 
   - Keyword: _`Attacks`_
 
-- 🎓 [Broken Metre: Attacking Resource Metering in EVM](https://arxiv.org/abs/1909.07220.pdf).
-  Daniel Perez (Imperial College London), Benjamin Livshits (Imperial College London, UCL Centre for Blockchain Technologies, and Brave Software). NDSS'20 + Keyword: _`Attacks`_
+- 🎓 [Broken Metre: Attacking Resource Metering in EVM](https://arxiv.org/abs/1909.07220.pdf). Daniel Perez (Imperial College London), Benjamin Livshits (Imperial College London, UCL Centre for Blockchain Technologies, and Brave Software). NDSS'20
+
+  - Keyword: _`Attacks`_
 
 - 🎓 [SODA: A Generic Online Detection Framework for Smart Contracts](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24449.pdf). Ting Chen (University of Electronic Science and Technology of China), Rong Cao (University of Electronic Science and Technology of China), Ting Li (University of Electronic Science and Technology of China), Xiapu Luo (The Hong Kong Polytechnic University), Guofei Gu (Texas A&M University), Yufei Zhang (University of Electronic Science and Technology of China), Zhou Liao (University of Electronic Science and Technology of China), Hang Zhu (University of Electronic Science and Technology of China), Gang Chen (Chengdu Kongdi Technology Inc.), Zheyuan He (University of Electronic Science and Technology of China), Yuxing Tang (University of Electronic Science and Technology of China), Xiaodong Lin (University of Guelph), Xiaosong Zhang (University of Electronic Science and Technology of China). NDSS'20
 
@@ -508,14 +514,14 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 * 🎓 [Chainspace: A Sharded Smart Contracts Platform](https://sheharbano.com/assets/publications/ndss2018-chainspace.pdf). Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, and George Danezis. NDSS'18.
 
-  - Keyword: _`System`_
+  - Keyword: **Chainspace**, _`System`_
 
 * 🎓 [Settling Payments Fast and Private: Efficient Decentralized Routing for Path-Based Transactions](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-3_Roos_paper.pdf). Stefanie Roos, Pedro Moreno-Sanchez, Aniket Kate, and Ian Goldberg. NDSS'18.
   - Keyword: _`Scalability`_, _`Layer 2`_
 
 - 🎓 [TumbleBit: An untrusted Bitcoin-compatible anonymous payment hub](https://pdfs.semanticscholar.org/a4ce/62a44770a33d1a19b5553f080d4f12e9e55d.pdf). Heilman E, Alshenibr L, Baldimtsi F, Scafuro A, Goldberg S. NDSS'17.
 
-  - Keyword: _`Privacy`_
+  - Keyword: **TumbleBit**, _`Privacy`_
 
 - 🎓 [Centrally banked cryptocurrencies](https://arxiv.org/pdf/1505.06895.pdf). Danezis G, Meiklejohn S. NDSS'16.
   - Keyword: _`Consensus`_, **RSCoin**
@@ -545,10 +551,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Consensus`_, _`PoS`_
 
 - 🎓 [Ouroboros: A provably secure proof-of-stake blockchain protocol](https://pdfs.semanticscholar.org/1c14/549f7ba7d6a000d79a7d12255eb11113e6fa.pdf). Kiayias A, Russell A, David B, Oliynykov R. CRYPTO'17.
-  - Keyword: _`PoS`_
+  - Keyword: **Ouroboros**, _`PoS`_
 
 * 🎓 [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](http://eprint.iacr.org/2017/573.pdf). Bernardo D, Gazi P, Kiayias A, Russell A. Crypto'17.
-  - Keyword: _`Consensus`_, _`PoS`_
+  - Keyword: **Ouroboros Praos**, _`Consensus`_, _`PoS`_
 
 - 🎓 [How to Use Bitcoin to Design Fair Protocols](https://eprint.iacr.org/2014/129.pdf). Bentov I, Kumaresan R. CRYPTO'14.
 
@@ -605,11 +611,13 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## INFOCOM (A)
 
-- 🎓 [Modeling the Impact of Network Connectivity on Consensus Security of Proof-of-Work Blockchain](https://arxiv.org/pdf/2002.08912.pdf).
-  Yang Xiao (Virginia Tech, USA); Ning Zhang (Washington University in St. Louis, USA); Wenjing Lou and Thomas Hou (Virginia Tech, USA) + Keyword: _`Consensus-PoW`_, _`Security`_
+- 🎓 [Modeling the Impact of Network Connectivity on Consensus Security of Proof-of-Work Blockchain](https://arxiv.org/pdf/2002.08912.pdf). Yang Xiao (Virginia Tech, USA); Ning Zhang (Washington University in St. Louis, USA); Wenjing Lou and Thomas Hou (Virginia Tech, USA)
 
-- 🎓 [Secure Balance Planning of Off-blockchain Payment Channel Networks](https://www.u-aizu.ac.jp/~pengli/files/pcn_planning_infocom2020.pdf).
-  Peng Li and Toshiaki Miyazaki (The University of Aizu, Japan); Wanlei Zhou (University of Technology Sydney, Australia) + Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Consensus-PoW`_, _`Security`_
+
+- 🎓 [Secure Balance Planning of Off-blockchain Payment Channel Networks](https://www.u-aizu.ac.jp/~pengli/files/pcn_planning_infocom2020.pdf). Peng Li and Toshiaki Miyazaki (The University of Aizu, Japan); Wanlei Zhou (University of Technology Sydney, Australia)
+
+  - Keyword: _`Payment Channel Networks`_
 
 - 🎓 [Corking by Forking: Vulnerability Analysis of Blockchain](https://sci-hub.tw/https://ieeexplore.ieee.org/document/8737490). Shengling Wang and Chenyu Wang, Qin Hu. INFOCOM'19
 
@@ -678,8 +686,9 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
   - Keyword: _`Application`_
 
-- 🎓 [BlockchainDB - A Shared Database on Blockchains](http://www.vldb.org/pvldb/vol12/p1597-el-hindi.pdf). Muhammad El-Hindi,
-  Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19. + Keyword: _`Application`_
+- 🎓 [BlockchainDB - A Shared Database on Blockchains](http://www.vldb.org/pvldb/vol12/p1597-el-hindi.pdf). Muhammad El-Hindi, Carsten Binnig, Arvind Arasu, Donald Kossmann, Ravi Ramamurthy. VLDB'19.
+
+  - Keyword: _`Application`_
 
 - 🎓 [Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems](http://www.vldb.org/pvldb/vol12/p975-ruan.pdf). Pingcheng Ruan, Gang Chen, Tien Tuan Anh Dinh, Qian Lin, Beng Chin Ooi, Meihui Zhang. VLDB'19.
 
@@ -708,7 +717,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [Proving the correct execution of concurrent services in zero-knowledge](https://www.usenix.org/system/files/osdi18-setty.pdf). Srinath Setty, Sebastian Angel, Trinabh Gupta, Jonathan Lee. OSDI'18.
 
-  - Keyword: _`Formal Methods`_, _`ZKP`_, **Spice**
+  - Keyword: **Spice**, _`Formal Methods`_, _`ZKP`_
 
 - 🎓 [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf). Castro M., Liskov B. OSDI'99.
   - Keyword: _`Consensus`_
@@ -755,10 +764,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - 🎓 [SmartBugs: A Framework to Analyze Solidity Smart Contracts](https://www.inesc-id.pt/publications/15467/pdf/). João Ferreira (INESC-ID & IST, University of Lisbon, Portugal), Pedro Cruz (INESC-ID & IST, University of Lisbon, Portugal), Thomas Durieux (KTH Royal Institute of Technology, Sweden), and Rui Abreu (INESC-ID &
   IST, University of Lisbon, Portugal). ASE'20
 
-  - Type: _`Tool`_
+  - Type: **SmartBugs**, _`Tool`_
 
 - 🎓 [EXPRESS: An Energy-Efficient and Secure Framework for Mobile Edge Computing and Blockchain based Smart Systems](https://drive.google.com/file/d/1VtUJY6IY4SOcLAz_690nTYgHxj3xCeQs/view). Jia Xu (Anhui University, China), Xiao Liu (Deakin University, Australia), Xuejun Li (Anhui University, China), Lei Zhang Antwork Robotics Co., Ltm.), and Yun Yang (Swinburne University of Technology, Australia). ASE'20
-  - Type: _`Tool`_
+  - Type: **EXPRESS**, _`Tool`_
 
 ## Journal of Cryptology (A)
 
@@ -855,8 +864,6 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keywork: _`Auditation`_, _`Privacy`_
 
 - 🎓 [Game theoretical analysis of Cross-Chain Swaps](https://hal.archives-ouvertes.fr/hal-02414356/document). Marianna Belotti, Stefano Secci, Stefano Moretti and Maria Potop-Butucaru. ICDCS'20
-
-  - Keywork: _`Auditation`_, _`Privacy`_
 
 - 🎓 A Certificateless Consortium Blockchain for IoTs. Xiaobing Guo, Qingxiao Guo, Min Liu, Yunhao Wang, Yilong Ma and Bo Yang. ICDCS'20
 
