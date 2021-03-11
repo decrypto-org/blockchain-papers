@@ -1078,28 +1078,25 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit](https://fc21.ifca.ai/papers/158.pdf). Kaihua Qin(Imperial College London), Liyi Zhou(Imperial College London), Benjamin Livshits(Imperial College London), Arthur Gervais(Imperial College London). FC'21
 
-- Keyword: _`Attacks`_, _`DeFi`_, `Smart Contract`
+  - Keyword: _`Attacks`_, _`DeFi`_, `Smart Contract`
 
 - 🎓 [The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://fc21.ifca.ai/papers/39.pdf). Christof Ferreira Torres( University of Luxembourg), Antonio Iannillo(University of Luxembourg),  Arthur Gervais(Imperial College London), Radu State(Imperial College London). FC'21
 
-- Keyword: _`Smart Contracts`_, _`Attacks`_
+  - Keyword: _`Smart Contracts`_, _`Attacks`_
 
 - 🎓 [Timelocked Bribing](https://fc21.ifca.ai/papers/44.pdf). Tejaswi Nadahalli(ETH Zurich), Majid Khabbazian(University of Alberta), Roger Wattenhofer(ETH Zurich) FC'21
 
-- Keyword: _`HTLC`_, _`Attacks`_
+  - Keyword: _`HTLC`_, _`Attacks`_
 
 - 🎓 [Shielded Computations in Smart Contracts Overcoming Forks](https://fc21.ifca.ai/papers/253.pdf). Vincenzo Botta(University of Salerno), Daniele Friolo(University of Salerno), Daniele Venturi(Sapienza University of Rome), Ivan Visconti(University of Salerno). FC'21
 
-- Keyword: _`MPC`_, _`Smart Contract`_, _`Fork`_
+  - Keyword: _`MPC`_, _`Smart Contract`_, _`Fork`_
 
 - 🎓 [A formal model of Algorand smart contracts](https://fc21.ifca.ai/papers/202.pdf). Massimo Bartoletti(University degli Studi di Cagliari), Andrea Bracciali(Stirling University), Cristian Lepore(Stirling University), Alceste Scalas(Technical University of Denmark), Roberto Zunino(Universit`a degli Studi di Trento). FC'21
 
-- Keyword: _` Algorand`_, _`Smart Contract`_
+  - Keyword: _` Algorand`_, _`Smart Contract`_
 
-
-- 🎓 [The Complex Shape of Anonymity in Cryptocurrencies: Case Studies from a Systematic Approach](https://fc21.ifca.ai/papers/202.pdf). Massimo Bartoletti(University degli Studi di Cagliari), Andrea Bracciali(Stirling University), Cristian Lepore(Stirling University), Alceste Scalas(Technical University of Denmark), Roberto Zunino(Universit`a degli Studi di Trento). FC'21
-
-- Keyword: _` Algorand`_, _`Smart Contract`_
+Payment Trees: 
 
 
 - 🎓 [Everything You Ever Wanted to Know About Bitcoin Mixers (But Were Afraid to Ask](http://fc20.ifca.ai/preproceedings/71.pdf). Federico Franzoni (Arizona State University), Yan Shoshitaishvili (Arizona State University), Ruoyu Wang(Arizona State University), Tiffany Bao(Arizona State University), Adam Doupe(Arizona State University). FC'21
@@ -1161,7 +1158,7 @@ Nordholt(Chainalysis), Bernhard Haslhofer(Austrian Institute of Technology), Mat
 
 
 
-- 🎓 [Payment Trees: Low Collateral Payments for Payment Channel Networks](https://fc21.ifca.ai/papers/237.pdf). Maxim Jourenko Mario Larangeira Keisuke Tanaka. FC'21
+- 🎓 [Payment Trees: Low Collateral Payments for Payment Channel Networks](https://fc21.ifca.ai/papers/74.pdf). Maxim Jourenko Mario Larangeira Keisuke Tanaka. FC'21
 
   - Keyword: _`Collateral`_, _`Attacks`_, _`Payment Channel`_
 
