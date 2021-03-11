@@ -9,6 +9,8 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## News
 
+- **Added FC'21!**
+
 - **Added NDSS'21!**
 - **Added ICDCS'20!**
 - **Added ACSAC'20!**
@@ -1074,9 +1076,137 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## FC (C)
 
-- 🎓 [Leveraging Bitcoin Testnet for Bidirectional Botnet Command and Control Systems](http://fc20.ifca.ai/preproceedings/71.pdf). Federico Franzoni (Universitat Pompeu Fabra), Vanesa Daza (Universitat Pompeu Fabra), Iván Abellán (Universitat Pompeu Fabra). FC'20
+- 🎓 [Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit](https://fc21.ifca.ai/papers/158.pdf). Kaihua Qin(Imperial College London), Liyi Zhou(Imperial College London), Benjamin Livshits(Imperial College London), Arthur Gervais(Imperial College London). FC'21
 
-  - Keyword: _`Attacks`_
+- Keyword: _`Attacks`_, _`DeFi`_, `Smart Contract`
+
+- 🎓 [The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://fc21.ifca.ai/papers/39.pdf). Christof Ferreira Torres( University of Luxembourg), Antonio Iannillo(University of Luxembourg),  Arthur Gervais(Imperial College London), Radu State(Imperial College London). FC'21
+
+- Keyword: _`Smart Contracts`_, _`Attacks`_
+
+- 🎓 [Timelocked Bribing](https://fc21.ifca.ai/papers/44.pdf). Tejaswi Nadahalli(ETH Zurich), Majid Khabbazian(University of Alberta), Roger Wattenhofer(ETH Zurich) FC'21
+
+- Keyword: _`HTLC`_, _`Attacks`_
+
+- 🎓 [Shielded Computations in Smart Contracts Overcoming Forks](https://fc21.ifca.ai/papers/253.pdf). Vincenzo Botta(University of Salerno), Daniele Friolo(University of Salerno), Daniele Venturi(Sapienza University of Rome), Ivan Visconti(University of Salerno). FC'21
+
+- Keyword: _`MPC`_, _`Smart Contract`_, _`Fork`_
+
+- 🎓 [A formal model of Algorand smart contracts](https://fc21.ifca.ai/papers/202.pdf). Massimo Bartoletti(University degli Studi di Cagliari), Andrea Bracciali(Stirling University), Cristian Lepore(Stirling University), Alceste Scalas(Technical University of Denmark), Roberto Zunino(Universit`a degli Studi di Trento). FC'21
+
+- Keyword: _` Algorand`_, _`Smart Contract`_
+
+
+- 🎓 [The Complex Shape of Anonymity in Cryptocurrencies: Case Studies from a Systematic Approach](https://fc21.ifca.ai/papers/202.pdf). Massimo Bartoletti(University degli Studi di Cagliari), Andrea Bracciali(Stirling University), Cristian Lepore(Stirling University), Alceste Scalas(Technical University of Denmark), Roberto Zunino(Universit`a degli Studi di Trento). FC'21
+
+- Keyword: _` Algorand`_, _`Smart Contract`_
+
+
+- 🎓 [Everything You Ever Wanted to Know About Bitcoin Mixers (But Were Afraid to Ask](http://fc20.ifca.ai/preproceedings/71.pdf). Federico Franzoni (Arizona State University), Yan Shoshitaishvili (Arizona State University), Ruoyu Wang(Arizona State University), Tiffany Bao(Arizona State University), Adam Doupe(Arizona State University). FC'21
+
+  - Keyword: _`Bitcoin Mixers`_, _`Anonymity`_
+
+
+- 🎓 [PERIMETER: A network-layer attack on the anonymity of cryptocurrencies](https://fc21.ifca.ai/papers/97.pdf). Maria Apostolaki (ETH Zurich), Cedric Maire (ETH Zurich), Vanbever Laurent(ETH Zurich) FC'21
+
+  - Keyword: _`Attack`_, _`Anonymity`_
+
+
+- 🎓 [An Empirical Analysis of Privacy in the Lightning Network](https://fc21.ifca.ai/papers/130.pdf). George Kappos (University College London), Haaroon Yousaf (University College London), Ania Piotrowska(University College London, Nym Technologies), Sanket Kanjalkar(University of Illinois Urbana-Champaign), Andrew Miller(University of Illinois Urbana-Champaign, IC3), Sarah Meiklejohn(University College London). FC'21
+
+  - Keyword: _`Privacy`_, _`Lightning Network`_
+
+
+- 🎓 [The Complex Shape of Anonymity in Cryptocurrencies: Case Studies from a Systematic Approach](https://fc21.ifca.ai/papers/243.pdf). Niluka Amarasinghe (Queensland University of Technology), Xavier Boyen (Queensland University of Technology), Matthew McKague(Queensland University of Technology). FC'21
+
+  - Keyword: _`Anonymity`_, _`Cryptocurrencies`_
+
+- 🎓 [Cross-Layer Deanonymization Methods in the Lightning Protocol](https://fc21.ifca.ai/papers/218.pdf). Matteo Romiti (Austrian Institute of Technology), Friedhelm Victor (Technische Universit¨at Berlin), Pedro Moreno-Sanchez(IMDEA Software Institute),  Peter Sebastian
+Nordholt(Chainalysis), Bernhard Haslhofer(Austrian Institute of Technology), Matteo Maffei(Technische Universitat Wien). FC'21
+
+  - Keyword: _`Deanonymization`_, _`Cross-Layer`_
+
+- 🎓 [SoK: Communication Across Distributed Ledgers](https://fc21.ifca.ai/papers/139.pdf). Alexei Zamyatin Mustafa Al-Bassam Dionysis Zindros Lefteris Kokoris-Kogias Pedro Moreno-Sanchez Aggelos Kiayias William J. Knottenbelt. FC'21
+
+  - Keyword: _`Deanonymization`_, _`Cross-Layer`_
+  - Type: _`Empirical`_
+
+
+- 🎓 [Reparo: Publicly Verifiable Layer to Repair Blockchains](https://fc21.ifca.ai/papers/119.pdf). Sri AravindaKrishnan Thyagarajan Adithya Bhat Bernardo Magri Daniel Tschudi Aniket Kate. FC'21
+
+  - Keyword: _`Redactable`_, _`Layer2`_
+
+
+- 🎓 [Instant Block Confirmation in the Sleepy Model](https://fc21.ifca.ai/papers/98.pdf). Vipul Goyal Hanjun Li Justin Raizes. FC'21
+
+  - Keyword: _`Sleepy`_, _`POS`_
+
+- 🎓 [Blockchain CAP Theorem Allows User-Dependent Adaptivity and Finality](https://fc21.ifca.ai/papers/244.pdf). Suryanarayana Sankagiri Xuechao Wang Sreeram Kannan Pramod Viswanath. FC'21
+
+  - Keyword: _`CAP`_, _`Longest-chain`_
+
+- 🎓 [Post-Quantum Adaptor Signature for Privacy-Preserving Off-Chain Payments](https://fc21.ifca.ai/papers/139.pdf). Erkan Tairi Pedro Moreno-Sanchez Matteo Maffei. FC'21
+
+  - Keyword: _`Off-Chain`_, _`Post-Quantum`_,  _`Privacy`_
+
+
+- 🎓 [FPPW: A Fair and Privacy Preserving Watchtower For Bitcoin](https://fc21.ifca.ai/papers/51.pdf). Arash Mirzaei Amin Sakzad Jiangshan Yu Ron Steinfeld. FC'21
+
+  - Keyword: _`Payment channel`_, _`Bitcoin`_,  _`Privacy`_
+
+
+- 🎓 [PoSAT: Proof-of-Work Dynamic Availability and Unpredictability, without the Work](https://fc21.ifca.ai/papers/237.pdf). Soubhik Deb Sreeram Kannan David Tse. FC'21
+
+  - Keyword: _`Consensus`_
+
+
+
+- 🎓 [Payment Trees: Low Collateral Payments for Payment Channel Networks](https://fc21.ifca.ai/papers/237.pdf). Maxim Jourenko Mario Larangeira Keisuke Tanaka. FC'21
+
+  - Keyword: _`Collateral`_, _`Attacks`_, _`Payment Channel`_
+
+
+- 🎓 [Brick: Asynchronous Incentive-Compatible Payment Channels](https://fc21.ifca.ai/papers/168.pdf). Zeta Avarikioti Eleftherios Kokoris-Kogias Roger Wattenhofer Dionysis Zindros. FC'21
+
+  - Keyword: _`Asynchronous`_, _`Payment Channels`_
+
+
+- 🎓 [Congestion Attacks in Payment Channel Networks](https://fc21.ifca.ai/papers/70.pdf). Ayelet Mizrahi Aviv Zohar. FC'21
+
+  - Keyword: _`Attacks`_, _`Payment Channels`_
+
+
+- 🎓 [Ignore the Extra Zeroes: Variance-Optimal Mining Pools](https://fc21.ifca.ai/papers/171.pdf). Clara Shikhelman Tim Roughgarden. FC'21
+
+  - Keyword: _`Mining`_
+
+
+- 🎓 [HaPPY-mine: Designing a Mining Reward Function](https://fc21.ifca.ai/papers/222.pdf). Lucianna Kiffer Rajmohan Rajaraman. FC'21
+
+  - Keyword: _`Mining`_
+
+- 🎓 [Short Paper: Selfish Mining Attacks Exacerbated by Elastic Hash Supply](https://fc21.ifca.ai/papers/233.pdf). Yoko Shibuya Go Yamamoto Fuhito Kojima Elaine Shi Shin'ichiro Matsuo Aron Laszka. FC'21
+
+  - Keyword: _`Mining`_, _`Attacks`_
+
+- 🎓 [Fraud and Data Availability Proofs: Detecting Invalid Blocks in Light Clients](https://fc21.ifca.ai/papers/83.pdf). Mustafa Al-Bassam Alberto Sonnino Vitalik Buterin Ismail Khoffi. FC'21
+
+  - Keyword: _`SPV`_
+
+
+- 🎓 [ACeD: Scalable Data Availability Oracle](https://fc21.ifca.ai/papers/225.pdf). Peiyao Sheng Bowen Xue Sreeram Kannan Pramod Viswanath. FC'21
+
+  - Keyword: _`Off-chain`_
+
+
+- 🎓 [Efficient State Management in Distributed Ledgers](https://fc21.ifca.ai/papers/165.pdf). Nikos Karayannidis Dimitris Karakostas Aggelos Kiayias. FC'21
+
+  - Keyword: _`Off-chain`_
+
+- 🎓 [Fast Isomorphic State Channels](https://fc21.ifca.ai/papers/162.pdf). Manuel Chakravarty Sandro Coretti Matthias Fitzi Peter Gazi Philipp Kant Aggelos Kiayias Alexander Russell. FC'21
+
+  - Keyword: _`State Channels`_
+
 
 - 🎓 [Security Analysis on dBFT protocol of NEO](http://fc20.ifca.ai/preproceedings/32.pdf). Qin Wang (Swinburne University of Technology), Jiangshan Yu (Monash University), Zhiniang Peng (Qihoo 360 Core Security), Vancuong Bui (Swinburne University of Technology), Shiping Chen (Csiro, Data61), Yong Ding (Cyberspace Security Research Center), Yang Xiang (Swinburne University of Technology). FC'20
 
@@ -1586,6 +1716,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Payment Channel Networks`_
 
 <!-- - [On Bitcoin as a public randomness source](https://pdfs.semanticscholar.org/ebae/9c7d91ea8b6a987642040a2142cc5ea67f7d.pdf). Bonneau J, Clark J, Goldfeder S. IACR'15.
+
     + Keyword: *`Cryptography`* -->
 
 - [Decentralized trusted timestamping using the crypto currency bitcoin](https://arxiv.org/pdf/1502.04015.pdf). Gipp B., Meuschke N., Gernandt A. CoRR'15
