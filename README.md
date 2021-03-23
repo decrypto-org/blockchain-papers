@@ -9,8 +9,8 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## News
 
+- **Added USENIX Security '21 Summer Accepted Paper**
 - **Added FC'21!**
-
 - **Added NDSS'21!**
 - **Added ICDCS'20!**
 - **Added ACSAC'20!**
@@ -25,7 +25,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 > Conference
 
-- [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2020
+- [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2021
 - [S&P(IEEE Security and Privacy)](#sp-a) <= 2020
 - [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2020
 - [NDSS(Network and Distributed System Security)](#ndss-a) <= 2021
@@ -64,7 +64,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 > Conference
 
 - [ACNS(Applied Cryptography and Network Security)](#acns-c) <= 2019
-- [FC(Financial Cryptography and Data Security)](#fc-c) <= 2020
+- [FC(Financial Cryptography and Data Security)](#fc-c) <= 2021
 
 ### [Other](#others)
 
@@ -112,46 +112,40 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## USENIX Security (A)
 
+- 🎓 [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://www.usenix.org/system/files/sec21summer_rodler.pdf) Michael Rodler, University of Duisburg-Essen; Wenting Li and Ghassan O. Karame, NEC Laboratories Europe; Lucas Davi, University of Duisburg-Essen. USENIX Security'21.
+  - Keyword: _`Smart Contracts`_, _`Ethereum`_, `Patch`
+- 🎓 [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.usenix.org/system/files/sec21summer_perez.pdf) Daniel Perez and Ben Livshits, Imperial College London. USENIX Security'21.
+	- Keyword: _`Smart Contracts`_, _`Ethereum`_, `Survey`
+
 - 🎓 [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf) Joel Frank, Cornelius Aschermann, and Thorsten Holz, Ruhr-University Bochum. USENIX Security'20.
-
   - Keyword: _`Smart Contracts`_, _`Formal Methods`_
-
 - 🎓 [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/system/files/sec20-zhou-shunfan.pdf) Shunfan Zhou, Zhemin Yang, and Jie Xiang, Fudan University; Yinzhi Cao, Johns Hopkins University; Min Yang and Yuan Zhang, Fudan University. USENIX Security'20.
 
   - Keyword: _`Attacks`_，_`Smart Contracts`_
-
 - 🎓 [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/system/files/sec20-zhang-mengya.pdf) Mengya Zhang, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin, The Ohio State University. USENIX Security'20.
 
   - Keyword: _`Attacks`_
-
 - 🎓 [Remote Side-Channel Attacks on Anonymous Transactions](https://www.usenix.org/system/files/sec20-tramer.pdf) Florian Tramer and Dan Boneh, Stanford University; Kenny Paterson, ETH Zurich. USENIX Security'20.
 
   - Keyword: _`Anonymity Privacy`_, _`Attacks`_
-
 - 🎓 [BlockSci: Design and applications of a blockchain analysis platform](https://www.usenix.org/system/files/sec20-kalodner.pdf) Harry Kalodner, Malte Möser, and Kevin Lee, Princeton University; Steven Goldfeder, Cornell Tech; Martin Plattner, University of Innsbruck; Alishah Chator, Johns Hopkins University; Arvind Narayanan, Princeton University. USENIX Security'20.
 
   - Keyword: _`Security`_
-
 - 🎓 [The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections](https://www.usenix.org/system/files/sec20-specter.pdf) Michael A. Specter, James Koppel, and Daniel Weitzner, MIT. USENIX Security'20.
 
   - Keyword: _`Security`_
-
 - 🎓 [Pixel: Multi-signatures for Consensus](https://smeiklej.com/files/usenix19.pdf). Manu Drijvers, DFINITY; Sergey Gorbunov, Algorand and University of Waterloo; Gregory Neven, DFINITY; Hoeteck Wee, Algorand and CNRS, ENS, PSL. USENIX Security'20.
 
   - Keyword: **Pixel**, _`Multi-signature`_, _`PoS`_
-
 - 🎓 [Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/files/usenix19.pdf). Haaroon Yousaf, George Kappos, and Sarah Meiklejohn. USENIX Security'19.
 
   - Keyword: _`Transaction Analysis`_
-
 - 🎓 [StrongChain: Transparent and Collaborative Proof-of-Work Consensus](https://arxiv.org/pdf/1905.09655.pdf). Pawel Szalachowski, Daniël Reijsbergen, and Ivan Homoliak, Siwei Sun. USENIX Security'19.
 
   - Keyword: _`Consensus`_
-
 - 🎓 [BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf). Sinisa Matetic, Karl Wüst, Moritz Schneider, and Kari Kostiainen, Ghassan Karame, Srdjan Capkun. USENIX Security'19.
 
   - Keyword: _`Privacy`_
-
 - 🎓 [FastKitten: Practical Smart Contracts on Bitcoin](https://www.usenix.org/system/files/sec19fall_das_prepub.pdf). Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. USENIX Security'19.
   - Keyword: _`Smart Contracts`_
 
@@ -1096,10 +1090,8 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
   - Keyword: _` Algorand`_, _`Smart Contract`_
 
-Payment Trees: 
 
-
-- 🎓 [Everything You Ever Wanted to Know About Bitcoin Mixers (But Were Afraid to Ask](http://fc20.ifca.ai/preproceedings/71.pdf). Federico Franzoni (Arizona State University), Yan Shoshitaishvili (Arizona State University), Ruoyu Wang(Arizona State University), Tiffany Bao(Arizona State University), Adam Doupe(Arizona State University). FC'21
+- 🎓 [Everything You Ever Wanted to Know About Bitcoin Mixers (But Were Afraid to Ask](https://repository.asu.edu/attachments/227296/content/Pakki_asu_0010N_19863.pdf)). Federico Franzoni (Arizona State University), Yan Shoshitaishvili (Arizona State University), Ruoyu Wang(Arizona State University), Tiffany Bao(Arizona State University), Adam Doupe(Arizona State University). FC'21
 
   - Keyword: _`Bitcoin Mixers`_, _`Anonymity`_
 
@@ -1155,8 +1147,6 @@ Nordholt(Chainalysis), Bernhard Haslhofer(Austrian Institute of Technology), Mat
 - 🎓 [PoSAT: Proof-of-Work Dynamic Availability and Unpredictability, without the Work](https://fc21.ifca.ai/papers/237.pdf). Soubhik Deb Sreeram Kannan David Tse. FC'21
 
   - Keyword: _`Consensus`_
-
-
 
 - 🎓 [Payment Trees: Low Collateral Payments for Payment Channel Networks](https://fc21.ifca.ai/papers/74.pdf). Maxim Jourenko Mario Larangeira Keisuke Tanaka. FC'21
 
