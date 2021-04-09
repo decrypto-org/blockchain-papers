@@ -19,6 +19,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - **Added ESORICS'20!**
 - **Added CoNEXT'20!**
 - **Added ICSE'21!**
+- **Added S&P'21!**
 
 ## Conference Information
 
@@ -40,6 +41,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [SIGMOD(ACM Conference on Management of Data)](#sigmod-a) <= 2020
 - [ASE(International Conference on Automated Software Engineering)](#ase-a) <= 2020
 - [ICSE(International Conference on Software Engineering)](#icse-a)<=2021
+- [S&P(IEEE Security and Privacy)](#sp-a) <= 2021
 
 > Journal
 
@@ -769,8 +771,42 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## ICSE (a)
 
-- 🎓 [Smart Contract Security: a Practitioners’ Perspective](https://arxiv.org/pdf/2102.10963.pdf).  Zhiyuan Wan (ZheJiang University, China), Xin Xia (Monash University, Australia), David Lo (Singapore Management University, Singapore), Jiachi Chen (Monash University, Australia), Xiapu Luo (The Hong Kong Polytechnic University, China), Xiaohu Yang(Zhejiang University, China)
+- 🎓 [Smart Contract Security: a Practitioners’ Perspective](https://arxiv.org/pdf/2102.10963.pdf).  hiyuan Wan (ZheJiang University, China), Xin Xia (Monash University, Australia), David Lo (Singapore Management University, Singapore), Jiachi Chen (Monash University, Australia), Xiapu Luo (The Hong Kong Polytechnic University, China), Xiaohu Yang(Zhejiang University, China)
   - Keyword: _`Smart Contract`_
+
+## S&P'21 (A)
+
+- 🎓 [MANY-OUT-OF-MANY PROOFS and applications to Anonymous Zether](https://eprint.iacr.org/2020/293.pdf).  Benjamin E. Diamond (J.P. Morgan)
+  - Keyword: _`Anoymous payment`_
+
+- 🎓 [A2L: Anonymous Atomic Locks for Scalability inPayment Channel Hubs∗](https://eprint.iacr.org/2019/589.pdf).  Erkan Tairi (TU Wien), Pedro Moreno-Sanchez (IMDEA Software Institute), Matteo Maffei (TU Wien)
+  - Keyword: _`PCH payment channel hub`_
+
+- 🎓 [Compact Certificates of Collective Knowledge](https://people.csail.mit.edu/nickolai/papers/micali-compactcert-eprint.pdf).  Silvio Micali (Algorand and MIT), Leonid Reyzin (Algorand and Boston University), Georgios Vlachos (), Riad S. Wahby (Algorand and Stanford), Nickolai Zeldovich (Algorand and MIT)
+  - Keyword: _`Certificates`_
+
+- 🎓 [Ebb-and-Flow Protocols: A Resolution of the Availability-Finality Dilemma](https://arxiv.org/pdf/2009.04987.pdf).  Joachim Neu (Stanford University), Ertem Nusret Tas (Stanford University), David Tse (Stanford University)
+  - Keyword: _`Consensus`_
+  
+- 🎓 [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/pdf/2009.14021.pdf).  Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Christof Ferreira Torres (University of Luxembourg), Duc V Le (Purdue University), Arthur Gervais (Imperial College London), Tyler Crain (University of Sydney), Christopher Natoli (University of Sydney), Vincent Gramoli (University of Sydney and EPFL)
+  - Keyword: _`DEX`_
+
+- 🎓 [Lockable Signatures for Blockchains: Scriptless Scripts for all Signatures](https://eprint.iacr.org/2020/1613.pdf).  Sri AravindaKrishnan Thyagarajan (Friedrich Alexander Universität Erlangen-Nürnberg), Giulio Malavolta (Max Planck Institute for Security and Privacy)
+  - Keyword: _`Payment Channel Networks(PCNs) BLS`_
+
+- 🎓 [On the Anonymity Guarantees of Anonymous Proof-of-Stake Protocols](https://eprint.iacr.org/2021/409.pdf).  Varun Madathil (North Carolina State University), Alessandra Scafuro (North Carolina State University), Kartik Nayak (Duke University), Markulf Kohlweiss (University of Edinburgh)
+  - Keyword: _`Proof-of-Stake`_
+
+- 🎓 [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols](https://arxiv.org/pdf/2103.02228.pdf).  Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Antoine Cully (Imperial College London), Benjamin Livshits (Imperial College London), Arthur Gervais (Imperial College London)
+  - Keyword: _`Defi profit`_
+
+- 🎓 [SGUARD: Smart Contracts Made Vulnerability-Free](https://arxiv.org/pdf/2101.01917.pdf).  Long H. Pham (Singapore Management University), Jun Sun (Singapore Management University), Tai Duy Nguyen (Singapore Management University)
+  - Keyword: _`Smart Contracts`_
+
+- 🎓 [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts ](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/SmartPulse-Oakland21-preprint.pdf).  Jon Stephens (The University of Texas at Austin), Kostas Ferles (The University of Texas at Austin), Benjamin Mariano (The University of Texas at Austin), Shuvendu Lahiri (Microsoft Research), Isil Dillig (The University of Texas at Austin)
+  - Keyword: _`Smart Contracts`_
+
+
 ## Journal of Cryptology (A)
 
 ## TDSC (A)
