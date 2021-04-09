@@ -18,6 +18,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - **Added PODC'20!**
 - **Added ESORICS'20!**
 - **Added CoNEXT'20!**
+- **Added ICSE'21!**
 
 ## Conference Information
 
@@ -38,6 +39,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2020
 - [SIGMOD(ACM Conference on Management of Data)](#sigmod-a) <= 2020
 - [ASE(International Conference on Automated Software Engineering)](#ase-a) <= 2020
+- [ICSE(International Conference on Software Engineering)](#icse-a)<=2021
 
 > Journal
 
@@ -765,6 +767,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - 🎓 [EXPRESS: An Energy-Efficient and Secure Framework for Mobile Edge Computing and Blockchain based Smart Systems](https://drive.google.com/file/d/1VtUJY6IY4SOcLAz_690nTYgHxj3xCeQs/view). Jia Xu (Anhui University, China), Xiao Liu (Deakin University, Australia), Xuejun Li (Anhui University, China), Lei Zhang Antwork Robotics Co., Ltm.), and Yun Yang (Swinburne University of Technology, Australia). ASE'20
   - Type: **EXPRESS**, _`Tool`_
 
+## ICSE (a)
+
+- 🎓 [Smart Contract Security: a Practitioners’ Perspective](https://arxiv.org/pdf/2102.10963.pdf).  Zhiyuan Wan (ZheJiang University, China), Xin Xia (Monash University, Australia), David Lo (Singapore Management University, Singapore), Jiachi Chen (Monash University, Australia), Xiapu Luo (The Hong Kong Polytechnic University, China), Xiaohu Yang(Zhejiang University, China)
+  - Keyword: _`Smart Contract`_
 ## Journal of Cryptology (A)
 
 ## TDSC (A)
