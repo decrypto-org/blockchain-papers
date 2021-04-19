@@ -9,17 +9,12 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## News
 
+- **Added S&P'21!**
+- **Added ICSE'21!**
 - **Added USENIX Security '21 Summer Accepted Paper**
 - **Added FC'21!**
 - **Added NDSS'21!**
-- **Added ICDCS'20!**
-- **Added ACSAC'20!**
-- **Added ASE'20!**
-- **Added PODC'20!**
-- **Added ESORICS'20!**
-- **Added CoNEXT'20!**
-- **Added ICSE'21!**
-- **Added S&P'21!**
+- **Added ASIACRYPT'20!**
 
 ## Conference Information
 
@@ -54,7 +49,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 > Conference
 
-- [ASIACRYPT(International Conference on the Theory and Application of Cryptology and Information Security)](#asiacrypt-b) <= 2019 (Calling for paper in 2020)
+- [ASIACRYPT(International Conference on the Theory and Application of Cryptology and Information Security)](#asiacrypt-b) <= 2020 (Calling for paper in 2021)
 - [ESORICS(European Symposium on Research in Computer Security)](#esorics-b) <= 2020
 - [ACSAC(Annual Computer Security Applications Conference)](#acsac-b) <= 2020
 - [EuroSys(European Conference on Computer Systems)](#eurosys-b) <= 2020
@@ -88,7 +83,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - _`Mixing`_, _`Ring Signature`_, _`RingCT`_
   - _`ZKP`_(Zero-Knowledge Proof)
   - _`Blind Signature`_
-  - _`sMPC`_, _`Threshold Signature`_
+  - _`SMPC`_, _`Threshold Signature`_
   - _`TEE`_
 - _`Auditation`_
 - _`Scalability`_:
@@ -338,7 +333,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [Efficient Publicly Verifiable 2PC over a Blockchain with Applications to Financially-Secure Computations](http://homes.sice.indiana.edu/yh33/mypub/pvc.pdf). Ruiyu Zhu, Changchang Ding, Yan Huang. CCS'19.
 
-  - Keyword: _`Consensus`_, _`sMPC`_
+  - Keyword: _`Consensus`_, _`SMPC`_
 
 - 🎓 [Erlay: Efficient Transaction Relay for Bitcoin](https://www.ece.ubc.ca/~sasha/papers/ccs19.pdf). Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Alexandra (Sasha) Fedorova, Ivan Beschastnikh. CCS'19.
 
@@ -812,6 +807,14 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Applications`_
 
 ## ASIACRYPT (B)
+
+- 🎓 [KVaC: Key-Value Commitments for Blockchains and Beyond](https://eprint.iacr.org/2020/1161.pdf). Shashank Agrawal, Srinivasan Raghuraman. ASIACRYPT'20
+
+  - Keyword: _`Scalability`_
+
+- 🎓 [Crowd Verifiable Zero-Knowledge and End-to-end Verifiable Multiparty Computation](https://eprint.iacr.org/2020/711.pdf). Foteini Baldimtsi, Aggelos Kiayias, Thomas Zacharias, Bingsheng Zhang. ASIACRYPT'20
+
+  - Keyword: _`SMPC`_, _`ZKP`_
 
 - 🎓 [Compact multi-signatures for smaller blockchains](https://eprint.iacr.org/2018/483.pdf). Boneh D, Drijvers M, Neven G. ASIACRYPT'18
 
