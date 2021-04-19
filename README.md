@@ -32,7 +32,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2020
 - [NDSS(Network and Distributed System Security)](#ndss-a) <= 2021
 - [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2020 (waiting for notifications, 2021.4.19)
-- [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2020
+- [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2021
 - [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a) <= 2020
 - [SOSP(ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019 (No schedule in 2020)
 - [NSDI(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
@@ -602,7 +602,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## EUROCRYPT (A)
 
-> no papers directly related to blockchain in EUROCRYPTO'20
+> no papers directly related to blockchain in EUROCRYPTO'20,21
 
 - 🎓 [Consensus through Herding](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17653-2_24.pdf). T-H. Hubert Chan Rafael Pass Elaine Shi. EUROCRYPT'19.
 
