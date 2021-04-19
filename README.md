@@ -31,7 +31,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [S&P(IEEE Security and Privacy)](#sp-a) <= 2021
 - [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2020
 - [NDSS(Network and Distributed System Security)](#ndss-a) <= 2021
-- [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2020
+- [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2020 (waiting for notifications, 2021.4.19)
 - [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2020
 - [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a) <= 2020
 - [SOSP(ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019 (No schedule in 2020)
