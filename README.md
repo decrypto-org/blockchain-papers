@@ -15,6 +15,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - **Added FC'21!**
 - **Added NDSS'21!**
 - **Added ASIACRYPT'20!**
+- **Added TOPLAS'20!**
 
 ## Conference Information
 
@@ -40,7 +41,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 > Journal
 
 - [TOCS(ACM Transactions on Computer Systems)](#tocs-a) <= 2019
-- [TOPLAS(ACM Transactions on Programming Languages & Systems)](#toplas-a) <= 2019
+- [TOPLAS(ACM Transactions on Programming Languages & Systems)](#toplas-a) <= 2020
 - [JACM(Journal of the ACM)](#jacm-a) <= 2019
 - [Journal of Cryptology](#journal-of-cryptology-a) <= 2019
 - [TDSC(IEEE Transactions on Dependable and Secure Computing)](#tdsc-a) <= 2019
@@ -315,11 +316,11 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ## CCS (A)
 
 - 🎓 [eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts](https://arxiv.org/pdf/2005.06227.pdf).
-  Clara Schneidewind (TU Wien); Markus Scherer (TU Wien); Ilya Grishchenko (TU Wien); Matteo Maffei (TU Wien)
+  Clara Schneidewind (TU Wien); Markus Scherer (TU Wien); Ilya Grishchenko (TU Wien); Matteo Maffei (TU Wien). CCS'20.
 
   - Keyword: **eThor**, _`Smart Contracts`_
 
-- 🎓 [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://eprint.iacr.org/2019/835.pdf). Karl Wüst (ETH Zurich); Sinisa Matetic (ETH Zurich); Silvan Egli (ETH Zurich); Kari Kostiainen (ETH Zurich); Srdjan Capkun (ETH Zurich)
+- 🎓 [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://eprint.iacr.org/2019/835.pdf). Karl Wüst (ETH Zurich); Sinisa Matetic (ETH Zurich); Silvan Egli (ETH Zurich); Kari Kostiainen (ETH Zurich); Srdjan Capkun (ETH Zurich). CCS'20.
 
   - Keyword: **ACE**, _`Smart Contracts`_
 
@@ -767,10 +768,11 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## TOPLAS (A)
 
-- 🎓 [The Byzantine Generals Problem](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf). Lamport L, Shostak R., Pease M. '82. TOPLAS '82.
-  - Keyword: _`Consensus`_
-- [Obsidian: Typestate and Assets for Safer Blockchain Programming](https://dl.acm.org/doi/pdf/10.1145/3417516).Coblenz M, Oei R, Etzel T, et al. '20. TOPLAS '20.
+- [Obsidian: Typestate and Assets for Safer Blockchain Programming](https://dl.acm.org/doi/pdf/10.1145/3417516).Coblenz M, Oei R, Etzel T, et al. TOPLAS'20.
   - Keyword: _`Smart Contract`_,`Programming Language`_
+
+- 🎓 [The Byzantine Generals Problem](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf). Lamport L, Shostak R., Pease M. TOPLAS'82.
+  - Keyword: _`Consensus`_
 
 ## JACM (A)
 
