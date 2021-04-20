@@ -43,7 +43,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [TOCS(ACM Transactions on Computer Systems)](#tocs-a) <= 2019
 - [TOPLAS(ACM Transactions on Programming Languages & Systems)](#toplas-a) <= 2020
 - [JACM(Journal of the ACM)](#jacm-a) <= 2020
-- [Journal of Cryptology](#journal-of-cryptology-a) <= 2019
+- [Journal of Cryptology](#journal-of-cryptology-a) <= 2021
 - [TDSC(IEEE Transactions on Dependable and Secure Computing)](#tdsc-a) <= 2019
 
 ### CCF B
@@ -62,7 +62,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 > Conference
 
-- [ACNS(Applied Cryptography and Network Security)](#acns-c) <= 2019
+- [ACNS(Applied Cryptography and Network Security)](#acns-c) <= 2020
 - [FC(Financial Cryptography and Data Security)](#fc-c) <= 2021
 
 ### [Other](#others)
@@ -1116,6 +1116,13 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Consensus`_, _`PoW`_
 
 ## ACNS (C)
+
+- 🎓 [Minting Mechanism for Proof of Stake Blockchains](https://link.springer.com/chapter/10.1007%2F978-3-030-57808-4_16). Dominic Deuber, Nico Döttling, Bernardo Magri, Giulio Malavolta, Sri Aravinda Krishnan Thyagarajan. ACNS'20.
+  -		Keyword: _`PoS`_
+
+- 🎓 [Timed Signatures and Zero-Knowledge Proofs - Timestamping in the Blockchain Era](https://link.springer.com/chapter/10.1007%2F978-3-030-57808-4_17). Aydin Abadi, Michele Ciampi, Aggelos Kiayias, Vassilis Zikas. ACNS'20.
+  -		Keyword: _`Timestamping`_, _`Zero-Knowledge Proofs`_
+
 
 - 🎓 [Threshold-optimal DSA/ECDSA signatures and an application to Bitcoin wallet security](https://eprint.iacr.org/2016/013.pdf). Gennaro R, Goldfeder S, Narayanan A. ACNS'16.
   - Keyword: _`Wallets`_, _`Threshold Signature`_
