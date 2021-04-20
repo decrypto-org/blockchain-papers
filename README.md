@@ -31,7 +31,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2021
 - [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a) <= 2020
 - [SOSP(ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019 (No schedule in 2020)
-- [NSDI(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
+- [N(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
 - [VLDB(International Conference on Very Large Data Bases)](#vldb-a) <= 2020
 - [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2020
 - [SIGMOD(ACM Conference on Management of Data)](#sigmod-a) <= 2020
@@ -681,6 +681,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Consensus`_
 
 ## NSDI (A)
+
+- 🎓 [Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf). Vibhaalakshmi Sivaraman, Yuncong Hu, Sam Kumar, and Raluca Ada Popa, University of California, Berkeley NSDI'20
+
+  - Keyword: _`Data-Sharing`_, **Ghoster**
 
 - 🎓 [High Throughput Cryptocurrency Routing in Payment Channel Networks](https://www.usenix.org/system/files/nsdi20-paper-sivaraman.pdf). Vibhaalakshmi Sivaraman, Massachusetts Institute of Technology; Shaileshh Bojja Venkatakrishnan, Ohio State University; Kathleen Ruan, Carnegie Mellon University; Parimarjan Negi and Lei Yang, Massachusetts Institute of Technology; Radhika Mittal, University of Illinois at Urbana-Champaign; Giulia Fanti, Carnegie Mellon University; Mohammad Alizadeh, Massachusetts Institute of Technology. NSDI'20
 
