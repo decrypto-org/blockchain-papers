@@ -41,7 +41,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - [TOCS(ACM Transactions on Computer Systems)](#tocs-a) <= 2019
 - [TOPLAS(ACM Transactions on Programming Languages & Systems)](#toplas-a) <= 2019
-- [JACM(Journal of the ACM)](#jacm-a) <= 2019
+- [JACM(Journal of the ACM)](#jacm-a) <= 2020
 - [Journal of Cryptology](#journal-of-cryptology-a) <= 2019
 - [TDSC(IEEE Transactions on Dependable and Secure Computing)](#tdsc-a) <= 2019
 
@@ -772,6 +772,12 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## JACM (A)
 
+- 🎓 [Universally Composable Security](https://doi.org/10.1145/3402457). Canetti R. 2020. <i>J. ACM</i> 67, 5, Article 28 (October 2020), 94 pages. (No Publicly Avaliable)
+  - Keyword: _`Security`_, _`Formal Methods`_
+- 🎓 [The Power of Shunning: Efficient Asynchronous Byzantine Agreement Revisited*](https://doi.org/10.1145/3388788). Bangalore L, Choudhury A, Patra A. 2020.  <i>J. ACM</i> 67, 3, Article 14 (June 2020), 59 pages. (No Publicly Avaliable)
+  - Keyword: _`Consensus`_
+- 🎓 [Silence](https://dl.acm.org/doi/pdf/10.1145/3377883). Guy G, Yoram M. 2020. *J. ACM* 67, 1, Article 3 (April 2020), 26 pages. (No Publicly Avaliable)
+  - Keyword: _`Communication Efficiency`_
 - 🎓 [Consensus in the Presence of Partial Synchrony](https://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf). Dwork S., Lynch N. '88. JACM '88.
   - Keyword: _`Consensus`_
 
