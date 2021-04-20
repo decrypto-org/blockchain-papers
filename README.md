@@ -769,6 +769,8 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [The Byzantine Generals Problem](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf). Lamport L, Shostak R., Pease M. '82. TOPLAS '82.
   - Keyword: _`Consensus`_
+- [Obsidian: Typestate and Assets for Safer Blockchain Programming](https://dl.acm.org/doi/pdf/10.1145/3417516).Coblenz M, Oei R, Etzel T, et al. '20. TOPLAS '20.
+  - Keyword: _`Smart Contract`_,`Programming Language`_
 
 ## JACM (A)
 
