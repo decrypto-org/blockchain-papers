@@ -820,6 +820,9 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - 🎓 [Security and privacy in decentralized energy trading through multi-signatures, blockchain and anonymous messaging streams](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/7589035). Aitzhan N Z, Svetinovic D. TDSC'16
   - Keyword: _`Applications`_
 
+- 🎓 [An Efficient NIZK Scheme for Privacy-Preserving Transactions Over Account-Model Blockchain](https://ieeexplore.ieee.org/document/8968397). Shunli Ma, Yi Deng, Yi Deng, Jiang Zhang, Xiang Xie. TDSC'21
+  - Keyword: _`non-knowledger proof`_, _`efficiency`_
+
 ## ASIACRYPT (B)
 
 - 🎓 [KVaC: Key-Value Commitments for Blockchains and Beyond](https://eprint.iacr.org/2020/1161.pdf). Shashank Agrawal, Srinivasan Raghuraman. ASIACRYPT'20
