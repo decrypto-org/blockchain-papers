@@ -16,6 +16,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - **Added NDSS'21!**
 - **Added ASIACRYPT'20!**
 - **Added TOPLAS'20!**
+- **Added TIFS'21!**
 
 ## Conference Information
 
@@ -45,6 +46,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [JACM(Journal of the ACM)](#jacm-a) <= 2020
 - [Journal of Cryptology](#journal-of-cryptology-a) <= 2021
 - [TDSC(IEEE Transactions on Dependable and Secure Computing)](#tdsc-a) <= 2019
+- [TIFS(IEEE Transactions on Information Forensics and Security)](#tifs-a) <=2021
 
 ### CCF B
 
@@ -822,6 +824,16 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [An Efficient NIZK Scheme for Privacy-Preserving Transactions Over Account-Model Blockchain](https://ieeexplore.ieee.org/document/8968397). Shunli Ma, Yi Deng, Yi Deng, Jiang Zhang, Xiang Xie. TDSC'21
   - Keyword: _`non-knowledger proof`_, _`efficiency`_
+
+## TIFS (A)
+- 🎓 [SDTE: A Secure Blockchain-Based Data Trading Ecosystem](https://www.careerskeen.com/pdf/31.pdf). Dai W, Dai C, Choo K K R, et al. TIFS'20
+  - Keyword: _`Smart contract`_, _`Data trading`_
+
+- 🎓 [Puncturable Signatures and Applications in Proof-of-Stake Blockchain Protocols](https://arxiv.org/pdf/1909.03955.pdf). Li X, Xu J, Fan X, et al. TIFS'20
+  - Keyword: _`Puncturable signature`_
+
+- 🎓 [GDPR-Compliant Personal Data Management: A Blockchain-Based Solution](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8876647). Truong N B, Sun K, Lee G M, et al. TIFS'20
+  - Keyword: _`data management`_, _`GDPR`_
 
 ## ASIACRYPT (B)
 
