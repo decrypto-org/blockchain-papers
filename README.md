@@ -102,6 +102,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - _`Applications`_
   - _`Crime`_, _`Economics`_, _`Marketplaces`_, _`Sociological`_, _`Anthropological`_
 - _`Attacks`_
+- _`GDPR`_
 
 > - **Article Types**:
 >   - _`SoK`_(Systematization of Knowledge), _`Survey`_, _`Review`_
@@ -827,13 +828,13 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## TIFS (A)
 - 🎓 [SDTE: A Secure Blockchain-Based Data Trading Ecosystem](https://www.careerskeen.com/pdf/31.pdf). Dai W, Dai C, Choo K K R, et al. TIFS'20
-  - Keyword: _`Smart contract`_, _`Data trading`_
+  - Keyword: _`Smart contract`_, _`TEE`_
 
 - 🎓 [Puncturable Signatures and Applications in Proof-of-Stake Blockchain Protocols](https://arxiv.org/pdf/1909.03955.pdf). Li X, Xu J, Fan X, et al. TIFS'20
-  - Keyword: _`Puncturable signature`_
+  - Keyword: _`PoS`_
 
 - 🎓 [GDPR-Compliant Personal Data Management: A Blockchain-Based Solution](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8876647). Truong N B, Sun K, Lee G M, et al. TIFS'20
-  - Keyword: _`data management`_, _`GDPR`_
+  - Keyword: _`Smart Contracts`_, _`GDPR`_
 
 ## ASIACRYPT (B)
 
