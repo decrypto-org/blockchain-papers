@@ -45,7 +45,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [TOPLAS(ACM Transactions on Programming Languages & Systems)](#toplas-a) <= 2020
 - [JACM(Journal of the ACM)](#jacm-a) <= 2020
 - [Journal of Cryptology](#journal-of-cryptology-a) <= 2021
-- [TDSC(IEEE Transactions on Dependable and Secure Computing)](#tdsc-a) <= 2019
+- [TDSC(IEEE Transactions on Dependable and Secure Computing)](#tdsc-a) <= 2021
 - [TIFS(IEEE Transactions on Information Forensics and Security)](#tifs-a) <=2021
 
 ### CCF B
@@ -819,12 +819,12 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ## Journal of Cryptology (A)
 
 ## TDSC (A)
+- 🎓 [An Efficient NIZK Scheme for Privacy-Preserving Transactions Over Account-Model Blockchain](https://ieeexplore.ieee.org/document/8968397). Shunli Ma, Yi Deng, Yi Deng, Jiang Zhang, Xiang Xie. TDSC'21
+  - Keyword: _`Privacy`_, _`ZKP`_
 
 - 🎓 [Security and privacy in decentralized energy trading through multi-signatures, blockchain and anonymous messaging streams](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/7589035). Aitzhan N Z, Svetinovic D. TDSC'16
   - Keyword: _`Applications`_
 
-- 🎓 [An Efficient NIZK Scheme for Privacy-Preserving Transactions Over Account-Model Blockchain](https://ieeexplore.ieee.org/document/8968397). Shunli Ma, Yi Deng, Yi Deng, Jiang Zhang, Xiang Xie. TDSC'21
-  - Keyword: _`non-knowledger proof`_, _`efficiency`_
 
 ## TIFS (A)
 - 🎓 [SDTE: A Secure Blockchain-Based Data Trading Ecosystem](https://www.careerskeen.com/pdf/31.pdf). Dai W, Dai C, Choo K K R, et al. TIFS'20
