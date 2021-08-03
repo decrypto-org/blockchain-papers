@@ -14,8 +14,6 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - **Added USENIX Security '21 Summer Accepted Paper**
 - **Added FC'21!**
 - **Added NDSS'21!**
-- **Added ASIACRYPT'20!**
-- **Added TOPLAS'20!**
 
 ## Conference Information
 
@@ -111,40 +109,42 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## USENIX Security (A)
 
-- 🎓 [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://www.usenix.org/system/files/sec21summer_rodler.pdf) Michael Rodler, University of Duisburg-Essen; Wenting Li and Ghassan O. Karame, NEC Laboratories Europe; Lucas Davi, University of Duisburg-Essen. USENIX Security'21.
+- 🎓 [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://www.usenix.org/system/files/sec21summer_rodler.pdf). Michael Rodler, University of Duisburg-Essen; Wenting Li and Ghassan O. Karame, NEC Laboratories Europe; Lucas Davi, University of Duisburg-Essen. USENIX Security'21.
   - Keyword: _`Smart Contracts`_, _`Ethereum`_, `Patch`
-- 🎓 [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.usenix.org/system/files/sec21summer_perez.pdf) Daniel Perez and Ben Livshits, Imperial College London. USENIX Security'21.
+  
+- 🎓 [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.usenix.org/system/files/sec21summer_perez.pdf). Daniel Perez and Ben Livshits, Imperial College London. USENIX Security'21.
 	- Keyword: _`Smart Contracts`_, _`Ethereum`_, `Survey`
 
-- 🎓 [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf) Joel Frank, Cornelius Aschermann, and Thorsten Holz, Ruhr-University Bochum. USENIX Security'20.
+- 🎓 [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf). Joel Frank, Cornelius Aschermann, and Thorsten Holz, Ruhr-University Bochum. USENIX Security'20.
   - Keyword: _`Smart Contracts`_, _`Formal Methods`_
-- 🎓 [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/system/files/sec20-zhou-shunfan.pdf) Shunfan Zhou, Zhemin Yang, and Jie Xiang, Fudan University; Yinzhi Cao, Johns Hopkins University; Min Yang and Yuan Zhang, Fudan University. USENIX Security'20.
 
+- 🎓 [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/system/files/sec20-zhou-shunfan.pdf). Shunfan Zhou, Zhemin Yang, and Jie Xiang, Fudan University; Yinzhi Cao, Johns Hopkins University; Min Yang and Yuan Zhang, Fudan University. USENIX Security'20.
   - Keyword: _`Attacks`_，_`Smart Contracts`_
-- 🎓 [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/system/files/sec20-zhang-mengya.pdf) Mengya Zhang, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin, The Ohio State University. USENIX Security'20.
 
+- 🎓 [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/system/files/sec20-zhang-mengya.pdf). Mengya Zhang, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin, The Ohio State University. USENIX Security'20.
   - Keyword: _`Attacks`_
-- 🎓 [Remote Side-Channel Attacks on Anonymous Transactions](https://www.usenix.org/system/files/sec20-tramer.pdf) Florian Tramer and Dan Boneh, Stanford University; Kenny Paterson, ETH Zurich. USENIX Security'20.
 
+- 🎓 [Remote Side-Channel Attacks on Anonymous Transactions](https://www.usenix.org/system/files/sec20-tramer.pdf). Florian Tramer and Dan Boneh, Stanford University; Kenny Paterson, ETH Zurich. USENIX Security'20.
   - Keyword: _`Anonymity Privacy`_, _`Attacks`_
-- 🎓 [BlockSci: Design and applications of a blockchain analysis platform](https://www.usenix.org/system/files/sec20-kalodner.pdf) Harry Kalodner, Malte Möser, and Kevin Lee, Princeton University; Steven Goldfeder, Cornell Tech; Martin Plattner, University of Innsbruck; Alishah Chator, Johns Hopkins University; Arvind Narayanan, Princeton University. USENIX Security'20.
 
+- 🎓 [BlockSci: Design and applications of a blockchain analysis platform](https://www.usenix.org/system/files/sec20-kalodner.pdf). Harry Kalodner, Malte Möser, and Kevin Lee, Princeton University; Steven Goldfeder, Cornell Tech; Martin Plattner, University of Innsbruck; Alishah Chator, Johns Hopkins University; Arvind Narayanan, Princeton University. USENIX Security'20.
   - Keyword: _`Security`_
-- 🎓 [The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections](https://www.usenix.org/system/files/sec20-specter.pdf) Michael A. Specter, James Koppel, and Daniel Weitzner, MIT. USENIX Security'20.
 
+- 🎓 [The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections](https://www.usenix.org/system/files/sec20-specter.pdf). Michael A. Specter, James Koppel, and Daniel Weitzner, MIT. USENIX Security'20.
   - Keyword: _`Security`_
+
 - 🎓 [Pixel: Multi-signatures for Consensus](https://smeiklej.com/files/usenix19.pdf). Manu Drijvers, DFINITY; Sergey Gorbunov, Algorand and University of Waterloo; Gregory Neven, DFINITY; Hoeteck Wee, Algorand and CNRS, ENS, PSL. USENIX Security'20.
-
   - Keyword: **Pixel**, _`Multi-signature`_, _`PoS`_
+
 - 🎓 [Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/files/usenix19.pdf). Haaroon Yousaf, George Kappos, and Sarah Meiklejohn. USENIX Security'19.
-
   - Keyword: _`Transaction Analysis`_
+
 - 🎓 [StrongChain: Transparent and Collaborative Proof-of-Work Consensus](https://arxiv.org/pdf/1905.09655.pdf). Pawel Szalachowski, Daniël Reijsbergen, and Ivan Homoliak, Siwei Sun. USENIX Security'19.
-
   - Keyword: _`Consensus`_
-- 🎓 [BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf). Sinisa Matetic, Karl Wüst, Moritz Schneider, and Kari Kostiainen, Ghassan Karame, Srdjan Capkun. USENIX Security'19.
 
+- 🎓 [BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf). Sinisa Matetic, Karl Wüst, Moritz Schneider, and Kari Kostiainen, Ghassan Karame, Srdjan Capkun. USENIX Security'19.
   - Keyword: _`Privacy`_
+
 - 🎓 [FastKitten: Practical Smart Contracts on Bitcoin](https://www.usenix.org/system/files/sec19fall_das_prepub.pdf). Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. USENIX Security'19.
   - Keyword: _`Smart Contracts`_
 
@@ -153,11 +153,9 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Smart Contracts`_
 
 * 🎓 [Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-breidenbach.pdf). Lorenz B, Philip D, Florian T, Ari J. USENIX Security'18.
-
   - Keyword: _`Smart Contracts`_
 
 * 🎓 [Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf). Harry K, Steven G, Xiaoqi C, S. Matthew W, Edward W. F. USENIX Security'18.
-
   - Keyword: _`Smart Contracts`_
 
 * 🎓 [Erays: Reverse Engineering Ethereum's Opaque Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf). Yi Z, Deepak K, Surya B, Joshua M, Andrew M, Michael B. USENIX Security'18.
