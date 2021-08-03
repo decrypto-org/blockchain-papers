@@ -113,12 +113,20 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ---
 
 ## USENIX Security (A)
-
+* 🎓 [On the Routing-Aware Peering against Network-Eclipse Attacks in Bitcoin](https://www.usenix.org/system/files/sec21fall-tran.pdf)Muoi Tran and Akshaye Shenoi, National University of Singapore; Min Suk Kang, KAIST.USENIX Security'21.
+  - Keyword:_`Network`_
+* 🎓[EOSAFE: Security Analysis of EOSIO Smart Contracts](https://www.usenix.org/system/files/sec21fall-he-ningyu.pdf)Ningyu He, Key Lab on HCST (MOE), Peking University; Ruiyi Zhang, PeckShield, Inc.; Haoyu Wang, Beijing University of Posts and Telecommunications; Lei Wu, Zhejiang University; Xiapu Luo, The Hong Kong Polytechnic University; Yao Guo, Key Lab on HCST (MOE), Peking University; Ting Yu, Qatar Computing Research Institute; Xuxian Jiang, PeckShield, Inc.USENIX Security'21.
+  - Keyword: _`Smart Contracts`_
+* 🎓[Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/system/files/sec21summer_su.pdf)Liya Su, Indiana University Bloomington and Institute of Information Engineering, University of Chinese Academy of Sciences; Xinyue Shen, Indiana University Bloomington and Alibaba Group; Xiangyu Du, Indiana University Bloomington and Institute of Information Engineering, University of Chinese Academy of Sciences; Xiaojing Liao, XiaoFeng Wang, and Luyi Xing, Indiana University Bloomington; Baoxu Liu, Institute of Information Engineering, University of Chinese Academy of Sciences.USENIX Security'21.
+  - Keyword: _`Attacks`_,_`Dapp`_
+* 🎓[Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain](https://arxiv.org/pdf/2102.03347.pdf)Christof Ferreira Torres, University of Luxembourg; Ramiro Camino, Luxembourg Institute of Science and Technology; Radu State, University of Luxembourg.USENIX Security'21.
+  - Keyword: _`Security`_
+* 🎓 [SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution](https://www.usenix.org/system/files/sec21fall-so.pdf)Sunbeom So, Seongjoon Hong, and Hakjoo Oh, Korea University.USENIX Security'21.
+  - Keyword: _`Smart Contracts`_
 - 🎓 [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://www.usenix.org/system/files/sec21summer_rodler.pdf) Michael Rodler, University of Duisburg-Essen; Wenting Li and Ghassan O. Karame, NEC Laboratories Europe; Lucas Davi, University of Duisburg-Essen. USENIX Security'21.
   - Keyword: _`Smart Contracts`_, _`Ethereum`_, `Patch`
 - 🎓 [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.usenix.org/system/files/sec21summer_perez.pdf) Daniel Perez and Ben Livshits, Imperial College London. USENIX Security'21.
 	- Keyword: _`Smart Contracts`_, _`Ethereum`_, `Survey`
-
 - 🎓 [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf) Joel Frank, Cornelius Aschermann, and Thorsten Holz, Ruhr-University Bochum. USENIX Security'20.
   - Keyword: _`Smart Contracts`_, _`Formal Methods`_
 - 🎓 [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/system/files/sec20-zhou-shunfan.pdf) Shunfan Zhou, Zhemin Yang, and Jie Xiang, Fudan University; Yinzhi Cao, Johns Hopkins University; Min Yang and Yuan Zhang, Fudan University. USENIX Security'20.
@@ -189,6 +197,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 * 🎓 [Measuring the Longitudinal Evolution of the Online Anonymous Marketplace Ecosystem](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-soska-updated.pdf). Soska K, Christin N. USENIX Security'15.
   - Keyword: _`Marketplaces`_
+
 
 ## S&P (A)
 
