@@ -9,6 +9,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## News
 
+- **Added USENIX Security '21 Winter Accepted Paper**
 - **Added S&P'21!**
 - **Added ICSE'21!**
 - **Added USENIX Security '21 Summer Accepted Paper**
@@ -29,7 +30,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2021
 - [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a) <= 2020
 - [SOSP(ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019 (No schedule in 2020)
-- [NSDI(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
+- [N(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
 - [VLDB(International Conference on Very Large Data Bases)](#vldb-a) <= 2020
 - [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2020
 - [SIGMOD(ACM Conference on Management of Data)](#sigmod-a) <= 2020
@@ -40,9 +41,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - [TOCS(ACM Transactions on Computer Systems)](#tocs-a) <= 2019
 - [TOPLAS(ACM Transactions on Programming Languages & Systems)](#toplas-a) <= 2020
-- [JACM(Journal of the ACM)](#jacm-a) <= 2019
-- [Journal of Cryptology](#journal-of-cryptology-a) <= 2019
-- [TDSC(IEEE Transactions on Dependable and Secure Computing)](#tdsc-a) <= 2019
+- [JACM(Journal of the ACM)](#jacm-a) <= 2020
+- [Journal of Cryptology](#journal-of-cryptology-a) <= 2021
+- [TDSC(IEEE Transactions on Dependable and Secure Computing)](#tdsc-a) <= 2021
+- [TIFS(IEEE Transactions on Information Forensics and Security)](#tifs-a) <=2021
 
 ### CCF B
 
@@ -60,7 +62,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 > Conference
 
-- [ACNS(Applied Cryptography and Network Security)](#acns-c) <= 2019
+- [ACNS(Applied Cryptography and Network Security)](#acns-c) <= 2020
 - [FC(Financial Cryptography and Data Security)](#fc-c) <= 2021
 
 ### [Other](#others)
@@ -98,6 +100,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - _`Applications`_
   - _`Crime`_, _`Economics`_, _`Marketplaces`_, _`Sociological`_, _`Anthropological`_
 - _`Attacks`_
+- _`GDPR`_
 
 > - **Article Types**:
 >   - _`SoK`_(Systematization of Knowledge), _`Survey`_, _`Review`_
@@ -109,13 +112,28 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## USENIX Security (A)
 
+- 🎓 [On the Routing-Aware Peering against Network-Eclipse Attacks in Bitcoin](https://www.usenix.org/system/files/sec21fall-tran.pdf). Muoi Tran and Akshaye Shenoi, National University of Singapore; Min Suk Kang, KAIST. USENIX Security'21.
+  - Keyword: _`Network`_
+
+- 🎓[EOSAFE: Security Analysis of EOSIO Smart Contracts](https://www.usenix.org/system/files/sec21fall-he-ningyu.pdf). Ningyu He, Key Lab on HCST (MOE), Peking University; Ruiyi Zhang, PeckShield, Inc.; Haoyu Wang, Beijing University of Posts and Telecommunications; Lei Wu, Zhejiang University; Xiapu Luo, The Hong Kong Polytechnic University; Yao Guo, Key Lab on HCST (MOE), Peking University; Ting Yu, Qatar Computing Research Institute; Xuxian Jiang, PeckShield, Inc. USENIX Security'21.
+  - Keyword: _`Smart Contracts`_
+
+- 🎓[Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/system/files/sec21summer_su.pdf). Liya Su, Indiana University Bloomington and Institute of Information Engineering, University of Chinese Academy of Sciences; Xinyue Shen, Indiana University Bloomington and Alibaba Group; Xiangyu Du, Indiana University Bloomington and Institute of Information Engineering, University of Chinese Academy of Sciences; Xiaojing Liao, XiaoFeng Wang, and Luyi Xing, Indiana University Bloomington; Baoxu Liu, Institute of Information Engineering, University of Chinese Academy of Sciences. USENIX Security'21.
+  - Keyword: _`Attacks`_,_`Dapp`_
+  
+- 🎓[Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain](https://arxiv.org/pdf/2102.03347.pdf). Christof Ferreira Torres, University of Luxembourg; Ramiro Camino, Luxembourg Institute of Science and Technology; Radu State, University of Luxembourg. USENIX Security'21.
+  - Keyword: _`Security`_
+
+- 🎓 [SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution](https://www.usenix.org/system/files/sec21fall-so.pdf). Sunbeom So, Seongjoon Hong, and Hakjoo Oh, Korea University. USENIX Security'21.
+  - Keyword: _`Smart Contracts`_
+
 - 🎓 [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://www.usenix.org/system/files/sec21summer_rodler.pdf). Michael Rodler, University of Duisburg-Essen; Wenting Li and Ghassan O. Karame, NEC Laboratories Europe; Lucas Davi, University of Duisburg-Essen. USENIX Security'21.
   - Keyword: _`Smart Contracts`_, _`Ethereum`_, `Patch`
   
 - 🎓 [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.usenix.org/system/files/sec21summer_perez.pdf). Daniel Perez and Ben Livshits, Imperial College London. USENIX Security'21.
 	- Keyword: _`Smart Contracts`_, _`Ethereum`_, `Survey`
 
-- 🎓 [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf). Joel Frank, Cornelius Aschermann, and Thorsten Holz, Ruhr-University Bochum. USENIX Security'20.
+- 🎓 [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf) Joel Frank, Cornelius Aschermann, and Thorsten Holz, Ruhr-University Bochum. USENIX Security'20.
   - Keyword: _`Smart Contracts`_, _`Formal Methods`_
 
 - 🎓 [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/system/files/sec20-zhou-shunfan.pdf). Shunfan Zhou, Zhemin Yang, and Jie Xiang, Fudan University; Yinzhi Cao, Johns Hopkins University; Min Yang and Yuan Zhang, Fudan University. USENIX Security'20.
@@ -184,6 +202,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 * 🎓 [Measuring the Longitudinal Evolution of the Online Anonymous Marketplace Ecosystem](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-soska-updated.pdf). Soska K, Christin N. USENIX Security'15.
   - Keyword: _`Marketplaces`_
+
 
 ## S&P (A)
 
@@ -680,6 +699,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## NSDI (A)
 
+- 🎓 [Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf). Vibhaalakshmi Sivaraman, Yuncong Hu, Sam Kumar, and Raluca Ada Popa, University of California, Berkeley NSDI'20
+
+  - Keyword: _`Data-Sharing`_, **Ghoster**
+
 - 🎓 [High Throughput Cryptocurrency Routing in Payment Channel Networks](https://www.usenix.org/system/files/nsdi20-paper-sivaraman.pdf). Vibhaalakshmi Sivaraman, Massachusetts Institute of Technology; Shaileshh Bojja Venkatakrishnan, Ohio State University; Kathleen Ruan, Carnegie Mellon University; Parimarjan Negi and Lei Yang, Massachusetts Institute of Technology; Radhika Mittal, University of Illinois at Urbana-Champaign; Giulia Fanti, Carnegie Mellon University; Mohammad Alizadeh, Massachusetts Institute of Technology. NSDI'20
 
   - Keyword: _`Payment Channel Networks`_, **Spider**
@@ -774,6 +797,12 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## JACM (A)
 
+- 🎓 [Universally Composable Security](https://doi.org/10.1145/3402457). Canetti R. 2020. <i>J. ACM</i> 67, 5, Article 28 (October 2020), 94 pages. (Not Publicly Avaliable)
+  - Keyword: _`Security`_, _`Formal Methods`_
+- 🎓 [The Power of Shunning: Efficient Asynchronous Byzantine Agreement Revisited*](https://doi.org/10.1145/3388788). Bangalore L, Choudhury A, Patra A. 2020.  <i>J. ACM</i> 67, 3, Article 14 (June 2020), 59 pages. (Not Publicly Avaliable)
+  - Keyword: _`Consensus`_
+- 🎓 [Silence](https://dl.acm.org/doi/pdf/10.1145/3377883). Guy G, Yoram M. 2020. *J. ACM* 67, 1, Article 3 (April 2020), 26 pages. (Not Publicly Avaliable)
+  - Keyword: _`Communication Efficiency`_
 - 🎓 [Consensus in the Presence of Partial Synchrony](https://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf). Dwork S., Lynch N. '88. JACM '88.
   - Keyword: _`Consensus`_
 
@@ -804,9 +833,22 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ## Journal of Cryptology (A)
 
 ## TDSC (A)
+- 🎓 [An Efficient NIZK Scheme for Privacy-Preserving Transactions Over Account-Model Blockchain](https://ieeexplore.ieee.org/document/8968397). Shunli Ma, Yi Deng, Yi Deng, Jiang Zhang, Xiang Xie. TDSC'21
+  - Keyword: _`Privacy`_, _`ZKP`_
 
 - 🎓 [Security and privacy in decentralized energy trading through multi-signatures, blockchain and anonymous messaging streams](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/7589035). Aitzhan N Z, Svetinovic D. TDSC'16
   - Keyword: _`Applications`_
+
+
+## TIFS (A)
+- 🎓 [SDTE: A Secure Blockchain-Based Data Trading Ecosystem](https://www.careerskeen.com/pdf/31.pdf). Dai W, Dai C, Choo K K R, et al. TIFS'20
+  - Keyword: _`Smart contract`_, _`TEE`_
+
+- 🎓 [Puncturable Signatures and Applications in Proof-of-Stake Blockchain Protocols](https://arxiv.org/pdf/1909.03955.pdf). Li X, Xu J, Fan X, et al. TIFS'20
+  - Keyword: _`PoS`_
+
+- 🎓 [GDPR-Compliant Personal Data Management: A Blockchain-Based Solution](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8876647). Truong N B, Sun K, Lee G M, et al. TIFS'20
+  - Keyword: _`Smart Contracts`_, _`GDPR`_
 
 ## ASIACRYPT (B)
 
@@ -1108,6 +1150,13 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Consensus`_, _`PoW`_
 
 ## ACNS (C)
+
+- 🎓 [Minting Mechanism for Proof of Stake Blockchains](https://link.springer.com/chapter/10.1007%2F978-3-030-57808-4_16). Dominic Deuber, Nico Döttling, Bernardo Magri, Giulio Malavolta, Sri Aravinda Krishnan Thyagarajan. ACNS'20.
+  -		Keyword: _`PoS`_
+
+- 🎓 [Timed Signatures and Zero-Knowledge Proofs - Timestamping in the Blockchain Era](https://link.springer.com/chapter/10.1007%2F978-3-030-57808-4_17). Aydin Abadi, Michele Ciampi, Aggelos Kiayias, Vassilis Zikas. ACNS'20.
+  -		Keyword: _`Timestamping`_, _`Zero-Knowledge Proofs`_
+
 
 - 🎓 [Threshold-optimal DSA/ECDSA signatures and an application to Bitcoin wallet security](https://eprint.iacr.org/2016/013.pdf). Gennaro R, Goldfeder S, Narayanan A. ACNS'16.
   - Keyword: _`Wallets`_, _`Threshold Signature`_
