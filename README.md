@@ -15,6 +15,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - **Added USENIX Security '21 Summer Accepted Paper**
 - **Added FC'21!**
 - **Added NDSS'21!**
+- **Added OSDI'21**
 
 ## Conference Information
 
@@ -32,7 +33,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [SOSP(ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019 (No schedule in 2020)
 - [N(USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
 - [VLDB(International Conference on Very Large Data Bases)](#vldb-a) <= 2020
-- [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2020
+- [OSDI(USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2021
 - [SIGMOD(ACM Conference on Management of Data)](#sigmod-a) <= 2020
 - [ASE(International Conference on Automated Software Engineering)](#ase-a) <= 2020
 - [ICSE(International Conference on Software Engineering)](#icse-a)<=2021
@@ -745,26 +746,24 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## OSDI (A)
 
+- 🎓 [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/system/files/osdi21-yang.pdf) Youngseok Yang, *Seoul National University;* Taesoo Kim, *Georgia Institute of Technology;* Byung-Gon Chun, *Seoul National University and FriendliAI*
+  - Keyword: _`Security`_, _`Ethereum`_
+- 🎓 [Bringing Decentralized Search to Decentralized Services](https://www.usenix.org/system/files/osdi21-li.pdf) Mingyu Li, Jinhao Zhu, and Tianxu Zhang, *Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China;* Cheng Tan, *Northeastern University;* Yubin Xia, *Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China;* Sebastian Angel, *University of Pennsylvania;* Haibo Chen, *Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China*
+  - Keyword:  _`TEE`_, _`Decentralized Application`_
 - 🎓 [Virtual Consensus in Delos](https://maheshba.bitbucket.io/papers/delos-osdi2020.pdf). Mahesh Balakrishnan, Jason Flinn, Chen Shen, Mihir Dharamshi, Ahmed Jafri, Xiao Shi, Santosh Ghosh, Hazem Hassan, Aaryaman Sagar, Rhed Shi, Jingming Liu, Filip Gruszczynski, Xianan Zhang, Huy Hoang, Ahmed Yossef, Francois Richard, and Yee Jiun Song, Facebook, Inc. OSDI'20
-
   - Keyword: _`Scalability`_, _`Consensus`_
-
 - 🎓 [Byzantine Ordered Consensus without Byzantine Oligarchy](https://eprint.iacr.org/2020/1300.pdf). Yunhao Zhang, Cornell University; Srinath Setty, Qi Chen, and Lidong Zhou, Microsoft Research; Lorenzo Alvisi, Cornell University. OSDI'20
 
   - Keyword: _`Scalability`_, _`Consensus`_, **Byzantine Ordered Consensus**
-
 - 🎓 [Microsecond Consensus for Microsecond Applications](https://arxiv.org/pdf/2010.06288.pdf). Marcos K. Aguilera and Naama Ben-David, VMware Research; Rachid Guerraoui, EPFL; Virendra J. Marathe, Oracle Labs; Athanasios Xygkis and Igor Zablotchi, EPFL. OSDI'20
 
   - Keyword: _`Scalability`_, _`Consensus`_
-
 - 🎓 [Blockene: A High-throughput Blockchain Over Mobile Devices](https://www.usenix.org/conference/osdi20/presentation/satija). Sambhav Satija and Apurv Mehra, Microsoft Research India; Sudheesh Singanamalla, University of Washington; Karan Grover, Muthian Sivathanu, Nishanth Chandran, Divya Gupta, and Satya Lokam, Microsoft Research India. OSDI'20
 
   - Keyword: _`Scalability`_, _`Consensus`_
-
 - 🎓 [Proving the correct execution of concurrent services in zero-knowledge](https://www.usenix.org/system/files/osdi18-setty.pdf). Srinath Setty, Sebastian Angel, Trinabh Gupta, Jonathan Lee. OSDI'18.
 
   - Keyword: **Spice**, _`Formal Methods`_, _`ZKP`_
-
 - 🎓 [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf). Castro M., Liskov B. OSDI'99.
   - Keyword: _`Consensus`_
 
