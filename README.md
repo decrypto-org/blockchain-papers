@@ -746,15 +746,15 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## OSDI (A)
 
-- 🎓 [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/system/files/osdi21-yang.pdf) Youngseok Yang, *Seoul National University;* Taesoo Kim, *Georgia Institute of Technology;* Byung-Gon Chun, *Seoul National University and FriendliAI*
+- 🎓 [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing.](https://www.usenix.org/system/files/osdi21-yang.pdf) Youngseok Yang, *Seoul National University;* Taesoo Kim, *Georgia Institute of Technology;* Byung-Gon Chun, *Seoul National University and FriendliAI*
   - Keyword: _`Security`_, _`Ethereum`_
-- 🎓 [Bringing Decentralized Search to Decentralized Services](https://www.usenix.org/system/files/osdi21-li.pdf) Mingyu Li, Jinhao Zhu, and Tianxu Zhang, *Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China;* Cheng Tan, *Northeastern University;* Yubin Xia, *Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China;* Sebastian Angel, *University of Pennsylvania;* Haibo Chen, *Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China*
+- 🎓 [Bringing Decentralized Search to Decentralized Services](https://www.usenix.org/system/files/osdi21-li.pdf). Mingyu Li, Jinhao Zhu, and Tianxu Zhang, *Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China;* Cheng Tan, *Northeastern University;* Yubin Xia, *Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China;* Sebastian Angel, *University of Pennsylvania;* Haibo Chen, *Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China*
   - Keyword:  _`TEE`_, _`Decentralized Application`_
 - 🎓 [Virtual Consensus in Delos](https://maheshba.bitbucket.io/papers/delos-osdi2020.pdf). Mahesh Balakrishnan, Jason Flinn, Chen Shen, Mihir Dharamshi, Ahmed Jafri, Xiao Shi, Santosh Ghosh, Hazem Hassan, Aaryaman Sagar, Rhed Shi, Jingming Liu, Filip Gruszczynski, Xianan Zhang, Huy Hoang, Ahmed Yossef, Francois Richard, and Yee Jiun Song, Facebook, Inc. OSDI'20
   - Keyword: _`Scalability`_, _`Consensus`_
 - 🎓 [Byzantine Ordered Consensus without Byzantine Oligarchy](https://eprint.iacr.org/2020/1300.pdf). Yunhao Zhang, Cornell University; Srinath Setty, Qi Chen, and Lidong Zhou, Microsoft Research; Lorenzo Alvisi, Cornell University. OSDI'20
 
-  - Keyword: _`Scalability`_, _`Consensus`_, **Byzantine Ordered Consensus**
+  - Keyword: _`Scalability`_, _`Consensus`_, _`Byzantine Ordered Consensus`_
 - 🎓 [Microsecond Consensus for Microsecond Applications](https://arxiv.org/pdf/2010.06288.pdf). Marcos K. Aguilera and Naama Ben-David, VMware Research; Rachid Guerraoui, EPFL; Virendra J. Marathe, Oracle Labs; Athanasios Xygkis and Igor Zablotchi, EPFL. OSDI'20
 
   - Keyword: _`Scalability`_, _`Consensus`_
