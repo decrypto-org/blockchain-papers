@@ -9,6 +9,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## News
 
+- **Added USENIX Security '22 Summer Accepted Paper**
 - **Added USENIX Security '21 Winter Accepted Paper**
 - **Added S&P'21!**
 - **Added ICSE'21!**
@@ -23,7 +24,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 > Conference
 
-- [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2021
+- [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2022 Summer
 - [S&P(IEEE Security and Privacy)](#sp-a) <= 2021
 - [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2020
 - [NDSS(Network and Distributed System Security)](#ndss-a) <= 2021
@@ -113,6 +114,9 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## USENIX Security (A)
 
+- 🎓 [Aardvark: An Asynchronous Authenticated Dictionary with Applications to Account-based Cryptocurrencies](https://www.usenix.org/system/files/sec22summer_leung.pdf). Derek Leung, MIT CSAIL; Yossi Gilad, Hebrew University of Jerusalem; Sergey Gorbunov, University of Waterloo; Leonid Reyzin, Boston University; Nickolai Zeldovich, MIT CSAIL. USENIX Security'22.
+  - Keyword: _`Scalability`_, _`Wallets`_
+  
 - 🎓 [On the Routing-Aware Peering against Network-Eclipse Attacks in Bitcoin](https://www.usenix.org/system/files/sec21fall-tran.pdf). Muoi Tran and Akshaye Shenoi, National University of Singapore; Min Suk Kang, KAIST. USENIX Security'21.
   - Keyword: _`Network`_
 
