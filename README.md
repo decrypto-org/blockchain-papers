@@ -9,14 +9,13 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## News
 
+- **Added S&P'22!**
 - **Added USENIX Security '22 Summer Accepted Paper**
 - **Added USENIX Security '21 Winter Accepted Paper**
 - **Added S&P'21!**
 - **Added ICSE'21!**
 - **Added USENIX Security '21 Summer Accepted Paper**
 - **Added FC'21!**
-- **Added NDSS'21!**
-- **Added OSDI'21**
 
 ## Conference Information
 
@@ -25,7 +24,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 > Conference
 
 - [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2022 Summer
-- [S&P(IEEE Security and Privacy)](#sp-a) <= 2021
+- [S&P(IEEE Security and Privacy)](#sp-a) <= 2022
 - [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2020
 - [NDSS(Network and Distributed System Security)](#ndss-a) <= 2021
 - [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2020 (waiting for notifications, 2021.4.19)
@@ -96,9 +95,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - _`Concurrent`_
 - _`Interoperability`_
 - _`Security`_
-  - _`Multi-signature`_, _`Threshold Signature`_
+  - _`Multi-signature`_
   - _`Formal Methods`_
   - _`Post-quantum`_
+  - _`Atomic Swaps`_
 - _`Applications`_
   - _`Crime`_, _`Economics`_, _`Marketplaces`_, _`Sociological`_, _`Anthropological`_
 - _`Attacks`_
@@ -116,129 +116,174 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [Aardvark: An Asynchronous Authenticated Dictionary with Applications to Account-based Cryptocurrencies](https://www.usenix.org/system/files/sec22summer_leung.pdf). Derek Leung, MIT CSAIL; Yossi Gilad, Hebrew University of Jerusalem; Sergey Gorbunov, University of Waterloo; Leonid Reyzin, Boston University; Nickolai Zeldovich, MIT CSAIL. USENIX Security'22.
   - Keyword: _`Scalability`_, _`Wallets`_
-  
 - 🎓 [On the Routing-Aware Peering against Network-Eclipse Attacks in Bitcoin](https://www.usenix.org/system/files/sec21fall-tran.pdf). Muoi Tran and Akshaye Shenoi, National University of Singapore; Min Suk Kang, KAIST. USENIX Security'21.
+
   - Keyword: _`Network`_
 
 - 🎓[EOSAFE: Security Analysis of EOSIO Smart Contracts](https://www.usenix.org/system/files/sec21fall-he-ningyu.pdf). Ningyu He, Key Lab on HCST (MOE), Peking University; Ruiyi Zhang, PeckShield, Inc.; Haoyu Wang, Beijing University of Posts and Telecommunications; Lei Wu, Zhejiang University; Xiapu Luo, The Hong Kong Polytechnic University; Yao Guo, Key Lab on HCST (MOE), Peking University; Ting Yu, Qatar Computing Research Institute; Xuxian Jiang, PeckShield, Inc. USENIX Security'21.
+
   - Keyword: _`Smart Contracts`_
 
 - 🎓[Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/system/files/sec21summer_su.pdf). Liya Su, Indiana University Bloomington and Institute of Information Engineering, University of Chinese Academy of Sciences; Xinyue Shen, Indiana University Bloomington and Alibaba Group; Xiangyu Du, Indiana University Bloomington and Institute of Information Engineering, University of Chinese Academy of Sciences; Xiaojing Liao, XiaoFeng Wang, and Luyi Xing, Indiana University Bloomington; Baoxu Liu, Institute of Information Engineering, University of Chinese Academy of Sciences. USENIX Security'21.
   - Keyword: _`Attacks`_,_`Dapp`_
-  
 - 🎓[Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain](https://arxiv.org/pdf/2102.03347.pdf). Christof Ferreira Torres, University of Luxembourg; Ramiro Camino, Luxembourg Institute of Science and Technology; Radu State, University of Luxembourg. USENIX Security'21.
+
   - Keyword: _`Security`_
 
 - 🎓 [SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution](https://www.usenix.org/system/files/sec21fall-so.pdf). Sunbeom So, Seongjoon Hong, and Hakjoo Oh, Korea University. USENIX Security'21.
+
   - Keyword: _`Smart Contracts`_
 
 - 🎓 [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://www.usenix.org/system/files/sec21summer_rodler.pdf). Michael Rodler, University of Duisburg-Essen; Wenting Li and Ghassan O. Karame, NEC Laboratories Europe; Lucas Davi, University of Duisburg-Essen. USENIX Security'21.
   - Keyword: _`Smart Contracts`_, _`Ethereum`_, `Patch`
-  
 - 🎓 [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.usenix.org/system/files/sec21summer_perez.pdf). Daniel Perez and Ben Livshits, Imperial College London. USENIX Security'21.
-	- Keyword: _`Smart Contracts`_, _`Ethereum`_, `Survey`
+
+  - Keyword: _`Smart Contracts`_, _`Ethereum`_, `Survey`
 
 - 🎓 [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf) Joel Frank, Cornelius Aschermann, and Thorsten Holz, Ruhr-University Bochum. USENIX Security'20.
+
   - Keyword: _`Smart Contracts`_, _`Formal Methods`_
 
 - 🎓 [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/system/files/sec20-zhou-shunfan.pdf). Shunfan Zhou, Zhemin Yang, and Jie Xiang, Fudan University; Yinzhi Cao, Johns Hopkins University; Min Yang and Yuan Zhang, Fudan University. USENIX Security'20.
+
   - Keyword: _`Attacks`_，_`Smart Contracts`_
 
 - 🎓 [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/system/files/sec20-zhang-mengya.pdf). Mengya Zhang, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin, The Ohio State University. USENIX Security'20.
+
   - Keyword: _`Attacks`_
 
 - 🎓 [Remote Side-Channel Attacks on Anonymous Transactions](https://www.usenix.org/system/files/sec20-tramer.pdf). Florian Tramer and Dan Boneh, Stanford University; Kenny Paterson, ETH Zurich. USENIX Security'20.
+
   - Keyword: _`Anonymity Privacy`_, _`Attacks`_
 
 - 🎓 [BlockSci: Design and applications of a blockchain analysis platform](https://www.usenix.org/system/files/sec20-kalodner.pdf). Harry Kalodner, Malte Möser, and Kevin Lee, Princeton University; Steven Goldfeder, Cornell Tech; Martin Plattner, University of Innsbruck; Alishah Chator, Johns Hopkins University; Arvind Narayanan, Princeton University. USENIX Security'20.
+
   - Keyword: _`Security`_
 
 - 🎓 [The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections](https://www.usenix.org/system/files/sec20-specter.pdf). Michael A. Specter, James Koppel, and Daniel Weitzner, MIT. USENIX Security'20.
+
   - Keyword: _`Security`_
 
 - 🎓 [Pixel: Multi-signatures for Consensus](https://smeiklej.com/files/usenix19.pdf). Manu Drijvers, DFINITY; Sergey Gorbunov, Algorand and University of Waterloo; Gregory Neven, DFINITY; Hoeteck Wee, Algorand and CNRS, ENS, PSL. USENIX Security'20.
+
   - Keyword: **Pixel**, _`Multi-signature`_, _`PoS`_
 
 - 🎓 [Tracing Transactions Across Cryptocurrency Ledgers](https://smeiklej.com/files/usenix19.pdf). Haaroon Yousaf, George Kappos, and Sarah Meiklejohn. USENIX Security'19.
+
   - Keyword: _`Transaction Analysis`_
 
 - 🎓 [StrongChain: Transparent and Collaborative Proof-of-Work Consensus](https://arxiv.org/pdf/1905.09655.pdf). Pawel Szalachowski, Daniël Reijsbergen, and Ivan Homoliak, Siwei Sun. USENIX Security'19.
+
   - Keyword: _`Consensus`_
 
 - 🎓 [BITE: Bitcoin Lightweight Client Privacy using Trusted Execution](https://www.usenix.org/system/files/sec19fall_matetic_prepub.pdf). Sinisa Matetic, Karl Wüst, Moritz Schneider, and Kari Kostiainen, Ghassan Karame, Srdjan Capkun. USENIX Security'19.
+
   - Keyword: _`Privacy`_
 
 - 🎓 [FastKitten: Practical Smart Contracts on Bitcoin](https://www.usenix.org/system/files/sec19fall_das_prepub.pdf). Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. USENIX Security'19.
-  - Keyword: _`Smart Contracts`_
-
-* 🎓 [teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf). Johannes K, Christian R. USENIX Security'18.
 
   - Keyword: _`Smart Contracts`_
 
-* 🎓 [Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-breidenbach.pdf). Lorenz B, Philip D, Florian T, Ari J. USENIX Security'18.
+- 🎓 [teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf). Johannes K, Christian R. USENIX Security'18.
+
   - Keyword: _`Smart Contracts`_
 
-* 🎓 [Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf). Harry K, Steven G, Xiaoqi C, S. Matthew W, Edward W. F. USENIX Security'18.
+- 🎓 [Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-breidenbach.pdf). Lorenz B, Philip D, Florian T, Ari J. USENIX Security'18.
+
   - Keyword: _`Smart Contracts`_
 
-* 🎓 [Erays: Reverse Engineering Ethereum's Opaque Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf). Yi Z, Deepak K, Surya B, Joshua M, Andrew M, Michael B. USENIX Security'18.
+- 🎓 [Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf). Harry K, Steven G, Xiaoqi C, S. Matthew W, Edward W. F. USENIX Security'18.
+
+  - Keyword: _`Smart Contracts`_
+
+- 🎓 [Erays: Reverse Engineering Ethereum's Opaque Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf). Yi Z, Deepak K, Surya B, Joshua M, Andrew M, Michael B. USENIX Security'18.
+
   - Keyword: _`Smart Contracts`_
 
 - 🎓 [An Empirical Analysis of Anonymity in Zcash](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kappos.pdf). George Kappos, Haaroon Yousaf, Mary Maller, and Sarah Meiklejohn. USENIX Security'18 Security Symposium.
+
   - Keyword: _`Anonymity Privacy`_
 
-* 🎓 [Smartpool: Practical decentralized pooled mining](https://eprint.iacr.org/2017/019.pdf). Luu L, Velner Y, Teutsch J, Saxena P. USENIX Security'17.
+- 🎓 [Smartpool: Practical decentralized pooled mining](https://eprint.iacr.org/2017/019.pdf). Luu L, Velner Y, Teutsch J, Saxena P. USENIX Security'17.
 
   - Keyword: _`Mining`_
 
-* 🎓 [REM: Resource-Efficient Mining for Blockchains](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-zhang.pdf). Fan Z, Ittay E, Robert E, Ari J, Robbert van R. USENIX Security'17.
+- 🎓 [REM: Resource-Efficient Mining for Blockchains](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-zhang.pdf). Fan Z, Ittay E, Robert E, Ari J, Robbert van R. USENIX Security'17.
 
   - Keyword: _`Mining`_
 
-* 🎓 **[Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf)**. Kogias EK, Jovanovic P, Gailly N, Khoffi I, Gasser L, Ford B. USENIX Security'16.
+- 🎓 **[Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_kokoris-kogias.pdf)**. Kogias EK, Jovanovic P, Gailly N, Khoffi I, Gasser L, Ford B. USENIX Security'16.
 
   - Keyword: **ByzCoin**, _`Consensus`_, _`PoS`_
 
-* 🎓 [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. USENIX'16.
+- 🎓 [Bitcoin-NG: A Scalable Blockchain Protocol](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-eyal.pdf). Eyal I, Gencer AE, Sirer EG, Van Renesse R. USENIX'16.
+
   - Keyword: _`Scalability`_
 
 - 🎓 [Eclipse Attacks on Bitcoin's Peer-to-Peer Network](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-heilman.pdf). Heilman E, Kendler A, Zohar A, Goldberg S. USENIX Security'15.
+
   - Keyword: _`Network`_
 
-* 🎓 [Measuring the Longitudinal Evolution of the Online Anonymous Marketplace Ecosystem](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-soska-updated.pdf). Soska K, Christin N. USENIX Security'15.
+- 🎓 [Measuring the Longitudinal Evolution of the Online Anonymous Marketplace Ecosystem](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-soska-updated.pdf). Soska K, Christin N. USENIX Security'15.
   - Keyword: _`Marketplaces`_
-
 
 ## S&P (A)
 
+- 🎓 [MatRiCT+: More Efficient Post-Quantum Private Blockchain Payments](https://eprint.iacr.org/2021/545.pdf). Muhammed F. Esgin (Monash University and CSIRO's Data61, Australia), Ron Steinfeld (Monash University, Australia), Raymond K. Zhao (Monash University, Australia). S&P'22.
+
+  - Keyword: _`Privacy`_, _`Mixing`_, _`Ring Signature`_, _`RingCT`_, _`ZKP`_
+
+- 🎓 [Quantifying Blockchain Extractable Value:How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf). Kaihua Qin (Imperial College London), Liyi Zhou (Imperial College London), Arthur Gervais (Imperial College London). S&P'22.
+
+  - Keyword: _`Security`_
+
+
+- 🎓 [Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains](https://eprint.iacr.org/2021/1612.pdf). Sri AravindaKrishnan Thyagarajan (Friedrich Alexander University of Erlangen-Nürnberg), Giulio Malavolta (Max Planck Institute for Security and Privacy), Pedro Moreno-Sanchez (IMDEA Software Institute). S&P'22.
+
+  - Keyword: _`Interoperability`_, _`Security`_, _`Atomic Swaps`_
+
+- 🎓 [Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains](https://arxiv.org/pdf/2108.01341.pdf). Ruomu Hou (National University of Singapore), Haifeng Yu (National University of Singapore), Prateek Saxena (National University of Singapore). S&P'22.
+
+  - Keyword: _`Consensus`_, _`Network`_
+
+- [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf). Priyanka Bose (University of California, Santa Barbara), Dipanjan Das (University of California, Santa Barbara), Yanju Chen (University of California, Santa Barbara), Yu Feng (University of California, Santa Barbara), Christopher Kruegel (University of California, Santa Barbara), Giovanni Vigna (UC Santa Barbara)
+
 - 🎓 [MANY-OUT-OF-MANY PROOFS and applications to Anonymous Zether](https://eprint.iacr.org/2020/293.pdf). Benjamin E. Diamond (J.P. Morgan). S&P'21.
+
   - Keyword: _`Anoymous payment`_
 
 - 🎓 [A2L: Anonymous Atomic Locks for Scalability inPayment Channel Hubs∗](https://eprint.iacr.org/2019/589.pdf). Erkan Tairi (TU Wien), Pedro Moreno-Sanchez (IMDEA Software Institute), Matteo Maffei (TU Wien). S&P'21.
+
   - Keyword: _`PCH payment channel hub`_
 
-- 🎓 [Compact Certificates of Collective Knowledge](https://people.csail.mit.edu/nickolai/papers/micali-compactcert-eprint.pdf).  Silvio Micali (Algorand and MIT), Leonid Reyzin (Algorand and Boston University), Georgios Vlachos (), Riad S. Wahby (Algorand and Stanford), Nickolai Zeldovich (Algorand and MIT). S&P'21.
+- 🎓 [Compact Certificates of Collective Knowledge](https://people.csail.mit.edu/nickolai/papers/micali-compactcert-eprint.pdf). Silvio Micali (Algorand and MIT), Leonid Reyzin (Algorand and Boston University), Georgios Vlachos (), Riad S. Wahby (Algorand and Stanford), Nickolai Zeldovich (Algorand and MIT). S&P'21.
+
   - Keyword: _`Certificates`_
 
-- 🎓 [Ebb-and-Flow Protocols: A Resolution of the Availability-Finality Dilemma](https://arxiv.org/pdf/2009.04987.pdf).  Joachim Neu (Stanford University), Ertem Nusret Tas (Stanford University), David Tse (Stanford University). S&P'21.
+- 🎓 [Ebb-and-Flow Protocols: A Resolution of the Availability-Finality Dilemma](https://arxiv.org/pdf/2009.04987.pdf). Joachim Neu (Stanford University), Ertem Nusret Tas (Stanford University), David Tse (Stanford University). S&P'21.
   - Keyword: _`Consensus`_
-  
-- 🎓 [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/pdf/2009.14021.pdf).  Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Christof Ferreira Torres (University of Luxembourg), Duc V Le (Purdue University), Arthur Gervais (Imperial College London), Tyler Crain (University of Sydney), Christopher Natoli (University of Sydney), Vincent Gramoli (University of Sydney and EPFL). S&P'21.
+- 🎓 [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/pdf/2009.14021.pdf). Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Christof Ferreira Torres (University of Luxembourg), Duc V Le (Purdue University), Arthur Gervais (Imperial College London), Tyler Crain (University of Sydney), Christopher Natoli (University of Sydney), Vincent Gramoli (University of Sydney and EPFL). S&P'21.
+
   - Keyword: _`DEX`_
 
-- 🎓 [Lockable Signatures for Blockchains: Scriptless Scripts for all Signatures](https://eprint.iacr.org/2020/1613.pdf).  Sri AravindaKrishnan Thyagarajan (Friedrich Alexander Universität Erlangen-Nürnberg), Giulio Malavolta (Max Planck Institute for Security and Privacy). S&P'21.
+- 🎓 [Lockable Signatures for Blockchains: Scriptless Scripts for all Signatures](https://eprint.iacr.org/2020/1613.pdf). Sri AravindaKrishnan Thyagarajan (Friedrich Alexander Universität Erlangen-Nürnberg), Giulio Malavolta (Max Planck Institute for Security and Privacy). S&P'21.
+
   - Keyword: _`Payment Channel Networks(PCNs) BLS`_
 
-- 🎓 [On the Anonymity Guarantees of Anonymous Proof-of-Stake Protocols](https://eprint.iacr.org/2021/409.pdf).  Varun Madathil (North Carolina State University), Alessandra Scafuro (North Carolina State University), Kartik Nayak (Duke University), Markulf Kohlweiss (University of Edinburgh). S&P'21.
+- 🎓 [On the Anonymity Guarantees of Anonymous Proof-of-Stake Protocols](https://eprint.iacr.org/2021/409.pdf). Varun Madathil (North Carolina State University), Alessandra Scafuro (North Carolina State University), Kartik Nayak (Duke University), Markulf Kohlweiss (University of Edinburgh). S&P'21.
+
   - Keyword: _`Proof-of-Stake`_
 
-- 🎓 [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols](https://arxiv.org/pdf/2103.02228.pdf).  Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Antoine Cully (Imperial College London), Benjamin Livshits (Imperial College London), Arthur Gervais (Imperial College London). S&P'21.
+- 🎓 [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols](https://arxiv.org/pdf/2103.02228.pdf). Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Antoine Cully (Imperial College London), Benjamin Livshits (Imperial College London), Arthur Gervais (Imperial College London). S&P'21.
+
   - Keyword: _`Defi`_
 
-- 🎓 [SGUARD: Smart Contracts Made Vulnerability-Free](https://arxiv.org/pdf/2101.01917.pdf).  Long H. Pham (Singapore Management University), Jun Sun (Singapore Management University), Tai Duy Nguyen (Singapore Management University). S&P'21.
+- 🎓 [SGUARD: Smart Contracts Made Vulnerability-Free](https://arxiv.org/pdf/2101.01917.pdf). Long H. Pham (Singapore Management University), Jun Sun (Singapore Management University), Tai Duy Nguyen (Singapore Management University). S&P'21.
+
   - Keyword: _`Smart Contracts`_
 
-- 🎓 [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts ](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/SmartPulse-Oakland21-preprint.pdf).  Jon Stephens (The University of Texas at Austin), Kostas Ferles (The University of Texas at Austin), Benjamin Mariano (The University of Texas at Austin), Shuvendu Lahiri (Microsoft Research), Isil Dillig (The University of Texas at Austin). S&P'21.
+- 🎓 [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/SmartPulse-Oakland21-preprint.pdf). Jon Stephens (The University of Texas at Austin), Kostas Ferles (The University of Texas at Austin), Benjamin Mariano (The University of Texas at Austin), Shuvendu Lahiri (Microsoft Research), Isil Dillig (The University of Texas at Austin). S&P'21.
+
   - Keyword: _`Smart Contracts`_
 
 - 🎓 [ZEXE: Enabling Decentralized Private Computation](https://par.nsf.gov/servlets/purl/10175111). Sean Bowe, Alessandro Chiesa, Matthew Green, Ian Miers, Pratyush Mishra, Howard Wu. S&P'20.
@@ -274,13 +319,15 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Attacks`_
 
 - 🎓 [Proof-of-Stake Sidechains](https://eprint.iacr.org/2018/1239.pdf). Peter Gaži, Aggelos Kiayias, Dionysis Zindros. IEEE S&P'19.
+
   - Keyword: _`Sidechain`_
 
-* 🎓 [Blind Certificate Authorities](https://shelat.ccis.neu.edu/dl/WAPRS-blindca.pdf). Liang W, Gilad A, Rafael P, Thomas R, Abhi S. S&P '19.
+- 🎓 [Blind Certificate Authorities](https://shelat.ccis.neu.edu/dl/WAPRS-blindca.pdf). Liang W, Gilad A, Rafael P, Thomas R, Abhi S. S&P '19.
 
   - Keyword: _`Privacy`_
 
-* 🎓 [Bitcoin vs. Bitcoin Cash: Coexistence or Downfall of Bitcoin Cash?](https://arxiv.org/pdf/1902.11064.pdf). Yujin K, Hyoungshick K, Jinwoo S, Yongdae K. S&P '19.
+- 🎓 [Bitcoin vs. Bitcoin Cash: Coexistence or Downfall of Bitcoin Cash?](https://arxiv.org/pdf/1902.11064.pdf). Yujin K, Hyoungshick K, Jinwoo S, Yongdae K. S&P '19.
+
   - Keyword: _`Mining`_
 
 - 🎓 [Perun: Virtual payment hubs over cryptocurrencies](https://eprint.iacr.org/2017/635.pdf) Dziembowski S, Eckey L, Faust S, Malinowski D. IEEE S&P'19.
@@ -308,9 +355,11 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`System`_
 
 - 🎓 [Secure two-party threshold ECDSA from ECDSA assumptions](https://eprint.iacr.org/2018/499.pdf). Doerner J, Kondi Y, Lee E, et al. S&P'18.
+
   - Keyword: _`Wallets`_, _`Threshold Signature`_
 
-* 🎓 [Hijacking Bitcoin: Routing Attacks on Cryptocurrencies](https://arxiv.org/pdf/1605.07524v2). Apostolaki M, Zohar A, Vanbever L. S&P'17.
+- 🎓 [Hijacking Bitcoin: Routing Attacks on Cryptocurrencies](https://arxiv.org/pdf/1605.07524v2). Apostolaki M, Zohar A, Vanbever L. S&P'17.
+
   - Keyword: _`Network`_
 
 - 🎓 [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf). Kosba A, Miller A, Shi E, Wen Z, Papamanthou C. S&P'16
@@ -330,9 +379,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Consensus`_, _`PoW`_
 
 - 🎓 [Zerocash: Decentralized anonymous payments from bitcoin](http://ieeexplore.ieee.org/iel7/6954656/6956545/06956581.pdf). Sasson EB, Chiesa A, Garman C, Green M, Miers I, Tromer E, Virza M. S&P'14.
+
   - Keyword: **Zerocash**, _`Privacy`_
 
-* 🎓 [Zerocoin: Anonymous distributed e-cash from bitcoin](http://ieeexplore.ieee.org/iel7/6547086/6547088/06547123.pdf). Miers I, Garman C, Green M, Rubin AD. S&P'13.
+- 🎓 [Zerocoin: Anonymous distributed e-cash from bitcoin](http://ieeexplore.ieee.org/iel7/6547086/6547088/06547123.pdf). Miers I, Garman C, Green M, Rubin AD. S&P'13.
   - Keyword: **Zerocoin**, _`Privacy`_
 
 ## CCS (A)
@@ -403,9 +453,11 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Wallets`_, _`Threshold Signature`_
 
 - 🎓 [General State Channel Networks](https://eprint.iacr.org/2018/320.pdf) Dziembowski S, Faust S, Hostáková K. CCS'18.
+
   - Keyword: _`Payment Channel Networks`_
 
-* 🎓 [Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability](https://eprint.iacr.org/2018/378.pdf). Badertscher C, Gazi P, Kiayias A, Russell A, Zikas V. CCS'18.
+- 🎓 [Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability](https://eprint.iacr.org/2018/378.pdf). Badertscher C, Gazi P, Kiayias A, Russell A, Zikas V. CCS'18.
+
   - Keyword: _`PoS`_
 
 - 🎓 [FairSwap: How to fairly exchange digital goods](https://eprint.iacr.org/2018/740) Dziembowski S, Faust S, Eckey L. CCS'18.
@@ -413,39 +465,47 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: **FairSwap**, _`System`_
 
 - 🎓 [RapidChain: Scaling Blockchain via Full Sharding](https://dl.acm.org/ft_gateway.cfm?ftid=2008927&id=3243853). Mahdi Zamani, Mahnush Movahedi, Mariana Raykova. CCS'18.
+
   - Keyword: **RapidChain**, _`System`_
 
-* 🎓 [The Gap Game](http://delivery.acm.org/10.1145/3250000/3243737/p713-tsabary.pdf). Tsabary I., Eyal I. CCS'18.
+- 🎓 [The Gap Game](http://delivery.acm.org/10.1145/3250000/3243737/p713-tsabary.pdf). Tsabary I., Eyal I. CCS'18.
 
   - Keyword: _`Economics`_
 
-* 🎓 [Concurrency and Privacy with Payment-Channel Networks](https://eprint.iacr.org/2017/820.pdf). Malavolta G, Moreno-Sanchez P, Kate A, Maffei M, Ravi S. CCS '17.
+- 🎓 [Concurrency and Privacy with Payment-Channel Networks](https://eprint.iacr.org/2017/820.pdf). Malavolta G, Moreno-Sanchez P, Kate A, Maffei M, Ravi S. CCS '17.
+
   - Keyword: _`Payment Channel Networks`_
 
 - 🎓 [Revive: Rebalancing Off-Blockchain Payment Channel Networks](https://eprint.iacr.org/2017/823.pdf). Khalil, R., & Gervais, A. CCS'17.
+
   - Keyword: _`Payment Channel Networks`_
 
-* 🎓 [Bolt: Anonymous Payment Channels for Decentralized Currencies](https://eprint.iacr.org/2016/701.pdf) Green M, Miers I. CCS'16.
+- 🎓 [Bolt: Anonymous Payment Channels for Decentralized Currencies](https://eprint.iacr.org/2016/701.pdf) Green M, Miers I. CCS'16.
+
   - Keyword: _`Payment Channel Networks`_
 
 - 🎓 [The Honey Badger of BFT Protocols](https://infoscience.epfl.ch/record/222858/files/199.pdf). Miller A, Xia Y, Croman K, Shi E, Song D. CCS'16.
+
   - Keyword: _`System`_
 
-* 🎓 [A secure sharding protocol for open blockchains](https://www.comp.nus.edu.sg/~prateeks/papers/Elastico.pdf). Luu L, Narayanan V, Zheng C, Baweja K, Gilbert S, Saxena P. CCS '16.
+- 🎓 [A secure sharding protocol for open blockchains](https://www.comp.nus.edu.sg/~prateeks/papers/Elastico.pdf). Luu L, Narayanan V, Zheng C, Baweja K, Gilbert S, Saxena P. CCS '16.
 
   - Keyword: **Elastico**, _`Sharding`_, _`Scalability`_
 
-* 🎓 **[On the instability of Bitcoin without the block reward](http://www.cs.princeton.edu/~smattw/CKWN-CCS16.pdf)**. Carlsten M, Kalodner H, Weinberg SM, Narayanan A. CCS'16.
+- 🎓 **[On the instability of Bitcoin without the block reward](http://www.cs.princeton.edu/~smattw/CKWN-CCS16.pdf)**. Carlsten M, Kalodner H, Weinberg SM, Narayanan A. CCS'16.
 
   - Keyword: _`Economics`_
 
-* 🎓 [On the Security and Performance of Proof of Work Blockchains](https://eprint.iacr.org/2016/555.pdf). Gervais A, Karame GO, Wüst K, Glykantzis V, Ritzdorf H, Capkun S. CCS '16.
+- 🎓 [On the Security and Performance of Proof of Work Blockchains](https://eprint.iacr.org/2016/555.pdf). Gervais A, Karame GO, Wüst K, Glykantzis V, Ritzdorf H, Capkun S. CCS '16.
+
   - Keyword: _`Mining`_
 
 - 🎓 [Making Smart Contracts Smarter](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf). Luu L, Chu DH, Olickel H, Saxena P, Hobor A. CCS'16.
+
   - Keyword: _`Smart Contracts`_
 
-* 🎓 [The Honey Badger of BFT Protocols](https://infoscience.epfl.ch/record/222858/files/199.pdf). Miller A, Xia Y, Croman K, Shi E, Song D. CCS'16.
+- 🎓 [The Honey Badger of BFT Protocols](https://infoscience.epfl.ch/record/222858/files/199.pdf). Miller A, Xia Y, Croman K, Shi E, Song D. CCS'16.
+
   - Keyword: _`Network`_
 
 - 🎓 [On the instability of Bitcoin without the block reward](http://www.cs.princeton.edu/~smattw/CKWN-CCS16.pdf). Carlsten M, Kalodner H, Weinberg SM, Narayanan A. CCS'16.
@@ -453,17 +513,19 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Economic`_
 
 - 🎓 [Town crier: An authenticated data feed for smart contracts](http://delivery.acm.org/10.1145/2980000/2978326/p270-zhang.pdf?ip=46.176.188.9&id=2978326&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E594C525CFFA2AFAF&CFID=923932938&CFTOKEN=56121949&__acm__=1492299159_38039f3afa858f241818fdcf190e0200). Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS'16.
+
   - Keyword: _`Smart Contracts`_
 
-* 🎓 **[Making Smart Contracts Smarter](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf)**. Luu L, Chu DH, Olickel H, Saxena P, Hobor A. CCS'16.
+- 🎓 **[Making Smart Contracts Smarter](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf)**. Luu L, Chu DH, Olickel H, Saxena P, Hobor A. CCS'16.
 
   - Keyword: **Oyente**, _`Smart Contracts`_
 
-* 🎓 [The Ring of Gyges: Investigating the Future of Criminal Smart Contracts](http://www.initc3.org/files/Gyges.pdf). Juels A, Kosba A, Shi E. CCS'16.
+- 🎓 [The Ring of Gyges: Investigating the Future of Criminal Smart Contracts](http://www.initc3.org/files/Gyges.pdf). Juels A, Kosba A, Shi E. CCS'16.
 
   - Keyword: _`Smart Contracts`_
 
-* 🎓 [Town crier: An authenticated data feed for smart contracts](https://eprint.iacr.org/2016/168.pdf). Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS'16.
+- 🎓 [Town crier: An authenticated data feed for smart contracts](https://eprint.iacr.org/2016/168.pdf). Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS'16.
+
   - Keyword: _`Smart Contracts`_
 
 - 🎓 [On the Security and Performance of Proof of Work Blockchains](https://eprint.iacr.org/2016/555.pdf). Gervais A, Karame GO, Karl Wüst, Glykantzis V, Ritzdorf H, Capkun S. CCS'16.
@@ -532,38 +594,40 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Smart Contracts`_, _`Formal Methods`_
 
 - 🎓 [Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Malavolta G, Moreno-Sanchez P, Schneidewind C, Kate A, Maffei M. NDSS'19.
-  - Keyword: _`Payment Channels`_
-  - Github: https://github.com/KZen-networks/multi-hop-locks
 
-* 🎓 [SABRE: Protecting Bitcoin against Routing Attacks](https://arxiv.org/pdf/1808.06254.pdf). Maria Apostolaki, Gian Marti, Jan Müller, and Laurent Vanbever. NDSS'19.
+  - Keyword: _`Payment Channels`_
+  - Github: <https://github.com/KZen-networks/multi-hop-locks>
+
+- 🎓 [SABRE: Protecting Bitcoin against Routing Attacks](https://arxiv.org/pdf/1808.06254.pdf). Maria Apostolaki, Gian Marti, Jan Müller, and Laurent Vanbever. NDSS'19.
 
   - Keyword: _`Network`_
 
-* 🎓 [Seth: Protecting Existing Smart Contracts Against Re-Entrancy Attacks](https://arxiv.org/pdf/1812.05934.pdf). Michael Rodler, Wenting Li and Ghassan Karame, Lucas Davi. NDSS'19.
+- 🎓 [Seth: Protecting Existing Smart Contracts Against Re-Entrancy Attacks](https://arxiv.org/pdf/1812.05934.pdf). Michael Rodler, Wenting Li and Ghassan Karame, Lucas Davi. NDSS'19.
 
   - Keyword: _`Smart Contracts`_
 
-* 🎓 [YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes](https://arxiv.org/pdf/1811.03265.pdf). Sourav Das, Vinay Joseph Ribeiro, and Abhijeet Anand. NDSS'19.
+- 🎓 [YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes](https://arxiv.org/pdf/1811.03265.pdf). Sourav Das, Vinay Joseph Ribeiro, and Abhijeet Anand. NDSS'19.
 
   - Keyword: _`Smart Contracts`_
 
-* 🎓 [Fine-Grained and Controlled Rewriting in Blockchains: Chameleon-Hashing Gone Attribute-Based](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02A-3_Derler_paper.pdf). David Derler, Kai Samelin, Daniel Slamanig and Christoph Striecks. NDSS'19.
+- 🎓 [Fine-Grained and Controlled Rewriting in Blockchains: Chameleon-Hashing Gone Attribute-Based](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02A-3_Derler_paper.pdf). David Derler, Kai Samelin, Daniel Slamanig and Christoph Striecks. NDSS'19.
 
   - Keyword: _`Cryptograph`_
 
-* 🎓 [Privacy-preserving Multi-hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Giulio Malavolta, Pedro Moreno Sanchez, Clara Schneidewind and Matteo Maffei, Aniket Kate. NDSS'19.
+- 🎓 [Privacy-preserving Multi-hop Locks for Blockchain Scalability and Interoperability](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_09-4_Malavolta_paper.pdf). Giulio Malavolta, Pedro Moreno Sanchez, Clara Schneidewind and Matteo Maffei, Aniket Kate. NDSS'19.
 
   - Keyword: _`Scalability`_, _`Layer 2`_
 
-* 🎓 ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS'18.
+- 🎓 ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS'18.
 
   - Keyword: _`Economic`_, _`Smart Contracts`_
 
-* 🎓 [Chainspace: A Sharded Smart Contracts Platform](https://sheharbano.com/assets/publications/ndss2018-chainspace.pdf). Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, and George Danezis. NDSS'18.
+- 🎓 [Chainspace: A Sharded Smart Contracts Platform](https://sheharbano.com/assets/publications/ndss2018-chainspace.pdf). Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, and George Danezis. NDSS'18.
 
   - Keyword: **Chainspace**, _`System`_
 
-* 🎓 [Settling Payments Fast and Private: Efficient Decentralized Routing for Path-Based Transactions](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-3_Roos_paper.pdf). Stefanie Roos, Pedro Moreno-Sanchez, Aniket Kate, and Ian Goldberg. NDSS'18.
+- 🎓 [Settling Payments Fast and Private: Efficient Decentralized Routing for Path-Based Transactions](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_09-3_Roos_paper.pdf). Stefanie Roos, Pedro Moreno-Sanchez, Aniket Kate, and Ian Goldberg. NDSS'18.
+
   - Keyword: _`Scalability`_, _`Layer 2`_
 
 - 🎓 [TumbleBit: An untrusted Bitcoin-compatible anonymous payment hub](https://pdfs.semanticscholar.org/a4ce/62a44770a33d1a19b5553f080d4f12e9e55d.pdf). Heilman E, Alshenibr L, Baldimtsi F, Scafuro A, Goldberg S. NDSS'17.
@@ -588,19 +652,23 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Wallets`_, _`Threshold Signature`_
 
 - 🎓 [Bitcoin as a Transaction Ledger: A Composable Treatment](https://eprint.iacr.org/2017/149.pdf). Badertscher C., Maurer U., Tschudi D., Zikas V. CRYPTO'17.
+
   - Keyword: _`Wallets`_
 
-* 🎓 [Fast secure two-party ECDSA signing](https://pdfs.semanticscholar.org/59cb/bb6ccd07dc312d3d0c218d384f004396c370.pdf). Lindell Y. CRYPTO'17.
+- 🎓 [Fast secure two-party ECDSA signing](https://pdfs.semanticscholar.org/59cb/bb6ccd07dc312d3d0c218d384f004396c370.pdf). Lindell Y. CRYPTO'17.
 
   - Keyword: _`Wallets`_, _`Threshold Signature`_
 
-* 🎓 [The Bitcoin Backbone Protocol with Chains of Variable Difficulty](https://eprint.iacr.org/2016/1048). Juan A. Garay and Aggelos Kiayias and Nikos Leonardos. CRYPTO'17.
+- 🎓 [The Bitcoin Backbone Protocol with Chains of Variable Difficulty](https://eprint.iacr.org/2016/1048). Juan A. Garay and Aggelos Kiayias and Nikos Leonardos. CRYPTO'17.
+
   - Keyword: _`Consensus`_, _`PoS`_
 
 - 🎓 [Ouroboros: A provably secure proof-of-stake blockchain protocol](https://pdfs.semanticscholar.org/1c14/549f7ba7d6a000d79a7d12255eb11113e6fa.pdf). Kiayias A, Russell A, David B, Oliynykov R. CRYPTO'17.
+
   - Keyword: **Ouroboros**, _`PoS`_
 
-* 🎓 [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](http://eprint.iacr.org/2017/573.pdf). Bernardo D, Gazi P, Kiayias A, Russell A. Crypto'17.
+- 🎓 [Ouroboros Praos: An adaptively-secure, semi-synchronous proof-of-stake protocol](http://eprint.iacr.org/2017/573.pdf). Bernardo D, Gazi P, Kiayias A, Russell A. Crypto'17.
+
   - Keyword: **Ouroboros Praos**, _`Consensus`_, _`PoS`_
 
 - 🎓 [How to Use Bitcoin to Design Fair Protocols](https://eprint.iacr.org/2014/129.pdf). Bentov I, Kumaresan R. CRYPTO'14.
@@ -639,21 +707,22 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`System`_
 
 - 🎓 [Analysis of the Blockchain Protocol in Asynchronous Networks](https://eprint.iacr.org/2016/454.pdf). Pass R, Seeman L, shelat a. EUROCRYPT'17
+
   - Keyword: _`Consensus-PoW`_
 
-* 🎓 [Fair and Robust Multi-Party Computation using a Global Transaction Ledger](https://eprint.iacr.org/2015/574.pdf). Kiayias A., Zhouh S., Zikas V. EUROCRYPT'16.
+- 🎓 [Fair and Robust Multi-Party Computation using a Global Transaction Ledger](https://eprint.iacr.org/2015/574.pdf). Kiayias A., Zhouh S., Zikas V. EUROCRYPT'16.
 
   - Keyword: _`Applications`_
 
-* 🎓 **[The Bitcoin Backbone Protocol: Analysis and Applications](https://eprint.iacr.org/2014/765.pdf)**. Garay J, Kiayias A, Leonardos N. EUROCRYPT'15.
+- 🎓 **[The Bitcoin Backbone Protocol: Analysis and Applications](https://eprint.iacr.org/2014/765.pdf)**. Garay J, Kiayias A, Leonardos N. EUROCRYPT'15.
 
   - Keyword: _`Consensus`_, _`PoW`_
 
-* 🎓 [Practical threshold signatures](https://link.springer.com/content/pdf/10.1007/3-540-45539-6_15.pdf). Shoup V. EUROCRYPT'00.
+- 🎓 [Practical threshold signatures](https://link.springer.com/content/pdf/10.1007/3-540-45539-6_15.pdf). Shoup V. EUROCRYPT'00.
 
   - Keyword: _`Wallets`_, _`Threshold Signature`_
 
-* 🎓 Secure distributed key generation for discrete-log based cryptosystems. Gennaro R, Jarecki S, Krawczyk H, et al. EUROCRYPT'99
+- 🎓 Secure distributed key generation for discrete-log based cryptosystems. Gennaro R, Jarecki S, Krawczyk H, et al. EUROCRYPT'99
   - Keyword: _`Wallets`_, _`Threshold Signature`_
 
 ## INFOCOM (A)
@@ -750,24 +819,28 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## OSDI (A)
 
-- 🎓 [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing.](https://www.usenix.org/system/files/osdi21-yang.pdf) Youngseok Yang, *Seoul National University;* Taesoo Kim, *Georgia Institute of Technology;* Byung-Gon Chun, *Seoul National University and FriendliAI*
+- 🎓 [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing.](https://www.usenix.org/system/files/osdi21-yang.pdf) Youngseok Yang, _Seoul National University;_ Taesoo Kim, _Georgia Institute of Technology;_ Byung-Gon Chun, _Seoul National University and FriendliAI_
   - Keyword: _`Security`_, _`Ethereum`_
-- 🎓 [Bringing Decentralized Search to Decentralized Services](https://www.usenix.org/system/files/osdi21-li.pdf). Mingyu Li, Jinhao Zhu, and Tianxu Zhang, *Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China;* Cheng Tan, *Northeastern University;* Yubin Xia, *Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China;* Sebastian Angel, *University of Pennsylvania;* Haibo Chen, *Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China*
-  - Keyword:  _`TEE`_, _`Decentralized Application`_
+- 🎓 [Bringing Decentralized Search to Decentralized Services](https://www.usenix.org/system/files/osdi21-li.pdf). Mingyu Li, Jinhao Zhu, and Tianxu Zhang, _Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China;_ Cheng Tan, _Northeastern University;_ Yubin Xia, _Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China;_ Sebastian Angel, _University of Pennsylvania;_ Haibo Chen, _Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University; Shanghai AI Laboratory; Engineering Research Center for Domain-specific Operating Systems, Ministry of Education, China_
+  - Keyword: _`TEE`_, _`Decentralized Application`_
 - 🎓 [Virtual Consensus in Delos](https://maheshba.bitbucket.io/papers/delos-osdi2020.pdf). Mahesh Balakrishnan, Jason Flinn, Chen Shen, Mihir Dharamshi, Ahmed Jafri, Xiao Shi, Santosh Ghosh, Hazem Hassan, Aaryaman Sagar, Rhed Shi, Jingming Liu, Filip Gruszczynski, Xianan Zhang, Huy Hoang, Ahmed Yossef, Francois Richard, and Yee Jiun Song, Facebook, Inc. OSDI'20
   - Keyword: _`Scalability`_, _`Consensus`_
 - 🎓 [Byzantine Ordered Consensus without Byzantine Oligarchy](https://eprint.iacr.org/2020/1300.pdf). Yunhao Zhang, Cornell University; Srinath Setty, Qi Chen, and Lidong Zhou, Microsoft Research; Lorenzo Alvisi, Cornell University. OSDI'20
 
   - Keyword: _`Scalability`_, _`Consensus`_, _`Byzantine Ordered Consensus`_
+
 - 🎓 [Microsecond Consensus for Microsecond Applications](https://arxiv.org/pdf/2010.06288.pdf). Marcos K. Aguilera and Naama Ben-David, VMware Research; Rachid Guerraoui, EPFL; Virendra J. Marathe, Oracle Labs; Athanasios Xygkis and Igor Zablotchi, EPFL. OSDI'20
 
   - Keyword: _`Scalability`_, _`Consensus`_
+
 - 🎓 [Blockene: A High-throughput Blockchain Over Mobile Devices](https://www.usenix.org/conference/osdi20/presentation/satija). Sambhav Satija and Apurv Mehra, Microsoft Research India; Sudheesh Singanamalla, University of Washington; Karan Grover, Muthian Sivathanu, Nishanth Chandran, Divya Gupta, and Satya Lokam, Microsoft Research India. OSDI'20
 
   - Keyword: _`Scalability`_, _`Consensus`_
+
 - 🎓 [Proving the correct execution of concurrent services in zero-knowledge](https://www.usenix.org/system/files/osdi18-setty.pdf). Srinath Setty, Sebastian Angel, Trinabh Gupta, Jonathan Lee. OSDI'18.
 
   - Keyword: **Spice**, _`Formal Methods`_, _`ZKP`_
+
 - 🎓 [Practical Byzantine Fault Tolerance](http://pmg.csail.mit.edu/papers/osdi99.pdf). Castro M., Liskov B. OSDI'99.
   - Keyword: _`Consensus`_
 
@@ -793,7 +866,8 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ## TOPLAS (A)
 
 - [Obsidian: Typestate and Assets for Safer Blockchain Programming](https://dl.acm.org/doi/pdf/10.1145/3417516).Coblenz M, Oei R, Etzel T, et al. TOPLAS'20.
-  - Keyword: _`Smart Contract`_,`Programming Language`_
+
+  - Keyword: _`Smart Contract`_,`Programming Language`\_
 
 - 🎓 [The Byzantine Generals Problem](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf). Lamport L, Shostak R., Pease M. TOPLAS'82.
   - Keyword: _`Consensus`_
@@ -802,9 +876,9 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [Universally Composable Security](https://doi.org/10.1145/3402457). Canetti R. 2020. <i>J. ACM</i> 67, 5, Article 28 (October 2020), 94 pages. (Not Publicly Avaliable)
   - Keyword: _`Security`_, _`Formal Methods`_
-- 🎓 [The Power of Shunning: Efficient Asynchronous Byzantine Agreement Revisited*](https://doi.org/10.1145/3388788). Bangalore L, Choudhury A, Patra A. 2020.  <i>J. ACM</i> 67, 3, Article 14 (June 2020), 59 pages. (Not Publicly Avaliable)
+- 🎓 [The Power of Shunning: Efficient Asynchronous Byzantine Agreement Revisited\*](https://doi.org/10.1145/3388788). Bangalore L, Choudhury A, Patra A. 2020. <i>J. ACM</i> 67, 3, Article 14 (June 2020), 59 pages. (Not Publicly Avaliable)
   - Keyword: _`Consensus`_
-- 🎓 [Silence](https://dl.acm.org/doi/pdf/10.1145/3377883). Guy G, Yoram M. 2020. *J. ACM* 67, 1, Article 3 (April 2020), 26 pages. (Not Publicly Avaliable)
+- 🎓 [Silence](https://dl.acm.org/doi/pdf/10.1145/3377883). Guy G, Yoram M. 2020. _J. ACM_ 67, 1, Article 3 (April 2020), 26 pages. (Not Publicly Avaliable)
   - Keyword: _`Communication Efficiency`_
 - 🎓 [Consensus in the Presence of Partial Synchrony](https://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf). Dwork S., Lynch N. '88. JACM '88.
   - Keyword: _`Consensus`_
@@ -829,25 +903,28 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## ICSE (A)
 
-- 🎓 [Smart Contract Security: a Practitioners’ Perspective](https://arxiv.org/pdf/2102.10963.pdf).  hiyuan Wan (ZheJiang University, China), Xin Xia (Monash University, Australia), David Lo (Singapore Management University, Singapore), Jiachi Chen (Monash University, Australia), Xiapu Luo (The Hong Kong Polytechnic University, China), Xiaohu Yang(Zhejiang University, China)
+- 🎓 [Smart Contract Security: a Practitioners’ Perspective](https://arxiv.org/pdf/2102.10963.pdf). hiyuan Wan (ZheJiang University, China), Xin Xia (Monash University, Australia), David Lo (Singapore Management University, Singapore), Jiachi Chen (Monash University, Australia), Xiapu Luo (The Hong Kong Polytechnic University, China), Xiaohu Yang(Zhejiang University, China)
   - Keyword: _`Smart Contract`_
-
 
 ## Journal of Cryptology (A)
 
 ## TDSC (A)
+
 - 🎓 [An Efficient NIZK Scheme for Privacy-Preserving Transactions Over Account-Model Blockchain](https://ieeexplore.ieee.org/document/8968397). Shunli Ma, Yi Deng, Yi Deng, Jiang Zhang, Xiang Xie. TDSC'21
+
   - Keyword: _`Privacy`_, _`ZKP`_
 
 - 🎓 [Security and privacy in decentralized energy trading through multi-signatures, blockchain and anonymous messaging streams](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/7589035). Aitzhan N Z, Svetinovic D. TDSC'16
   - Keyword: _`Applications`_
 
-
 ## TIFS (A)
+
 - 🎓 [SDTE: A Secure Blockchain-Based Data Trading Ecosystem](https://www.careerskeen.com/pdf/31.pdf). Dai W, Dai C, Choo K K R, et al. TIFS'20
+
   - Keyword: _`Smart contract`_, _`TEE`_
 
 - 🎓 [Puncturable Signatures and Applications in Proof-of-Stake Blockchain Protocols](https://arxiv.org/pdf/1909.03955.pdf). Li X, Xu J, Fan X, et al. TIFS'20
+
   - Keyword: _`PoS`_
 
 - 🎓 [GDPR-Compliant Personal Data Management: A Blockchain-Based Solution](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8876647). Truong N B, Sun K, Lee G M, et al. TIFS'20
@@ -1155,11 +1232,12 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ## ACNS (C)
 
 - 🎓 [Minting Mechanism for Proof of Stake Blockchains](https://link.springer.com/chapter/10.1007%2F978-3-030-57808-4_16). Dominic Deuber, Nico Döttling, Bernardo Magri, Giulio Malavolta, Sri Aravinda Krishnan Thyagarajan. ACNS'20.
-  -		Keyword: _`PoS`_
+
+  - Keyword: _`PoS`_
 
 - 🎓 [Timed Signatures and Zero-Knowledge Proofs - Timestamping in the Blockchain Era](https://link.springer.com/chapter/10.1007%2F978-3-030-57808-4_17). Aydin Abadi, Michele Ciampi, Aggelos Kiayias, Vassilis Zikas. ACNS'20.
-  -		Keyword: _`Timestamping`_, _`Zero-Knowledge Proofs`_
 
+  - Keyword: _`Timestamping`_, _`Zero-Knowledge Proofs`_
 
 - 🎓 [Threshold-optimal DSA/ECDSA signatures and an application to Bitcoin wallet security](https://eprint.iacr.org/2016/013.pdf). Gennaro R, Goldfeder S, Narayanan A. ACNS'16.
   - Keyword: _`Wallets`_, _`Threshold Signature`_
@@ -1170,7 +1248,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
   - Keyword: _`Attacks`_, _`DeFi`_, `Smart Contract`
 
-- 🎓 [The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://fc21.ifca.ai/papers/39.pdf). Christof Ferreira Torres( University of Luxembourg), Antonio Iannillo(University of Luxembourg),  Arthur Gervais(Imperial College London), Radu State(Imperial College London). FC'21
+- 🎓 [The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://fc21.ifca.ai/papers/39.pdf). Christof Ferreira Torres( University of Luxembourg), Antonio Iannillo(University of Luxembourg), Arthur Gervais(Imperial College London), Radu State(Imperial College London). FC'21
 
   - Keyword: _`Smart Contracts`_, _`Attacks`_
 
@@ -1184,30 +1262,26 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - 🎓 [A formal model of Algorand smart contracts](https://fc21.ifca.ai/papers/202.pdf). Massimo Bartoletti(University degli Studi di Cagliari), Andrea Bracciali(Stirling University), Cristian Lepore(Stirling University), Alceste Scalas(Technical University of Denmark), Roberto Zunino(Universit`a degli Studi di Trento). FC'21
 
-  - Keyword: _` Algorand`_, _`Smart Contract`_
-
+  - Keyword: _`Algorand`_, _`Smart Contract`_
 
 - 🎓 [Everything You Ever Wanted to Know About Bitcoin Mixers (But Were Afraid to Ask](https://repository.asu.edu/attachments/227296/content/Pakki_asu_0010N_19863.pdf)). Federico Franzoni (Arizona State University), Yan Shoshitaishvili (Arizona State University), Ruoyu Wang(Arizona State University), Tiffany Bao(Arizona State University), Adam Doupe(Arizona State University). FC'21
 
   - Keyword: _`Bitcoin Mixers`_, _`Anonymity`_
 
-
 - 🎓 [PERIMETER: A network-layer attack on the anonymity of cryptocurrencies](https://fc21.ifca.ai/papers/97.pdf). Maria Apostolaki (ETH Zurich), Cedric Maire (ETH Zurich), Vanbever Laurent(ETH Zurich) FC'21
 
   - Keyword: _`Attack`_, _`Anonymity`_
-
 
 - 🎓 [An Empirical Analysis of Privacy in the Lightning Network](https://fc21.ifca.ai/papers/130.pdf). George Kappos (University College London), Haaroon Yousaf (University College London), Ania Piotrowska(University College London, Nym Technologies), Sanket Kanjalkar(University of Illinois Urbana-Champaign), Andrew Miller(University of Illinois Urbana-Champaign, IC3), Sarah Meiklejohn(University College London). FC'21
 
   - Keyword: _`Privacy`_, _`Lightning Network`_
 
-
 - 🎓 [The Complex Shape of Anonymity in Cryptocurrencies: Case Studies from a Systematic Approach](https://fc21.ifca.ai/papers/243.pdf). Niluka Amarasinghe (Queensland University of Technology), Xavier Boyen (Queensland University of Technology), Matthew McKague(Queensland University of Technology). FC'21
 
   - Keyword: _`Anonymity`_, _`Cryptocurrencies`_
 
-- 🎓 [Cross-Layer Deanonymization Methods in the Lightning Protocol](https://fc21.ifca.ai/papers/218.pdf). Matteo Romiti (Austrian Institute of Technology), Friedhelm Victor (Technische Universit¨at Berlin), Pedro Moreno-Sanchez(IMDEA Software Institute),  Peter Sebastian
-Nordholt(Chainalysis), Bernhard Haslhofer(Austrian Institute of Technology), Matteo Maffei(Technische Universitat Wien). FC'21
+- 🎓 [Cross-Layer Deanonymization Methods in the Lightning Protocol](https://fc21.ifca.ai/papers/218.pdf). Matteo Romiti (Austrian Institute of Technology), Friedhelm Victor (Technische Universit¨at Berlin), Pedro Moreno-Sanchez(IMDEA Software Institute), Peter Sebastian
+  Nordholt(Chainalysis), Bernhard Haslhofer(Austrian Institute of Technology), Matteo Maffei(Technische Universitat Wien). FC'21
 
   - Keyword: _`Deanonymization`_, _`Cross-Layer`_
 
@@ -1216,11 +1290,9 @@ Nordholt(Chainalysis), Bernhard Haslhofer(Austrian Institute of Technology), Mat
   - Keyword: _`Deanonymization`_, _`Cross-Layer`_
   - Type: _`Empirical`_
 
-
 - 🎓 [Reparo: Publicly Verifiable Layer to Repair Blockchains](https://fc21.ifca.ai/papers/119.pdf). Sri AravindaKrishnan Thyagarajan Adithya Bhat Bernardo Magri Daniel Tschudi Aniket Kate. FC'21
 
   - Keyword: _`Redactable`_, _`Layer2`_
-
 
 - 🎓 [Instant Block Confirmation in the Sleepy Model](https://fc21.ifca.ai/papers/98.pdf). Vipul Goyal Hanjun Li Justin Raizes. FC'21
 
@@ -1232,13 +1304,11 @@ Nordholt(Chainalysis), Bernhard Haslhofer(Austrian Institute of Technology), Mat
 
 - 🎓 [Post-Quantum Adaptor Signature for Privacy-Preserving Off-Chain Payments](https://fc21.ifca.ai/papers/139.pdf). Erkan Tairi Pedro Moreno-Sanchez Matteo Maffei. FC'21
 
-  - Keyword: _`Off-Chain`_, _`Post-Quantum`_,  _`Privacy`_
-
+  - Keyword: _`Off-Chain`_, _`Post-Quantum`_, _`Privacy`_
 
 - 🎓 [FPPW: A Fair and Privacy Preserving Watchtower For Bitcoin](https://fc21.ifca.ai/papers/51.pdf). Arash Mirzaei Amin Sakzad Jiangshan Yu Ron Steinfeld. FC'21
 
-  - Keyword: _`Payment channel`_, _`Bitcoin`_,  _`Privacy`_
-
+  - Keyword: _`Payment channel`_, _`Bitcoin`_, _`Privacy`_
 
 - 🎓 [PoSAT: Proof-of-Work Dynamic Availability and Unpredictability, without the Work](https://fc21.ifca.ai/papers/237.pdf). Soubhik Deb Sreeram Kannan David Tse. FC'21
 
@@ -1248,21 +1318,17 @@ Nordholt(Chainalysis), Bernhard Haslhofer(Austrian Institute of Technology), Mat
 
   - Keyword: _`Collateral`_, _`Attacks`_, _`Payment Channel`_
 
-
 - 🎓 [Brick: Asynchronous Incentive-Compatible Payment Channels](https://fc21.ifca.ai/papers/168.pdf). Zeta Avarikioti Eleftherios Kokoris-Kogias Roger Wattenhofer Dionysis Zindros. FC'21
 
   - Keyword: _`Asynchronous`_, _`Payment Channels`_
-
 
 - 🎓 [Congestion Attacks in Payment Channel Networks](https://fc21.ifca.ai/papers/70.pdf). Ayelet Mizrahi Aviv Zohar. FC'21
 
   - Keyword: _`Attacks`_, _`Payment Channels`_
 
-
 - 🎓 [Ignore the Extra Zeroes: Variance-Optimal Mining Pools](https://fc21.ifca.ai/papers/171.pdf). Clara Shikhelman Tim Roughgarden. FC'21
 
   - Keyword: _`Mining`_
-
 
 - 🎓 [HaPPY-mine: Designing a Mining Reward Function](https://fc21.ifca.ai/papers/222.pdf). Lucianna Kiffer Rajmohan Rajaraman. FC'21
 
@@ -1276,11 +1342,9 @@ Nordholt(Chainalysis), Bernhard Haslhofer(Austrian Institute of Technology), Mat
 
   - Keyword: _`SPV`_
 
-
 - 🎓 [ACeD: Scalable Data Availability Oracle](https://fc21.ifca.ai/papers/225.pdf). Peiyao Sheng Bowen Xue Sreeram Kannan Pramod Viswanath. FC'21
 
   - Keyword: _`Off-chain`_
-
 
 - 🎓 [Efficient State Management in Distributed Ledgers](https://fc21.ifca.ai/papers/165.pdf). Nikos Karayannidis Dimitris Karakostas Aggelos Kiayias. FC'21
 
@@ -1289,7 +1353,6 @@ Nordholt(Chainalysis), Bernhard Haslhofer(Austrian Institute of Technology), Mat
 - 🎓 [Fast Isomorphic State Channels](https://fc21.ifca.ai/papers/162.pdf). Manuel Chakravarty Sandro Coretti Matthias Fitzi Peter Gazi Philipp Kant Aggelos Kiayias Alexander Russell. FC'21
 
   - Keyword: _`State Channels`_
-
 
 - 🎓 [Security Analysis on dBFT protocol of NEO](http://fc20.ifca.ai/preproceedings/32.pdf). Qin Wang (Swinburne University of Technology), Jiangshan Yu (Monash University), Zhiniang Peng (Qihoo 360 Core Security), Vancuong Bui (Swinburne University of Technology), Shiping Chen (Csiro, Data61), Yong Ding (Cyberspace Security Research Center), Yang Xiang (Swinburne University of Technology). FC'20
 
@@ -1417,9 +1480,11 @@ Nordholt(Chainalysis), Bernhard Haslhofer(Austrian Institute of Technology), Mat
   - Keyword: _`Economic`_, _`PoW`_
 
 - 🎓 [OpenTimestamps: Securing Software Updates using the Bitcoin Blockchain Financial Cryptography and Data Security](https://github.com/opentimestamps/). Todd P, Halpin H. (FC Poster'17)
+
   - Keyword: _`Application`_
 
-* 🎓 [A Proof-of-Stake protocol for consensus on Bitcoin subchains](http://eprint.iacr.org/2017/417.pdf). Bartoletti M, Lande S, & Podda A S. FC'17.
+- 🎓 [A Proof-of-Stake protocol for consensus on Bitcoin subchains](http://eprint.iacr.org/2017/417.pdf). Bartoletti M, Lande S, & Podda A S. FC'17.
+
   - Keyword: _`Consensus`_, _`PoW`_
 
 - 🎓 [Improving Authenticated Dynamic Dictionaries, with Applications to Cryptocurrencies](http://fc17.ifca.ai/preproceedings/paper_34.pdf). Reyzin L, Meshkov D, Chepurnoy A, Ivanov S. FC'17.
@@ -1539,13 +1604,15 @@ Nordholt(Chainalysis), Bernhard Haslhofer(Austrian Institute of Technology), Mat
   - Keyword: _`Smart Contracts`_
 
 - 🎓 [Automated Verification of Electrum Wallet](http://fc16.ifca.ai/bitcoin/papers/TVR16.pdf). Turuani M, Voegtlin T, Rusinowitch M. FC'16.
+
   - Keyword: _`Formal Methods`_
 
-* 🎓 [Cryptocurrencies without Proof of Work](http://fc16.ifca.ai/bitcoin/papers/BGM16.pdf). Bentov I, Gabizon A, Mizrahi A. FC'16.
+- 🎓 [Cryptocurrencies without Proof of Work](http://fc16.ifca.ai/bitcoin/papers/BGM16.pdf). Bentov I, Gabizon A, Mizrahi A. FC'16.
 
   - Keyword: _`Consensus`_
 
-* 🎓 [Optimal Selfish Mining Strategies in Bitcoin](http://fc16.ifca.ai/preproceedings/30_Sapirshtein.pdf). Sapirshtein A, Sompolinsky Y, Zohar A. FC'16.
+- 🎓 [Optimal Selfish Mining Strategies in Bitcoin](http://fc16.ifca.ai/preproceedings/30_Sapirshtein.pdf). Sapirshtein A, Sompolinsky Y, Zohar A. FC'16.
+
   - Keyword: _`Economic-PoW`_
 
 - 🎓 [Hierarchical deterministic Bitcoin wallets that tolerate key leakage](http://fc15.ifca.ai/preproceedings/paper_15.pdf). Gutoski G, Stebila D. FC'15.
@@ -1575,9 +1642,11 @@ Nordholt(Chainalysis), Bernhard Haslhofer(Austrian Institute of Technology), Mat
   - Keyword: _`Mining`_, **GHOST**
 
 - 🎓 [Inclusive Block Chain Protocols](http://fc15.ifca.ai/preproceedings/paper_101.pdf). Lewenberg Y, Sompolinsky Y, Zohar A. FC '15.
+
   - Keyword: _`Mining`_, _`ChainStructure`_
 
-* 🎓 [Secure High-Rate Transaction Processing in Bitcoin](http://www.cs.huji.ac.il/~avivz/pubs/15/btc_ghost_full.pdf). Sompolinsky Y, Zohar A. FC'15.
+- 🎓 [Secure High-Rate Transaction Processing in Bitcoin](http://www.cs.huji.ac.il/~avivz/pubs/15/btc_ghost_full.pdf). Sompolinsky Y, Zohar A. FC'15.
+
   - Keyword: _`Consensus`_, _`PoW`_
 
 - 🎓 [Blindcoin Blinded, Accountable Mixes for Bitcoin](http://fc15.ifca.ai/preproceedings/bitcoin/paper_3.pdf). Valenta L, Rowan B. FC'15.
@@ -1637,15 +1706,18 @@ Nordholt(Chainalysis), Bernhard Haslhofer(Austrian Institute of Technology), Mat
   - Keyword: _`Privacy`_
 
 - 🎓 [Fair Two-Party Computations via Bitcoin Deposits](http://fc14.ifca.ai/bitcoin/papers/bitcoin14_submission_10.pdf). Andrychowicz M, Dziembowski S, Malinowski D, Mazurek Ł. FC'14.
+
   - Keyword: _`Smart Contracts`_
 
-* 🎓 [Majority Is Not Enough: Bitcoin Mining Is Vulnerable](https://arxiv.org/pdf/1311.0243). Eyal I, Sirer EG. FC'14.
+- 🎓 [Majority Is Not Enough: Bitcoin Mining Is Vulnerable](https://arxiv.org/pdf/1311.0243). Eyal I, Sirer EG. FC'14.
+
   - Keyword: _`Economic`_, _`PoW`_
 
 - 🎓 [Quantitative analysis of the full bitcoin transaction graph](https://eprint.iacr.org/2012/584.pdf). Ron D, Shamir A. FC '13.
+
   - Keyword: _`Privacy`_
 
-* 🎓 [Commitcoin: Carbon dating commitments with bitcoin](https://eprint.iacr.org/2011/677.pdf). Clark J, Essex A. FC'12.
+- 🎓 [Commitcoin: Carbon dating commitments with bitcoin](https://eprint.iacr.org/2011/677.pdf). Clark J, Essex A. FC'12.
   - Keyword: _`Application`_
 
 ## Others
