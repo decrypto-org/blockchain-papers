@@ -9,6 +9,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## News
 
+- **Added CCS'21!**
 - **Added S&P'22!**
 - **Added USENIX Security '22 Summer Accepted Paper**
 - **Added USENIX Security '21 Winter Accepted Paper**
@@ -25,7 +26,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 - [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2022 Summer
 - [S&P(IEEE Security and Privacy)](#sp-a) <= 2022
-- [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2020
+- [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2021
 - [NDSS(Network and Distributed System Security)](#ndss-a) <= 2021
 - [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2020 (waiting for notifications, 2021.4.19)
 - [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2021
@@ -237,7 +238,6 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
   - Keyword: _`Security`_
 
-
 - 🎓 [Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains](https://eprint.iacr.org/2021/1612.pdf). Sri AravindaKrishnan Thyagarajan (Friedrich Alexander University of Erlangen-Nürnberg), Giulio Malavolta (Max Planck Institute for Security and Privacy), Pedro Moreno-Sanchez (IMDEA Software Institute). S&P'22.
 
   - Keyword: _`Interoperability`_, _`Security`_, _`Atomic Swaps`_
@@ -386,6 +386,35 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: **Zerocoin**, _`Privacy`_
 
 ## CCS (A)
+
+- 🎓 SyncAttack: Double-spending in Bitcoin Without Mining Power.
+Muhammad Saad (University of Central Florida); Songqing Chen (George Mason University); David Mohaisen (University of Central Florida). CCS'21.
+
+  - Keyword: _`Security`_, _`Attack`_
+
+- 🎓 [How Does Blockchain Security Dictate Blockchain Implementation?](https://arxiv.org/abs/2109.04848). Andrew Lewis-Pye (London School of Economics); Tim Roughgarden (Columbia University). CCS'21.
+
+  - Keyword: _`Consensus`_, _`Security`_
+
+- 🎓 [The Exact Security of BIP32 Wallets](https://eprint.iacr.org/2021/1287.pdf). Poulami Das (Technische Universität Darmstadt); Andreas Erwig (Technische Universität Darmstadt); Sebastian Faust (Technische Universität Darmstadt); Julian Loss (University of Maryland); Siavash Riahi (Technische Universität Darmstadt). CCS'21.
+
+  - Keyword: _`Wallets`_, _`Security`_, _`Formal Methods`_
+
+- 🎓 [zkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy](https://eprint.iacr.org/2021/673.pdf). Tianyi Liu (Texas A&M University & Shanghai Key Laboratory of Privacy-Preserving Computation); Xiang Xie (Shanghai Key Laboratory of Privacy-Preserving Computation); Yupeng Zhang (Texas A&M University). CCS'21.
+
+  - Keyword: _`ZKP`_
+
+- 🎓 [Mining in Logarithmic Space](https://eprint.iacr.org/2021/623.pdf). Aggelos Kiayias (University of Edinburgh and IOHK); Nikos Leonardos (University of Athens); Dionysis Zindros (University of Athens). CCS'21.
+
+  - Keyword: _`Consensus`_, _`Scalability`_
+
+- 🎓 [A Security Framework for Distributed Ledgers](https://eprint.iacr.org/2021/145.pdf). Christoph Egger (Friedrich-Alexander University Erlangen-Nürnberg); Mike Graf (University of Stuttgart); Ralf Küsters (University of Stuttgart); Daniel Rausch (University of Stuttgart); Viktoria Ronge (Friedrich-Alexander University Erlangen-Nürnberg); Dominique Schröder (Friedrich-Alexander University Erlangen-Nürnberg). CCS'21.
+
+  - Keyword: _`Security`_
+
+- 🎓 Revisiting Nakamoto Consensus in Asynchronous Networks: A Comprehensive Analysis of Bitcoin Safety and Chain Quality. Muhammad Saad (University of Central Florida); Afsah Anwar (University of Central Florida); Srivatsan Ravi (University of Southern California); David Mohaisen (University of Central Florida). CCS'21.
+
+  - Keyword: _`Consensus`_
 
 - 🎓 [eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts](https://arxiv.org/pdf/2005.06227.pdf).
   Clara Schneidewind (TU Wien); Markus Scherer (TU Wien); Ilya Grishchenko (TU Wien); Matteo Maffei (TU Wien). CCS'20.
