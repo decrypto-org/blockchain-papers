@@ -9,14 +9,11 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## News
 
-- **Added CCS'21!**
+- **Added NDSS'22!**
 - **Added S&P'22!**
 - **Added USENIX Security '22 Summer Accepted Paper**
+- **Added CCS'21!**
 - **Added USENIX Security '21 Winter Accepted Paper**
-- **Added S&P'21!**
-- **Added ICSE'21!**
-- **Added USENIX Security '21 Summer Accepted Paper**
-- **Added FC'21!**
 
 ## Conference Information
 
@@ -27,7 +24,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [USENIX Security(Usenix Security Symposium)](#usenix-security-a) <= 2022 Summer
 - [S&P(IEEE Security and Privacy)](#sp-a) <= 2022
 - [CCS(ACM Conference on Computer and Communications Security)](#ccs-a) <= 2021
-- [NDSS(Network and Distributed System Security)](#ndss-a) <= 2021
+- [NDSS(Network and Distributed System Security)](#ndss-a) <= 2022
 - [CRYPTO(International Cryptology Conference)](#crypto-a) <= 2020 (waiting for notifications, 2021.4.19)
 - [EUROCRYPT(European Cryptology Conference)](#eurocrypt-a) <= 2021
 - [INFOCOM(IEEE International Conference on Computer Communications)](#infocom-a) <= 2020
@@ -589,6 +586,14 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
   - Keyword: _`Consensus`_, _`PoW`_, _`Mining`_
 
 ## NDSS (A)
+
+- 🎓 [NC-Max: Breaking the Security-Performance Tradeoff in Nakamoto Consensus](https://eprint.iacr.org/2020/1101.pdf). Ren Zhang, Dingwei Zhang, and Quake Wang (Nervos); Shichen Wu (Shandong University); Jan Xie (Nervos); Bart Preneel (imec-COSIC, KU Leuven). NDSS'22
+
+  - Keyword: _`Consensus`_, _`Scalability`_, _`Network`_
+
+- 🎓 [Speeding Dumbo: Pushing Asynchronous BFT to Practice](https://eprint.iacr.org/2022/027.pdf). Bingyong Guo (Institute of Software, Chinese Academy of Sciences); Yuan Lu (Institute of Software Chinese Academy of Sciences); Zhenliang Lu and Qiang Tang (The University of Sydney); jing xu (Institute of Software, Chinese Academy of Sciences); Zhenfeng Zhang (TCA of State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences). NDSS'22
+
+  - Keyword: _`Consensus`_, _`Scalability`_
 
 - 🎓 As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service. Kai Li, Jiaqi Chen, Xianghong Liu, and Yuzhe Tang (Syracuse University); XiaoFeng Wang (Indiana University Bloomington); Xiapu Luo (The Hong Kong Polytechnic University). NDSS'21
 
