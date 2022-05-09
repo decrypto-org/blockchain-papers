@@ -81,7 +81,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
     - _`BFT`_, _`PoW`_(Proof of Work), _`PoS`_(Proof of Stake), _`Proof-of-X`_, _`DAG`_
 - _`Privacy`_
   - _`Mixing`_, _`Ring Signature`_, _`RingCT`_
-  - _`ZKP`_(Zero-Knowledge Proof)
+  - _`ZKP`_(Zero-Knowledge Proof), _`HE`_(Homomorphic Encryption)
   - _`Blind Signature`_
   - _`SMPC`_, _`Threshold Signature`_
   - _`TEE`_
@@ -111,6 +111,8 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ---
 
 ## USENIX Security (A)
+
+> No papers in 22 Fall
 
 - 🎓 [Aardvark: An Asynchronous Authenticated Dictionary with Applications to Account-based Cryptocurrencies](https://www.usenix.org/system/files/sec22summer_leung.pdf). Derek Leung, MIT CSAIL; Yossi Gilad, Hebrew University of Jerusalem; Sergey Gorbunov, University of Waterloo; Leonid Reyzin, Boston University; Nickolai Zeldovich, MIT CSAIL. USENIX Security'22.
   - Keyword: _`Scalability`_, _`Wallets`_
@@ -227,11 +229,16 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## S&P (A)
 
+- 🎓 [ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs](https://files.sri.inf.ethz.ch/website/papers/sp22-zeestar.pdf).
+Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (ETH Zurich), Martin Vechev (ETH Zurich). S&P'22.
+
+  - Keyword: _`Privacy`_, _`ZKP`_, _`HE`_
+
 - 🎓 [MatRiCT+: More Efficient Post-Quantum Private Blockchain Payments](https://eprint.iacr.org/2021/545.pdf). Muhammed F. Esgin (Monash University and CSIRO's Data61, Australia), Ron Steinfeld (Monash University, Australia), Raymond K. Zhao (Monash University, Australia). S&P'22.
 
   - Keyword: _`Privacy`_, _`Mixing`_, _`Ring Signature`_, _`RingCT`_, _`ZKP`_
 
-- 🎓 [Quantifying Blockchain Extractable Value:How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf). Kaihua Qin (Imperial College London), Liyi Zhou (Imperial College London), Arthur Gervais (Imperial College London). S&P'22.
+- 🎓 [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf). Kaihua Qin (Imperial College London), Liyi Zhou (Imperial College London), Arthur Gervais (Imperial College London). S&P'22.
 
   - Keyword: _`Security`_
 
@@ -243,7 +250,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
   - Keyword: _`Consensus`_, _`Network`_
 
-- [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf). Priyanka Bose (University of California, Santa Barbara), Dipanjan Das (University of California, Santa Barbara), Yanju Chen (University of California, Santa Barbara), Yu Feng (University of California, Santa Barbara), Christopher Kruegel (University of California, Santa Barbara), Giovanni Vigna (UC Santa Barbara)
+- 🎓 [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf). Priyanka Bose (University of California, Santa Barbara), Dipanjan Das (University of California, Santa Barbara), Yanju Chen (University of California, Santa Barbara), Yu Feng (University of California, Santa Barbara), Christopher Kruegel (University of California, Santa Barbara), Giovanni Vigna (UC Santa Barbara)
 
 - 🎓 [MANY-OUT-OF-MANY PROOFS and applications to Anonymous Zether](https://eprint.iacr.org/2020/293.pdf). Benjamin E. Diamond (J.P. Morgan). S&P'21.
 
