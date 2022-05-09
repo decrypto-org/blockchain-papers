@@ -391,7 +391,15 @@ Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (E
 
 ## CCS (A)
 
-- 🎓 SyncAttack: Double-spending in Bitcoin Without Mining Power.
++ 🎓 [ZKCPlus: Optimized Fair-exchange Protocol Supporting Practical and Flexible Data Exchange](https://netsec.ccert.edu.cn/files/papers/CCS21-ZKCPlus.pdf). Yun Li (Institute for Network Sciences and Cyberspace of Tsinghua University); Cun Ye (SECBIT Labs, kecheng corp); Yuguang Hu (SECBIT Labs); Ivring Morpheus (SECBIT Labs); Guo Yu (SECBIT Labs); Chao Zhang (Institute for Network Science and Cyberspace of Tsinghua University); Yupeng Zhang (Texas A&M University); Zhipeng Sun (SECBIT Labs); Yiwen Lu (SECBIT Labs); Haodi Wang (Beijing Normal University). CCS'21.
+
+  - Keyword: _`Security`_
+
+- 🎓 [DETER: Denial of Ethereum Txpool sERvices](https://tristartom.github.io/docs/ccs21.pdf). Kai Li (Syracuse University); Yibo Wang (Syracuse University); Yuzhe Tang (Syracuse University). CCS'21.
+
+  - Keyword: _`Security`_, _`Attack`_
+
+- 🎓 [SyncAttack: Double-spending in Bitcoin Without Mining Power](https://www.academia.edu/attachments/75362456/download_file?ct=MTY1MjEyNTExOCwxNjUyMTI1MTE4LDIyMDA2ODIyNw==&s=swp-toolbar).
 Muhammad Saad (University of Central Florida); Songqing Chen (George Mason University); David Mohaisen (University of Central Florida). CCS'21.
 
   - Keyword: _`Security`_, _`Attack`_
@@ -403,10 +411,6 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 - 🎓 [The Exact Security of BIP32 Wallets](https://eprint.iacr.org/2021/1287.pdf). Poulami Das (Technische Universität Darmstadt); Andreas Erwig (Technische Universität Darmstadt); Sebastian Faust (Technische Universität Darmstadt); Julian Loss (University of Maryland); Siavash Riahi (Technische Universität Darmstadt). CCS'21.
 
   - Keyword: _`Wallets`_, _`Security`_, _`Formal Methods`_
-
-- 🎓 [zkCNN: Zero Knowledge Proofs for Convolutional Neural Network Predictions and Accuracy](https://eprint.iacr.org/2021/673.pdf). Tianyi Liu (Texas A&M University & Shanghai Key Laboratory of Privacy-Preserving Computation); Xiang Xie (Shanghai Key Laboratory of Privacy-Preserving Computation); Yupeng Zhang (Texas A&M University). CCS'21.
-
-  - Keyword: _`ZKP`_
 
 - 🎓 [Mining in Logarithmic Space](https://eprint.iacr.org/2021/623.pdf). Aggelos Kiayias (University of Edinburgh and IOHK); Nikos Leonardos (University of Athens); Dionysis Zindros (University of Athens). CCS'21.
 
