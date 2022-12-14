@@ -9,11 +9,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## News
 
-- **Added USENIX Security '22 Fall Accepted Paper**
-- **Added NDSS'22!**
-- **Added S&P'22!**
-- **Added USENIX Security '22 Summer Accepted Paper**
-- **Added CCS'21!**
+- **USENIX Security '22 Winter Accepted Papers Added**
 
 ## Conference Information
 
@@ -21,7 +17,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 > Conference
 
-- [USENIX Security (Usenix Security Symposium)](#usenix-security-a) <= 2022 Fall
+- [USENIX Security (Usenix Security Symposium)](#usenix-security-a) <= 2022 Winter
 - [S&P (IEEE Security and Privacy)](#sp-a) <= 2022
 - [CCS (ACM Conference on Computer and Communications Security)](#ccs-a) <= 2021
 - [NDSS (Network and Distributed System Security)](#ndss-a) <= 2022
@@ -83,7 +79,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - _`Mixing`_, _`Ring Signature`_, _`RingCT`_
   - _`ZKP`_(Zero-Knowledge Proof), _`HE`_(Homomorphic Encryption)
   - _`Blind Signature`_
-  - _`SMPC`_, _`Threshold Signature`_
+  - _`MPC`_, _`Threshold Signature`_
   - _`TEE`_
 - _`Auditation`_
 - _`Scalability`_:
@@ -112,10 +108,22 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## USENIX Security (A)
 
-> No papers in 22 Fall
+- 🎓 [Composable Cachelets: Protecting Enclaves from Cache Side-Channel Attacks](https://www.usenix.org/system/files/sec22-townley.pdf). Daniel Townley, Peraton Labs; Kerem Arıkan, Yu David Liu, and Dmitry Ponomarev, Binghamton University; Oğuz Ergin, TOBB University of Economics and Technology. USENIX Security'22.
+
+  - Keyword: _`TEE`_
+
+- 🎓 [A Hardware-Software Co-design for Efficient Intra-Enclave Isolation](https://www.usenix.org/system/files/sec22-gu-jinyu.pdf). Jinyu Gu, Bojun Zhu, Mingyu Li, Wentai Li, Yubin Xia, and Haibo Chen, Shanghai Jiao Tong University. USENIX Security'22.
+
+  - Keyword: _`TEE`_
+
+- 🎓 [SGXFuzz: Efficiently Synthesizing Nested Structures for SGX Enclave Fuzzing](https://www.usenix.org/system/files/sec22-cloosters.pdf). Tobias Cloosters, University of Duisburg-Essen; Johannes Willbold, Ruhr-Universität Bochum; Thorsten Holz, CISPA Helmholtz Center for Information Security; Lucas Davi, University of Duisburg-Essen. USENIX Security'22.
+
+  - Keyword: _`TEE`_
 
 - 🎓 [Aardvark: An Asynchronous Authenticated Dictionary with Applications to Account-based Cryptocurrencies](https://www.usenix.org/system/files/sec22summer_leung.pdf). Derek Leung, MIT CSAIL; Yossi Gilad, Hebrew University of Jerusalem; Sergey Gorbunov, University of Waterloo; Leonid Reyzin, Boston University; Nickolai Zeldovich, MIT CSAIL. USENIX Security'22.
+  
   - Keyword: _`Scalability`_, _`Wallets`_
+
 - 🎓 [On the Routing-Aware Peering against Network-Eclipse Attacks in Bitcoin](https://www.usenix.org/system/files/sec21fall-tran.pdf). Muoi Tran and Akshaye Shenoi, National University of Singapore; Min Suk Kang, KAIST. USENIX Security'21.
 
   - Keyword: _`Network`_
@@ -391,7 +399,7 @@ Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (E
 
 ## CCS (A)
 
-+ 🎓 [ZKCPlus: Optimized Fair-exchange Protocol Supporting Practical and Flexible Data Exchange](https://netsec.ccert.edu.cn/files/papers/CCS21-ZKCPlus.pdf). Yun Li (Institute for Network Sciences and Cyberspace of Tsinghua University); Cun Ye (SECBIT Labs, kecheng corp); Yuguang Hu (SECBIT Labs); Ivring Morpheus (SECBIT Labs); Guo Yu (SECBIT Labs); Chao Zhang (Institute for Network Science and Cyberspace of Tsinghua University); Yupeng Zhang (Texas A&M University); Zhipeng Sun (SECBIT Labs); Yiwen Lu (SECBIT Labs); Haodi Wang (Beijing Normal University). CCS'21.
+- 🎓 [ZKCPlus: Optimized Fair-exchange Protocol Supporting Practical and Flexible Data Exchange](https://netsec.ccert.edu.cn/files/papers/CCS21-ZKCPlus.pdf). Yun Li (Institute for Network Sciences and Cyberspace of Tsinghua University); Cun Ye (SECBIT Labs, kecheng corp); Yuguang Hu (SECBIT Labs); Ivring Morpheus (SECBIT Labs); Guo Yu (SECBIT Labs); Chao Zhang (Institute for Network Science and Cyberspace of Tsinghua University); Yupeng Zhang (Texas A&M University); Zhipeng Sun (SECBIT Labs); Yiwen Lu (SECBIT Labs); Haodi Wang (Beijing Normal University). CCS'21.
 
   - Keyword: _`Security`_
 
@@ -443,7 +451,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Efficient Publicly Verifiable 2PC over a Blockchain with Applications to Financially-Secure Computations](http://homes.sice.indiana.edu/yh33/mypub/pvc.pdf). Ruiyu Zhu, Changchang Ding, Yan Huang. CCS'19.
 
-  - Keyword: _`Consensus`_, _`SMPC`_
+  - Keyword: _`Consensus`_, _`MPC`_
 
 - 🎓 [Erlay: Efficient Transaction Relay for Bitcoin](https://www.ece.ubc.ca/~sasha/papers/ccs19.pdf). Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Alexandra (Sasha) Fedorova, Ivan Beschastnikh. CCS'19.
 
@@ -983,7 +991,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Crowd Verifiable Zero-Knowledge and End-to-end Verifiable Multiparty Computation](https://eprint.iacr.org/2020/711.pdf). Foteini Baldimtsi, Aggelos Kiayias, Thomas Zacharias, Bingsheng Zhang. ASIACRYPT'20
 
-  - Keyword: _`SMPC`_, _`ZKP`_
+  - Keyword: _`MPC`_, _`ZKP`_
 
 - 🎓 [Compact multi-signatures for smaller blockchains](https://eprint.iacr.org/2018/483.pdf). Boneh D, Drijvers M, Neven G. ASIACRYPT'18
 
