@@ -76,23 +76,26 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - _`Consensus`_:
     - _`BFT`_, _`PoW`_(Proof of Work), _`PoS`_(Proof of Stake), _`Proof-of-X`_, _`DAG`_
 - _`Privacy`_
-  - _`Mixing`_, _`Ring Signature`_, _`RingCT`_
+  - _`Mixing`_, _`RS`_(Ring Signature), _`RingCT`_
   - _`ZKP`_(Zero-Knowledge Proof), _`HE`_(Homomorphic Encryption)
-  - _`Blind Signature`_
-  - _`MPC`_, _`Threshold Signature`_
+  - _`BS`_(Blind Signature)
+  - _`MPC`_, _`TS`_(Threshold Signature)
   - _`TEE`_
-- _`Auditation`_
 - _`Scalability`_:
+  - _`Concurrency`_
+  - _`Interoperability`_
   - _`Layer 2`_
-    - _`Payment Channel`_, _`Payment Channel Networks`_
-  - _`Sidechains`_, _`Programmability`_
-  - _`Concurrent`_
-- _`Interoperability`_
+    - _`Payment Channel`_,
+    - _`Plasma`_,
+    - _`Rollups`_,
+    - _`Sidechains`_
 - _`Security`_
   - _`Multi-signature`_
   - _`Formal Methods`_
   - _`Post-quantum`_
   - _`Atomic Swaps`_
+  - _`Auditation`_
+- _`Programmability`_
 - _`Applications`_
   - _`Crime`_, _`Economics`_, _`Marketplaces`_, _`Sociological`_, _`Anthropological`_
 - _`Attacks`_
@@ -107,6 +110,15 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ---
 
 ## USENIX Security (A)
+
+- 🎓 [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://www.usenix.org/system/files/sec22-kappos.pdf). George Kappos and Haaroon Yousaf, University College London and IC3; Rainer Stütz and Sofia Rollet, AIT - Austrian Institute of Technology; Bernhard Haslhofer, Complexity Science Hub Vienna; Sarah Meiklejohn, University College London and IC3. USENIX Security'22.
+
+  - Keyword: _`Privacy`_, _`Attacks`_
+
+- 🎓 [Twilight: A Differentially Private Payment Channel Network](https://www.usenix.org/system/files/sec22-dotan.pdf).
+Maya Dotan, Saar Tochner, Aviv Zohar, and Yossi Gilad, The Hebrew University of Jerusalem. USENIX Security'22.
+
+  - Keyword: _`Payment Channel`_
 
 - 🎓 [Composable Cachelets: Protecting Enclaves from Cache Side-Channel Attacks](https://www.usenix.org/system/files/sec22-townley.pdf). Daniel Townley, Peraton Labs; Kerem Arıkan, Yu David Liu, and Dmitry Ponomarev, Binghamton University; Oğuz Ergin, TOBB University of Economics and Technology. USENIX Security'22.
 
@@ -143,10 +155,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
   - Keyword: _`Smart Contracts`_
 
 - 🎓 [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://www.usenix.org/system/files/sec21summer_rodler.pdf). Michael Rodler, University of Duisburg-Essen; Wenting Li and Ghassan O. Karame, NEC Laboratories Europe; Lucas Davi, University of Duisburg-Essen. USENIX Security'21.
-  - Keyword: _`Smart Contracts`_, _`Ethereum`_, `Patch`
+  - Keyword: _`Smart Contracts`_, _`Ethereum`_, `Patch`
 - 🎓 [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.usenix.org/system/files/sec21summer_perez.pdf). Daniel Perez and Ben Livshits, Imperial College London. USENIX Security'21.
 
-  - Keyword: _`Smart Contracts`_, _`Ethereum`_, `Survey`
+  - Keyword: _`Smart Contracts`_, _`Ethereum`_, `Survey`
 
 - 🎓 [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf) Joel Frank, Cornelius Aschermann, and Thorsten Holz, Ruhr-University Bochum. USENIX Security'20.
 
@@ -244,7 +256,7 @@ Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (E
 
 - 🎓 [MatRiCT+: More Efficient Post-Quantum Private Blockchain Payments](https://eprint.iacr.org/2021/545.pdf). Muhammed F. Esgin (Monash University and CSIRO's Data61, Australia), Ron Steinfeld (Monash University, Australia), Raymond K. Zhao (Monash University, Australia). S&P'22.
 
-  - Keyword: _`Privacy`_, _`Mixing`_, _`Ring Signature`_, _`RingCT`_, _`ZKP`_
+  - Keyword: _`Privacy`_, _`Mixing`_, _`RS`_, _`RingCT`_, _`ZKP`_
 
 - 🎓 [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf). Kaihua Qin (Imperial College London), Liyi Zhou (Imperial College London), Arthur Gervais (Imperial College London). S&P'22.
 
@@ -266,7 +278,7 @@ Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (E
 
 - 🎓 [A2L: Anonymous Atomic Locks for Scalability inPayment Channel Hubs∗](https://eprint.iacr.org/2019/589.pdf). Erkan Tairi (TU Wien), Pedro Moreno-Sanchez (IMDEA Software Institute), Matteo Maffei (TU Wien). S&P'21.
 
-  - Keyword: _`PCH payment channel hub`_
+  - Keyword: _`Payment Channel`_
 
 - 🎓 [Compact Certificates of Collective Knowledge](https://people.csail.mit.edu/nickolai/papers/micali-compactcert-eprint.pdf). Silvio Micali (Algorand and MIT), Leonid Reyzin (Algorand and Boston University), Georgios Vlachos (), Riad S. Wahby (Algorand and Stanford), Nickolai Zeldovich (Algorand and MIT). S&P'21.
 
@@ -280,7 +292,7 @@ Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (E
 
 - 🎓 [Lockable Signatures for Blockchains: Scriptless Scripts for all Signatures](https://eprint.iacr.org/2020/1613.pdf). Sri AravindaKrishnan Thyagarajan (Friedrich Alexander Universität Erlangen-Nürnberg), Giulio Malavolta (Max Planck Institute for Security and Privacy). S&P'21.
 
-  - Keyword: _`Payment Channel Networks(PCNs) BLS`_
+  - Keyword: _`Payment Channel`_, _`BLS`_
 
 - 🎓 [On the Anonymity Guarantees of Anonymous Proof-of-Stake Protocols](https://eprint.iacr.org/2021/409.pdf). Varun Madathil (North Carolina State University), Alessandra Scafuro (North Carolina State University), Kartik Nayak (Duke University), Markulf Kohlweiss (University of Edinburgh). S&P'21.
 
@@ -324,7 +336,7 @@ Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (E
 
 - 🎓 [Threshold ecdsa from ecdsa assumptions: The multiparty case](http://www.firstlight.cn/upload/plusfile/20195/21/201952184227868.pdf). Doerner J, Kondi Y, Lee E, et al. S&P'19.
 
-  - Keyword: _`Wallets`_, _`Threshold Signature`_
+  - Keyword: _`Wallets`_, _`TS`_
 
 - 🎓 [Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability](https://arxiv.org/pdf/1904.05234.pdf). Philip Daian (Cornell Tech, USA); Steven Goldfeder (Cornell Tech, USA); Tyler Kell (Cornell Tech, USA); Yunqi Li (UIUC, USA); Xueyuan Zhao (Carnegie Mellon University, USA); Iddo Bentov (Cornell Tech, USA); Lorenz Breidenbach (ETH Zurich, Switzerland); Ari Juels (Cornell Tech, USA)
 
@@ -344,7 +356,7 @@ Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (E
 
 - 🎓 [Perun: Virtual payment hubs over cryptocurrencies](https://eprint.iacr.org/2017/635.pdf) Dziembowski S, Eckey L, Faust S, Malinowski D. IEEE S&P'19.
 
-  - Keyword: **Perun**, _`Payment Channel Networks`_
+  - Keyword: **Perun**, _`Payment Channel`_
 
 - 🎓 [Lay Down the Common Metrics: Evaluating Proof-of-Work Consensus Protocols’ Security](https://www.esat.kuleuven.be/cosic/publications/article-3005.pdf) Ren Zhang, Bart Preneel. IEEE S&P'19.
 
@@ -368,7 +380,7 @@ Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (E
 
 - 🎓 [Secure two-party threshold ECDSA from ECDSA assumptions](https://eprint.iacr.org/2018/499.pdf). Doerner J, Kondi Y, Lee E, et al. S&P'18.
 
-  - Keyword: _`Wallets`_, _`Threshold Signature`_
+  - Keyword: _`Wallets`_, _`TS`_
 
 - 🎓 [Hijacking Bitcoin: Routing Attacks on Cryptocurrencies](https://arxiv.org/pdf/1605.07524v2). Apostolaki M, Zohar A, Vanbever L. S&P'17.
 
@@ -487,19 +499,19 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Atomic Multi-Channel Updates with Constant Collateral in Payment-Channel Networks](https://eprint.iacr.org/2019/583.pdf). Christoph Egger, Pedro Moreno-Sanchez, Matteo Maffei. CCS'19.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - 🎓 [Fast multiparty threshold ecdsa with fast trustless setup](https://eprint.iacr.org/2019/114.pdf). Gennaro R, Goldfeder S. CCS'18.
 
-  - Keyword: _`Wallets`_, _`Threshold Signature`_
+  - Keyword: _`Wallets`_, _`TS`_
 
 - 🎓 [Fast secure multiparty ecdsa with practical distributed key generation and applications to cryptocurrency custody](https://eprint.iacr.org/2018/987.pdf). Lindell Y, Nof A. CCS'18.
 
-  - Keyword: _`Wallets`_, _`Threshold Signature`_
+  - Keyword: _`Wallets`_, _`TS`_
 
 - 🎓 [General State Channel Networks](https://eprint.iacr.org/2018/320.pdf) Dziembowski S, Faust S, Hostáková K. CCS'18.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - 🎓 [Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability](https://eprint.iacr.org/2018/378.pdf). Badertscher C, Gazi P, Kiayias A, Russell A, Zikas V. CCS'18.
 
@@ -519,15 +531,15 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Concurrency and Privacy with Payment-Channel Networks](https://eprint.iacr.org/2017/820.pdf). Malavolta G, Moreno-Sanchez P, Kate A, Maffei M, Ravi S. CCS '17.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - 🎓 [Revive: Rebalancing Off-Blockchain Payment Channel Networks](https://eprint.iacr.org/2017/823.pdf). Khalil, R., & Gervais, A. CCS'17.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - 🎓 [Bolt: Anonymous Payment Channels for Decentralized Currencies](https://eprint.iacr.org/2016/701.pdf) Green M, Miers I. CCS'16.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - 🎓 [The Honey Badger of BFT Protocols](https://infoscience.epfl.ch/record/222858/files/199.pdf). Miller A, Xia Y, Croman K, Shi E, Song D. CCS'16.
 
@@ -698,11 +710,11 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Two-party ECDSA from hash proof systems and efficient instantiations](https://hal.archives-ouvertes.fr/hal-02281931/file/CRYPTO19_2pECDSA_extended.pdf). Castagnos G, Catalano D, Laguillaumie F, et al. CRYPTO'19.
 
-  - Keyword: _`Wallets`_, _`Threshold Signature`_
+  - Keyword: _`Wallets`_, _`TS`_
 
 - 🎓 [Threshold cryptosystems from threshold fully homomorphic encryption](https://pdfs.semanticscholar.org/5224/7b8f30a05bd8bd73b921f918af78c1ef015a.pdf). Boneh D, Gennaro R, Goldfeder S, et al. CRYPTO'18.
 
-  - Keyword: _`Wallets`_, _`Threshold Signature`_
+  - Keyword: _`Wallets`_, _`TS`_
 
 - 🎓 [Bitcoin as a Transaction Ledger: A Composable Treatment](https://eprint.iacr.org/2017/149.pdf). Badertscher C., Maurer U., Tschudi D., Zikas V. CRYPTO'17.
 
@@ -710,7 +722,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Fast secure two-party ECDSA signing](https://pdfs.semanticscholar.org/59cb/bb6ccd07dc312d3d0c218d384f004396c370.pdf). Lindell Y. CRYPTO'17.
 
-  - Keyword: _`Wallets`_, _`Threshold Signature`_
+  - Keyword: _`Wallets`_, _`TS`_
 
 - 🎓 [The Bitcoin Backbone Protocol with Chains of Variable Difficulty](https://eprint.iacr.org/2016/1048). Juan A. Garay and Aggelos Kiayias and Nikos Leonardos. CRYPTO'17.
 
@@ -730,14 +742,14 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Two-party generation of DSA signatures](https://link.springer.com/content/pdf/10.1007/3-540-45539-6_15.pdf). MacKenzie P, Reiter M K. CRYPTO'01
 
-  - Keyword: _`Wallets`_, _`Threshold Signature`_
+  - Keyword: _`Wallets`_, _`TS`_
 
 - 🎓 [Pricing via processing or combatting junk mail](https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf). Dwork C, Naor M. CRYPTO'92.
 
   - Keyword: _`Consensus`_, _`PoS`_, **Proof-of-Work**
 
 - 🎓 [Blind signatures for untraceable payments](http://blog.koehntopp.de/uploads/Chaum.BlindSigForPayment.1982.PDF). Chaum D. CRYPTO'83.
-  - Keyword: _`Privacy`_, _`Blind Signature`_
+  - Keyword: _`Privacy`_, _`BS`_
 
 ## EUROCRYPT (A)
 
@@ -773,10 +785,10 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Practical threshold signatures](https://link.springer.com/content/pdf/10.1007/3-540-45539-6_15.pdf). Shoup V. EUROCRYPT'00.
 
-  - Keyword: _`Wallets`_, _`Threshold Signature`_
+  - Keyword: _`Wallets`_, _`TS`_
 
 - 🎓 Secure distributed key generation for discrete-log based cryptosystems. Gennaro R, Jarecki S, Krawczyk H, et al. EUROCRYPT'99
-  - Keyword: _`Wallets`_, _`Threshold Signature`_
+  - Keyword: _`Wallets`_, _`TS`_
 
 ## INFOCOM (A)
 
@@ -786,7 +798,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Secure Balance Planning of Off-blockchain Payment Channel Networks](https://www.u-aizu.ac.jp/~pengli/files/pcn_planning_infocom2020.pdf). Peng Li and Toshiaki Miyazaki (The University of Aizu, Japan); Wanlei Zhou (University of Technology Sydney, Australia)
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - 🎓 [Corking by Forking: Vulnerability Analysis of Blockchain](https://sci-hub.tw/https://ieeexplore.ieee.org/document/8737490). Shengling Wang and Chenyu Wang, Qin Hu. INFOCOM'19
 
@@ -811,7 +823,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Teechain: A Secure Payment Network with Asynchronous Blockchain Access](https://arxiv.org/pdf/1707.05454.pdf). Joshua Lind, Oded Naor, Ittay Eyal, Florian Kelbert, Peter Pietzuch, Emin Gun Sirer. SOSP'19
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - 🎓 [Fast and Secure Global Payments with Stellar](https://www.scs.stanford.edu/~dm/home/papers/lokhava:stellar-core.pdf). Marta Lokhava, Giuliano Losa, David Mazières, Graydon Hoare, Nicolas Barry, Eliezer Gafni, Jonathan Jove, Rafał Malinowski, Jed McCaleb. SOSP'19
 
@@ -832,7 +844,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [High Throughput Cryptocurrency Routing in Payment Channel Networks](https://www.usenix.org/system/files/nsdi20-paper-sivaraman.pdf). Vibhaalakshmi Sivaraman, Massachusetts Institute of Technology; Shaileshh Bojja Venkatakrishnan, Ohio State University; Kathleen Ruan, Carnegie Mellon University; Parimarjan Negi and Lei Yang, Massachusetts Institute of Technology; Radhika Mittal, University of Illinois at Urbana-Champaign; Giulia Fanti, Carnegie Mellon University; Mohammad Alizadeh, Massachusetts Institute of Technology. NSDI'20
 
-  - Keyword: _`Payment Channel Networks`_, **Spider**
+  - Keyword: _`Payment Channel`_, **Spider**
 
 - 🎓 [Monoxide: Scale Out Blockchain with Asynchronized Consensus Zones](https://www.usenix.org/system/files/nsdi19-wang-jiaping.pdf). Jiaping Wang, Hao Wang. NSDI'19
 
@@ -995,10 +1007,10 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Compact multi-signatures for smaller blockchains](https://eprint.iacr.org/2018/483.pdf). Boneh D, Drijvers M, Neven G. ASIACRYPT'18
 
-  - Keyword: _`Wallets`_, _`Threshold Signature`_
+  - Keyword: _`Wallets`_, _`TS`_
 
 - 🎓 [Short signatures from the Weil pairing](https://www.iacr.org/archive/asiacrypt2001/22480516.pdf). Boneh D, Lynn B, Shacham H. ASIACRYPT'01
-  - Keyword: _`Wallets`_, _`Threshold Signature`_
+  - Keyword: _`Wallets`_, _`TS`_
 
 ## ESORICS (B)
 
@@ -1048,7 +1060,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [A Lattice-Based Linkable Ring Signature Supporting Stealth Addresses](https://books.google.com.hk/books?id=TqOvDwAAQBAJ&pg=PA745&lpg=PA745&dq=pdf+A+Lattice-Based+Linkable+Ring+Signature+Supporting+Stealth+Addresses&source=bl&ots=X8AWJqPEBj&sig=ACfU3U1-Ev8mg5y9G1X-GgTeRQN50MhWCQ&hl=zh-CN&sa=X&ved=2ahUKEwiM0IGL-5LlAhUsy4sBHYCuDEwQ6AEwBHoECAkQAQ#v=onepage&q=A%20Lattice-Based%20Linkable%20Ring%20Signature%20Supporting%20Stealth%20Addresses&f=false). Liu, Z., Nguyen, K., Yang, G., Wang, H., Wong, D. S. ESORICS'19
 
-  - Keyword: _`Privacy`_, _`Ring Signature`_
+  - Keyword: _`Privacy`_, _`RS`_
 
 - 🎓 [Coinshuffle: Practical decentralized coin mixing for bitcoin](http://crypsys.mmci.uni-saarland.de/projects/CoinShuffle/coinshuffle.pdf). Ruffing T, Moreno-Sanchez P, Kate A. ESORICS '14.
   - Keyword: _`Privacy`_
@@ -1098,7 +1110,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Consistency of Proof-of-Stake Blockchains with Concurrent Honest Slot Leaders](https://arxiv.org/pdf/2001.06403.pdf). Aggelos Kiayias, Saad Quader and Alexander Russell. ICDCS'20
 
-  - Keywork: _`Concurrent`_
+  - Keywork: _`Concurrency`_
 
 - 🎓 LVQ: A Lightweight Verifiable Query Approach for Transaction History in Bitcoin. Xiaohai Dai, Jiang Xiao, Wenhui Yang, Chaofan Wang, Jian Chang, Rui Han and Hai Jin. ICDCS'20
 
@@ -1106,7 +1118,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [On Exploiting Transaction Concurrency To Speed Up Blockchains](https://arxiv.org/pdf/2003.06128.pdf). Daniel Reijsbergen and Anh Dinh. ICDCS'20
 
-  - Keywork: _`Concurrent`_
+  - Keywork: _`Concurrency`_
 
 - 🎓 SAFEPAY on Ethereum: A Framework For Detecting Unfair Payments in Smart Contracts. Yue Li, Han Liu, Zhiqiang Yang, Qian Ren, Lei Wang and Bangdao Chen. ICDCS'20
 
@@ -1293,7 +1305,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
   - Keyword: _`Timestamping`_, _`Zero-Knowledge Proofs`_
 
 - 🎓 [Threshold-optimal DSA/ECDSA signatures and an application to Bitcoin wallet security](https://eprint.iacr.org/2016/013.pdf). Gennaro R, Goldfeder S, Narayanan A. ACNS'16.
-  - Keyword: _`Wallets`_, _`Threshold Signature`_
+  - Keyword: _`Wallets`_, _`TS`_
 
 ## FC (C)
 
@@ -1498,7 +1510,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Two-Party State Channels with Assertions](https://fc19.ifca.ai/wtsc/StateAssertions.pdf). Buckland C, McCorry P. FC '19.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - 🎓 [Snow White: Provably Secure Proofs of Stake.](https://fc19.ifca.ai/preproceedings/141-preproceedings.pdf). Bentov I, Pass R, Shi E. FC '19.
 
@@ -1514,7 +1526,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Teechan: Payment Channels Using Trusted Execution Environments](http://fc17.ifca.ai/bitcoin/papers/bitcoin17-final21.pdf). Lind J, Eyal I, Pietzuch P, Sirer EG. FC BITCOIN '17.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - 🎓 [A Proof-of-Stake protocol for consensus on Bitcoin subchains](http://eprint.iacr.org/2017/417.pdf). Bartoletti M, Lande S, & Podda A S. FC'17.
 
@@ -1777,43 +1789,43 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - [ShareLock: Mixing for Cryptocurrencies from Multiparty ECDSA](https://eprint.iacr.org/2019/563.pdf). Omer Shlomovits and István András Seres. IACR'19.
 
-  - Keyword: _`Privacy`_, _`Threshold Signature`_, _`Mixing`_
+  - Keyword: _`Privacy`_, _`TS`_, _`Mixing`_
 
 - [SoK: A Taxonomy for Layer-2 Scalability Related Protocols for Cryptocurrencies](https://eprint.iacr.org/2019/352.pdf). Jourenko M, Kurazumi K, Larangeira M, Tanaka K. '19.
 
-  - Keyword: _`Payment Channel Networks`_, **SoK**
+  - Keyword: _`Payment Channel`_, **SoK**
 
 - [SoK: Off The Chain Transactions](https://eprint.iacr.org/2019/360.pdf). Gudgeon L, Moreno-Sanchez P, Roos S, McCorry P, Gervais A. '19.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - [Sprites and State Channels: Payment Channel Networks that Go Faster than Lightning](https://arxiv.org/pdf/1702.05812.pdf) Miller A, Bentov I, Kumaresan R, Cordi C, McCorry P. FC'19.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - [Nitro Protocol](https://eprint.iacr.org/2019/219.pdf). Close T. '19.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - [NOCUST – A Non-Custodial 2nd-Layer Financial Intermediary](https://liquidity.network/NOCUST_Liquidity_Network_Paper.pdf). Khalil R, Gervais, A. ICAR'18.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - [Counterfactual: Generalized state channels](https://l4.ventures/papers/statechannels.pdf). Coleman J, Horne L, Xuanji L. '18.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - [Flare: An Approach to Routing in Lightning Network](https://bitfury.com/content/downloads/whitepaper_flare_an_approach_to_routing_in_lightning_network_7_7_2016.pdf). Prihodko P, Zhigulin S, Sahno M, Ostrovskiy A, Osuntokyn O. '16.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - [The bitcoin lightning network: Scalable off-chain instant payments](https://www.weusecoins.com/assets/pdf/library/Lightning%20Network%20Whitepaper.pdf). Poon J, Dryja T. '15.
 
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 - [Reaching The Ground With Lightning](https://github.com/ElementsProject/lightning/raw/master/doc/deployable-lightning.pdf). Russell R. '15.
 
-  - Keyword: _`Payment Channel Networks`_, **Deployable Lightning**
+  - Keyword: _`Payment Channel`_, **Deployable Lightning**
 
 - [FlyClient: Super-Light Clients for Cryptocurrencies](https://eprint.iacr.org/2019/226.pdf). B Bünz, L Kiffer, L Luu, M Zamani. IACR'19.
 
@@ -1921,7 +1933,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
   - Keyword: _`Marketplaces`_
 
 - 🎓 [A Fast and Scalable Payment Network with Bitcoin Duplex Micropayment Channels](https://pdfs.semanticscholar.org/c8d2/b0c1f9b1ca739c340e9dc4a2ff71b5bfbb2e.pdf). Decker C, Wattenhofer R. SSS'15.
-  - Keyword: _`Payment Channel Networks`_
+  - Keyword: _`Payment Channel`_
 
 <!-- - [On Bitcoin as a public randomness source](https://pdfs.semanticscholar.org/ebae/9c7d91ea8b6a987642040a2142cc5ea67f7d.pdf). Bonneau J, Clark J, Goldfeder S. IACR'15.
 
