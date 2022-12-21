@@ -9,7 +9,8 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## News
 
-- **USENIX Security '22 Winter Accepted Papers Added**
+- **Papers of USENIX Security '22 winter cycle added**
+- **Papers of S&P '23 first cycle added**
 
 ## Conference Information
 
