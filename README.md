@@ -18,7 +18,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 > Conference
 
 - [USENIX Security (Usenix Security Symposium)](#usenix-security-a) <= 2022 Winter
-- [S&P (IEEE Security and Privacy)](#sp-a) <= 2022
+- [S&P (IEEE Security and Privacy)](#sp-a) <= 2023 First Cycle
 - [CCS (ACM Conference on Computer and Communications Security)](#ccs-a) <= 2021
 - [NDSS (Network and Distributed System Security)](#ndss-a) <= 2022
 - [CRYPTO (International Cryptology Conference)](#crypto-a) <= 2020 (waiting for notifications, 2021.4.19)
@@ -248,6 +248,11 @@ Maya Dotan, Saar Tochner, Aviv Zohar, and Yossi Gilad, The Hebrew University of 
   - Keyword: _`Marketplaces`_
 
 ## S&P (A)
+
+- 🎓 [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://arxiv.org/pdf/2109.04347.pdf).
+Kushal Babel (Cornell Tech), Philip Daian (Cornell Tech), Mahimna Kelkar (Cornell Tech), Ari Juels (Cornell Tech). S&P'22.
+
+  - Keyword: _`Formal Methods`_, _`Smart Contracts`_
 
 - 🎓 [ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs](https://files.sri.inf.ethz.ch/website/papers/sp22-zeestar.pdf).
 Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (ETH Zurich), Martin Vechev (ETH Zurich). S&P'22.
