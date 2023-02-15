@@ -21,7 +21,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [USENIX Security (Usenix Security Symposium)](#usenix-security-a) <= 2022 Winter
 - [S&P (IEEE Security and Privacy)](#sp-a) <= 2023 First Cycle
 - [CCS (ACM Conference on Computer and Communications Security)](#ccs-a) <= 2021
-- [NDSS (Network and Distributed System Security)](#ndss-a) <= 2022
+- [NDSS (Network and Distributed System Security)](#ndss-a) <= 2023
 - [CRYPTO (International Cryptology Conference)](#crypto-a) <= 2020 (waiting for notifications, 2021.4.19)
 - [EUROCRYPT (European Cryptology Conference)](#eurocrypt-a) <= 2021
 - [INFOCOM (IEEE International Conference on Computer Communications)](#infocom-a) <= 2020
@@ -623,6 +623,45 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
   - Keyword: _`Consensus`_, _`PoW`_, _`Mining`_
 
 ## NDSS (A)
+
+- 🎓 [Partitioning Ethereum without Eclipsing It](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf). Hwanjo Heo (ETRI), Seungwon Woo (ETRI/KAIST), Taeung Yoon (KAIST), Min Suk Kang (KAIST), Seungwon Shin (KAIST). NDSS'23
+
+  - Keyword: _`auditation`_, _`attacks`_
+  
+- 🎓 [OptRand: Optimistically Responsive Reconfigurable Distributed Randomness](https://eprint.iacr.org/2022/193.pdf). Adithya Bhat (Purdue University), Nibesh Shrestha (Rochester Institute of Technology), Aniket Kate (Purdue University), Kartik Nayak (Duke University). NDSS'23
+
+  - Keyword: _`composition`_, _`ZKP`_
+  
+- 🎓 [LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f78_paper.pdf). Fuchen Ma (Tsinghua University), Yuanliang Chen (Tsinghua University), Meng Ren (Tsinghua University), Yuanhang Zhou (Tsinghua University), Yu Jiang (Tsinghua University), Ting Chen (University of Electronic Science and Technology of China), Huizhong Li (WeBank), Jiaguang Sun (School of Software, Tsinghua University). NDSS'23
+
+  - Keyword: _`auditation`_, _`attacks`_
+  
+- 🎓 [He-HTLC: Revisiting Incentives in HTLC](https://eprint.iacr.org/2022/546.pdf). Sarisht Wadhwa (Duke University), Jannis Stoeter (Duke University), Fan Zhang (Duke University, Yale University), Kartik Nayak (Duke University). NDSS'23
+
+  - Keyword: _`composition`_, _`attacks`_
+  
+- 🎓 [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f584_paper.pdf). Xigao Li (Stony Brook University), Anurag Yepuri (Stony Brook University), Nick Nikiforakis (Stony Brook University). NDSS'23
+
+  - Keyword: _`attacks`_
+  
+- 🎓 [Cryptographic Oracle-based Conditional Payments](https://eprint.iacr.org/2022/499.pdf). Varun Madathil (North Carolina State University), Sri Aravinda Krishnan Thyagarajan (NTT Research), Dimitrios Vasilopoulos (IMDEA Software Institute), Lloyd Fournier (None), Giulio Malavolta (Max Planck Institute for Security and Privacy), Pedro Moreno-Sanchez (IMDEA Software Institute). NDSS'23
+
+  - Keyword: _`privacy`_, _`threshold signature`_
+  
+- 🎓 [Breaking and Fixing Virtual Channels: Domino Attack and Donner](https://eprint.iacr.org/2021/855.pdf). Lukas Aumayr (TU Wien), Pedro Moreno-Sanchez (IMDEA Software Institute), Aniket Kate (Purdue University / Supra), Matteo Maffei (Christian Doppler Laboratory Blockchain Technologies for the Internet of Things / TU Wien). NDSS'23
+
+  - Keyword: _`layer 2`_, _`attacks`_
+  
+- 🎓 [BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://arxiv.org/pdf/2208.00205.pdf). Xiao Yi (The Chinese University of Hong Kong), Yuzhou Fang (The Chinese University of Hong Kong), Daoyuan Wu (The Chinese University of Hong Kong), Lingxiao Jiang (Singapore Management University). NDSS'23
+
+  - Keyword: _`attacks`_, _`auditation`_
+  
+- 🎓 [Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s263_paper.pdf). Christoph Sendner (University of Wuerzburg), Huili Chen (University of California San Diego), Hossein Fereidooni (Technische Universität Darmstadt), Lukas Petzi (University of Wuerzburg), Jan König (University of Wuerzburg), Jasper Stang (University of Wuerzburg), Alexandra Dmitrienko (University of Wuerzburg), Ahmad-Reza Sadeghi (Technical University of Darmstadt), Farinaz Koushanfar (University of California San Diego). NDSS'23
+
+  - Keyword: _`smart contract `_, _`auditation`_
+- 🎓 [POSE: Practical Off-chain Smart Contract Execution](https://arxiv.org/pdf/2210.07110.pdf). Tommaso Frassetto (Technical University of Darmstadt), Patrick Jauernig (Technical University of Darmstadt), David Koisser (Technical University of Darmstadt), David Kretzler (Technical University of Darmstadt), Benjamin Schlosser (Technical University of Darmstadt), Sebastian Faust (Technical University of Darmstadt), Ahmad-Reza Sadeghi (Technical University of Darmstadt). NDSS'23
+
+  - Keyword: _`layer2`_, _`TEE`_, _`smart contract`_
 
 - 🎓 [NC-Max: Breaking the Security-Performance Tradeoff in Nakamoto Consensus](https://eprint.iacr.org/2020/1101.pdf). Ren Zhang, Dingwei Zhang, and Quake Wang (Nervos); Shichen Wu (Shandong University); Jan Xie (Nervos); Bart Preneel (imec-COSIC, KU Leuven). NDSS'22
 
