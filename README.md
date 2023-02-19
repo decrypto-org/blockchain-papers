@@ -15,7 +15,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## Conference Information
 
-### CCF A
+### A
 
 > Conference
 
@@ -43,7 +43,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [TDSC (IEEE Transactions on Dependable and Secure Computing)](#tdsc-a) <= 2021
 - [TIFS (IEEE Transactions on Information Forensics and Security)](#tifs-a) <=2021
 
-### CCF B
+### B
 
 > Conference
 
@@ -55,7 +55,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [PODC (ACM Symposium on Principles of Distributed Computing)](#podc-b) <= 2020
 - [CoNEXT (ACM Conference on Emerging Networking EXperiments and Technologies)](#conext-b) <= 2020
 
-### CCF C
+### C
 
 > Conference
 
