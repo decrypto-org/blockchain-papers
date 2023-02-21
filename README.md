@@ -12,6 +12,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - **Papers of CCS '22 added**
 - **Papers of NDSS '23 added**
 - **Papers of S&P '23 first cycle added**
+- **Papers of INFOCOM '21 added**
 
 ## Conference Information
 
@@ -25,7 +26,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [NDSS (Network and Distributed System Security)](#ndss-a) <= 2023
 - [CRYPTO (International Cryptology Conference)](#crypto-a) <= 2020 (waiting for notifications, 2021.4.19)
 - [EUROCRYPT (European Cryptology Conference)](#eurocrypt-a) <= 2021
-- [INFOCOM (IEEE International Conference on Computer Communications)](#infocom-a) <= 2020
+- [INFOCOM (IEEE International Conference on Computer Communications)](#infocom-a) <= 2021
 - [SOSP (ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019 (No schedule in 2020)
 - [NSDI (USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
 - [VLDB (International Conference on Very Large Data Bases)](#vldb-a) <= 2020
@@ -917,11 +918,35 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 ## INFOCOM (A)
 
-- 🎓 [Modeling the Impact of Network Connectivity on Consensus Security of Proof-of-Work Blockchain](https://arxiv.org/pdf/2002.08912.pdf). Yang Xiao (Virginia Tech, USA); Ning Zhang (Washington University in St. Louis, USA); Wenjing Lou and Thomas Hou (Virginia Tech, USA)
+- 🎓 Counter-Collusion Smart Contracts for Watchtowers in Payment Channel Networks. Yuhui Zhang, Dejun Yang, Guoliang Xue, Ruozhou Yu. INFOCOM'21
+
+  - Keyword: _`Scalability-PC`_
+
+- 🎓 Code is the (F)Law: Demystifying and Mitigating Blockchain Inconsistency Attacks Caused by Software Bugs. Guorui Yu, Shibin Zhao, Chao Zhang, Zhiniang Peng, Yuandong Ni, Xinhui Han. INFOCOM'21
+
+  - Keyword: _`Attacks`_
+
+- 🎓 Pyramid: A Layered Sharding Blockchain System. Zicong Hong, Song Guo, Peng Li, Wuhui Chen. INFOCOM'21
+
+  - Keyword: _`Scalability`_
+
+- 🎓 [Lifesaving with RescueChain: Energy-Efficient and Partition-Tolerant Blockchain Based Secure Information Sharing for UAV-Aided Disaster Rescue](https://arxiv.org/pdf/2211.12988.pdf). Yuntao Wang, Zhou Su, Qichao Xu, Ruidong Li, Tom H. Luan. INFOCOM'21
+
+  - Keyword: _`Scalability`_
+
+- 🎓 [A Weak Consensus Algorithm and Its Application to High-Performance Blockchain](https://arxiv.org/pdf/2102.00872.pdf). Qin Wang, Rujia Li. INFOCOM'21
+
+  - Keyword: _`Consensus-BFT`_
+
+- 🎓 [On the Performance of Pipelined HotStuff](https://arxiv.org/pdf/2107.04947.pdf). Jianyu Niu, Fangyu Gai, Mohammad M. Jalalzai, Chen Feng. INFOCOM'21
+
+  - Keyword: _`Consensus-BFT`_
+
+- 🎓 [Modeling the Impact of Network Connectivity on Consensus Security of Proof-of-Work Blockchain](https://arxiv.org/pdf/2002.08912.pdf). Yang Xiao (Virginia Tech, USA); Ning Zhang (Washington University in St. Louis, USA); Wenjing Lou and Thomas Hou (Virginia Tech, USA). INFOCOM'20
 
   - Keyword: _`Consensus-PoW`_, _`Security`_
 
-- 🎓 [Secure Balance Planning of Off-blockchain Payment Channel Networks](https://www.u-aizu.ac.jp/~pengli/files/pcn_planning_infocom2020.pdf). Peng Li and Toshiaki Miyazaki (The University of Aizu, Japan); Wanlei Zhou (University of Technology Sydney, Australia)
+- 🎓 [Secure Balance Planning of Off-blockchain Payment Channel Networks](https://www.u-aizu.ac.jp/~pengli/files/pcn_planning_infocom2020.pdf). Peng Li and Toshiaki Miyazaki (The University of Aizu, Japan); Wanlei Zhou (University of Technology Sydney, Australia). INFOCOM'20
 
   - Keyword: _`PC`_
 
