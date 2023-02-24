@@ -13,6 +13,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - **Papers of NDSS '23 added**
 - **Papers of S&P '23 first cycle added**
 - **Papers of INFOCOM '21 added**
+- **Papers of SOSP '21 added**
 
 ## Conference Information
 
@@ -27,7 +28,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [CRYPTO (International Cryptology Conference)](#crypto-a) <= 2020 (waiting for notifications, 2021.4.19)
 - [EUROCRYPT (European Cryptology Conference)](#eurocrypt-a) <= 2021
 - [INFOCOM (IEEE International Conference on Computer Communications)](#infocom-a) <= 2021
-- [SOSP (ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2019 (No schedule in 2020)
+- [SOSP (ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2021
 - [NSDI (USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
 - [VLDB (International Conference on Very Large Data Bases)](#vldb-a) <= 2020
 - [OSDI (USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2021
@@ -970,6 +971,22 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
   - Keyword: _`Transaction`_
 
 ## SOSP (A)
+
+- 🎓 [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf). Yang Chen (Microsoft Research), Zhongxin Guo (Microsoft Research), Runhuai Li (Zhejiang University and Microsoft Research), Shuo Chen (Microsoft Research), Lidong Zhou (Microsoft Research), Yajin Zhou (Zhejiang University), Xian Zhang (Microsoft Research). SOSP'21
+
+  - Keyword: _`Concurrency`_
+
+- 🎓 [Kauri: Scalable BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation](https://dl.acm.org/doi/pdf/10.1145/3477132.3483584). Ray Neiheiser (INESC-ID, IST, U. Lisboa and UFSC/DAS), Miguel Matos (INESC-ID, IST, U. Lisboa), Luís Rodrigues (INESC-ID, IST, U. Lisboa). SOSP'21
+
+  - Keyword: _`Consensus-BFT`_
+
+- 🎓 [BIDL: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks](https://i.cs.hku.hk/~heming/papers/sosp21-bidl.pdf). Ji Qi (The University of Hong Kong), Xusheng Chen (The University of Hong Kong), Yunpeng Jiang (The University of Hong Kong), Jianyu Jiang (The University of Hong Kong), Tianxiang Shen (The University of Hong Kong), Shixiong Zhao (The University of Hong Kong), Sen Wang (Huawei Technologies Co., Ltd.), Gong Zhang (Huawei Technologies Co., Ltd.), Li Chen (Huawei Technologies Co., Ltd.), Man Ho Au (The University of Hong Kong), Heming Cui (The University of Hong Kong). SOSP'21
+
+  - Keyword: _`Consensus-BFT`_
+
+- 🎓 [Basil: Breaking up BFT with ACID (transactions)](https://dl.acm.org/doi/pdf/10.1145/3477132.3483552). Florian Suri-Payer (Cornell University), Matthew Burke (Cornell University), Yunhao Zhang (Cornell University), Zheng Wang (Cornell University), Lorenzo Alvisi (Cornell University), Natacha Crooks (UC Berkeley). SOSP'21
+
+  - Keyword: _`Consensus-BFT`_
 
 - 🎓 [Teechain: A Secure Payment Network with Asynchronous Blockchain Access](https://arxiv.org/pdf/1707.05454.pdf). Joshua Lind, Oded Naor, Ittay Eyal, Florian Kelbert, Peter Pietzuch, Emin Gun Sirer. SOSP'19
 
