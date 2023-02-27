@@ -38,10 +38,10 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 > Journal
 
-- [TOCS (ACM Transactions on Computer Systems)](#tocs-a) <= 2019
-- [TOPLAS (ACM Transactions on Programming Languages & Systems)](#toplas-a) <= 2020
-- [JACM (Journal of the ACM)](#jacm-a) <= 2020
-- [Journal of Cryptology](#journal-of-cryptology-a) <= 2021
+- [TOCS (ACM Transactions on Computer Systems)](#tocs-a) <= 2022
+- [TOPLAS (ACM Transactions on Programming Languages & Systems)](#toplas-a) <= 2022
+- [JACM (Journal of the ACM)](#jacm-a) <= 2023 issue 1
+- [Journal of Cryptology](#journal-of-cryptology-a) <= 2023 issue 1
 - [TDSC (IEEE Transactions on Dependable and Secure Computing)](#tdsc-a) <= 2021
 - [TIFS (IEEE Transactions on Information Forensics and Security)](#tifs-a) <=2021
 
@@ -1091,6 +1091,8 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 - 🎓 [A Transactional Perspective on Execute-order-validate Blockchains](https://arxiv.org/pdf/2003.10064.pdf). Pingcheng Ruan (National University of Singapore), Dumitrel Loghin (National University of Singapore), Quang-Trung Ta (National University of Singapore), Meihui Zhang (Beijing Institute of Technology), Gang Chen (Zhejiang University), Beng Chin Ooi (National University of Singapore). SIGMOD'20
 
 ## TOCS (A)
+- 🎓 [Scaling Membership of Byzantine Consensus](https://dl.acm.org/doi/pdf/10.1145/3473138). Burcu Canakci, Robbert Van Renesse. TOCS '20.
+  - Keyword: _`BFT`_,`scalability`
 
 - 🎓 [The part-time parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf). Lamport L. TOCS '98.
   - Keyword: _`Consensus`_
@@ -1106,6 +1108,8 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 ## JACM (A)
 
+- 🎓 [Tight Bounds for Asymptotic and Approximate Consensus](https://dl.acm.org/doi/pdf/10.1145/3485242). Matthias Függer, Thomas Nowak, and Manfred Schwarz. 2021. Tight Bounds for Asymptotic and Approximate Consensus. J. ACM 68, 6, Article 46 (December 2021), 35 pages. 
+  - Keyword: _`Consensus`_
 - 🎓 [Universally Composable Security](https://doi.org/10.1145/3402457). Canetti R. 2020. <i>J. ACM</i> 67, 5, Article 28 (October 2020), 94 pages. (Not Publicly Avaliable)
   - Keyword: _`Security`_, _`Formal Methods`_
 - 🎓 [The Power of Shunning: Efficient Asynchronous Byzantine Agreement Revisited\*](https://doi.org/10.1145/3388788). Bangalore L, Choudhury A, Patra A. 2020. <i>J. ACM</i> 67, 3, Article 14 (June 2020), 59 pages. (Not Publicly Avaliable)
@@ -1139,11 +1143,35 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
   - Keyword: _`Smart Contract`_
 
 ## Journal of Cryptology (A)
+- 🎓 [On the Round Complexity of Randomized Byzantine Agreement](https://link.springer.com/content/pdf/10.1007/s00145-022-09421-7.pdf). Cohen, R., Haitner, I., Makriyannis, N. Journal of Cryptology'22
+  - Keyword: _`BFT`_
 
+- 🎓 [Two-Round *n*-out-of-*n* and Multi-Signatures and Trapdoor Commitment from Lattices](https://link.springer.com/content/pdf/10.1007/s00145-022-09425-3.pdf). Damgård, I., Orlandi, C., Takahashi, A. Journal of Cryptology'22
+  - Keyword: _`threshold signature`_
 ## TDSC (A)
 
-- 🎓 [An Efficient NIZK Scheme for Privacy-Preserving Transactions Over Account-Model Blockchain](https://ieeexplore.ieee.org/document/8968397). Shunli Ma, Yi Deng, Yi Deng, Jiang Zhang, Xiang Xie. TDSC'21
+- 🎓 [IPANM: Incentive Public Auditing Scheme for Non-Manager Groups in Clouds](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9126260). L. Huang *et al*. TDSC'22
+  - Keyword: _`Applications`_
 
+- 🎓 [Malware in the SGX Supply Chain: Be Careful When Signing Enclaves!](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9200779). V. Crăciun, P. Felber, A. Mogage, E. Onica and R. Pires. TDSC'22
+  - Keyword: _`tee`_, _`attacks`_
+
+- 🎓 [Blockchain-Based Certificate Transparency and Revocation Transparency](https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final29.pdf). Z. Wang, J. Lin, Q. Cai, Q. Wang, D. Zha and J. Jing. TDSC'22
+  - Keyword: _`Applications`_
+
+- 🎓 [PBTPBT: A New Privacy-Preserving Payment Protocol for Blockchain Transactions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9103944). Y. Jia *et al*. TDSC'22
+  - Keyword: _`privacy`_, _`multi-signature`_
+
+- 🎓 [AbsoluteTrust: Algorithm for Aggregation of Trust in Peer-to-Peer Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9020100). S. K. Awasthi and Y. N. Singh. TDSC'22
+  - Keyword: _`network`_, _`security`_
+
+- 🎓 [A Blockchain-Based Self-Tallying Voting Protocol in Decentralized IoT](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031381). Y. Li *et al*. TDSC'22
+  - Keyword: _`Applications`_
+
+- 🎓 [LVBS: Lightweight Vehicular Blockchain for Secure Data Sharing in Disaster Rescue](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9035635). Z. Su, Y. Wang, Q. Xu and N. Zhang. TDSC'22
+  - Keyword: _`Applications`_
+ 
+- 🎓 [An Efficient NIZK Scheme for Privacy-Preserving Transactions Over Account-Model Blockchain](https://ieeexplore.ieee.org/document/8968397). Shunli Ma, Yi Deng, Yi Deng, Jiang Zhang, Xiang Xie. TDSC'21
   - Keyword: _`Privacy`_, _`ZKP`_
 
 - 🎓 [Security and privacy in decentralized energy trading through multi-signatures, blockchain and anonymous messaging streams](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/7589035). Aitzhan N Z, Svetinovic D. TDSC'16
