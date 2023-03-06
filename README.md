@@ -42,7 +42,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [TOPLAS (ACM Transactions on Programming Languages & Systems)](#toplas-a) <= 2022
 - [JACM (Journal of the ACM)](#jacm-a) <= 2023 issue 1
 - [Journal of Cryptology](#journal-of-cryptology-a) <= 2023 issue 1
-- [TDSC (IEEE Transactions on Dependable and Secure Computing)](#tdsc-a) <= 2021
+- [TDSC (IEEE Transactions on Dependable and Secure Computing)](#tdsc-a) <= 2023 issue 1
 - [TIFS (IEEE Transactions on Information Forensics and Security)](#tifs-a) <=2021
 
 ### B
@@ -1150,6 +1150,96 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
   - Keyword: _`threshold signature`_
 ## TDSC (A)
 
+- 🎓 [Towards Practical Auditing of Dynamic Data in Decentralized Storage](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9681281). H. Duan, Y. Du, L. Zheng, C. Wang, M. H. Au and Q. Wang. TDSC'23
+  - Keyword:  _`PoS`_, _`application`_
+
+- 🎓 [ExGen: Cross-platform, Automated Exploit Generation for Smart Contract Vulnerabilities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9674230). L. Jin, Y. Cao, Y. Chen, D. Zhang and S. Campanoni. TDSC'23
+  - Keyword:  _`smart contract`_, _`attacks`_
+
+- 🎓 [Boros: Secure and Efficient Off-Blockchain Transactions via Payment Channel Hub](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9650737). J. Zhang, Y. Ye, W. Wu and X. Luo. TDSC'23
+  - Keyword: _`payment channel`_
+
+- 🎓 [HyperMaze: Towards Privacy-Preserving and Scalable Permissioned Blockchain](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9645273). W. Liu, Z. Wan, J. Shao and Y. Yu. TDSC'23
+  - Keyword:  _`zkp`_, _`scalability`_
+
+- 🎓 [UCoin: An Efficient Privacy Preserving Scheme for Cryptocurrencies](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9627814). M. R. Nosouhi *et al*. TDSC'23
+  - Keyword: _`mixing`_
+
+- 🎓 [Eunomia: Anonymous and Secure Vehicular Digital Forensics Based on Blockchain](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9627586). M. Li, Y. Chen, C. Lal, M. Conti, M. Alazab and D. Hu. TDSC'23
+  - Keyword: _`crime`_
+
+- 🎓 [Multi-User Dynamic Searchable Symmetric Encryption With Corrupted Participants](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9613781). J. G. Chamani, Y. Wang, D. Papadopoulos, M. Zhang and R. Jalili. TDSC'23
+  - Keyword: _`Applications`_
+
+- 🎓 [A Secure EMR Sharing System With Tamper Resistance and Expressive Access Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9609621). S. Xu *et al*. TDSC'23
+  - Keyword: _`Applications`_
+
+- 🎓 [The Hermes BFT for Blockchains](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9543565). M. M. Jalalzai, C. Feng, C. Busch, G. G. Richard and J. Niu. TDSC'22
+  - Keyword:  _`BFT`_, _`scalability`_
+
+- 🎓 [Blockchain-Based Secure Deduplication and Shared Auditing in Decentralized Storage](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9542861). G. Tian *et al*. TDSC'22
+  - Keyword: _`Applications`_
+
+- 🎓 [Sidechains With Fast Cross-Chain Transfers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9543599). L. Yin, J. Xu and Q. Tang. TDSC'22
+  - Keyword:  _`sidechain`_, _`interoperability`_
+
+- 🎓 [Blockchain-Based Privacy Enforcement in the IoT Domain](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9528990). F. Daidone, B. Carminati and E. Ferrari. TDSC'22
+  - Keyword:  _`privacy`_, _`application`_
+
+- 🎓 [Agora: A Privacy-Aware Data Marketplace](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9516884). V. Koutsos, D. Papadopoulos, D. Chatzopoulos, S. Tarkoma and P. Hui. TDSC'22
+  - Keyword:  _`marketplace`_, _`privacy`_, _`atomic swaps  `_
+
+- 🎓 [Toward a Secure, Rich, and Fair Query Service for Light Clients on Public Blockchains](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9512478). C. Cai, L. Xu, A. Zhou and C. Wang. TDSC'22
+  - Keyword:  _`tee`_, _`system`_
+
+- 🎓 [Social Characteristic-Based Propagation-Efficient PBFT Protocol to Broadcast in Unstructured Overlay Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9512476). X. Feng, J. Ma, Y. Miao, X. Liu and K. -K. R. Choo. TDSC'22
+  - Keyword: _`BFT`_
+
+- 🎓 [DBFT: A Byzantine Fault Tolerance Protocol With Graceful Performance Degradation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9478275). J. Zhang, Y. Rong, J. Cao, C. Rong, J. Bian and W. Wu. TDSC'22
+  - Keyword: _`BFT`_
+
+- 🎓 [SEAR: Secure and Efficient Aggregation for Byzantine-Robust Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9468910). L. Zhao, J. Jiang, B. Feng, Q. Wang, C. Shen and Q. Li. TDSC'22
+  - Keyword:  _`tee`_, _`BFT`_
+
+- 🎓 [XAuth: Efficient Privacy-Preserving Cross-Domain Authentication](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9465710). J. Chen, Z. Zhan, K. He, R. Du, D. Wang and F. Liu. TDSC'22
+  - Keyword: _`Applications`_
+
+- 🎓 [DELIA: Distributed Efficient Log Integrity Audit Based on Hierarchal Multi-Party State Channel](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9465691). J. Chen, X. Chen, K. He, R. Du, W. Chen and Y. Xiang. TDSC'22
+  - Keyword: _`Applications`_
+
+- 🎓 [Golden Grain: Building a Secure and Decentralized Model Marketplace for MLaaS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9445602). J. Weng, J. Weng, C. Cai, H. Huang and C. Wang. TDSC'22
+  - Keyword:  _`tee`_, _`application`_
+
+- 🎓 [Enabling Secure and Efficient Decentralized Storage Auditing With Blockchain](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9436004). Y. Du, H. Duan, A. Zhou, C. Wang, M. H. Au and Q. Wang. TDSC'22
+  - Keyword: _`Applications`_
+
+- 🎓 [Make Web3.0 Connected](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428608). Z. Liu *et al*. TDSC'22
+  - Keyword:  _`interoperability`_, _`programmability`_
+
+- 🎓 [Decentralized Privacy-Preserving Fair Exchange Scheme for V2G Based on Blockchain](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9354536). Z. Wan, T. Zhang, W. Liu, M. Wang and L. Zhu. TDSC'22
+  - Keyword: _`Applications`_
+
+- 🎓 [DAENet: Making Strong Anonymity Scale in a Fully Decentralized Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9328493). T. Shen *et al*. TDSC'22
+  - Keyword:  _`network`_, _`tee`_
+
+- 🎓 [SSHC: A Secure and Scalable Hybrid Consensus Protocol for Sharding Blockchains With a Formal Security Framework](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308957). Y. Liu, J. Liu, Q. Wu, H. Yu, Y. Hei and Z. Zhou. TDSC'22
+  - Keyword:  _`scalibility`_, _`BFT`_
+
+- 🎓 [CoinLayering: An Efficient Coin Mixing Scheme for Large Scale Bitcoin Transactions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9286474). N. Lu, Y. Chang, W. Shi and K. -K. R. Choo. TDSC'22
+  - Keyword:  _`mixing`_, _`scalibility`_
+
+- 🎓 [Oracle-Supported Dynamic Exploit Generation for Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9256983). H. Wang *et al*. TDSC'22
+  - Keyword:  _`smart contract`_, _`auditation`_
+
+- 🎓 [AWARE: Adaptive Wide-Area Replication for Fast and Resilient Byzantine Consensus](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9222302). C. Berger, H. P. Reiser, J. Sousa and A. Bessani. TDSC'22
+  - Keyword:  _`BFT`_, _`scalibility`_
+
+- 🎓 [BlockMaze: An Efficient Privacy-Preserving Account-Model Blockchain Based on zk-SNARKs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9200775). Z. Guan, Z. Wan, Y. Yang, Y. Zhou and B. Huang. TDSC'22
+  - Keyword:  _`system`_, _`zkp`_
+
+- 🎓 [Decentralized Blockchain-Based Trust Management Protocol for the Internet of Things](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9120287). D. E. Kouicem, Y. Imine, A. Bouabdallah and H. Lakhlef. TDSC'22
+  - Keyword: _`Applications`_
+  
 - 🎓 [IPANM: Incentive Public Auditing Scheme for Non-Manager Groups in Clouds](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9126260). L. Huang *et al*. TDSC'22
   - Keyword: _`Applications`_
 
