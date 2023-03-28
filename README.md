@@ -12,7 +12,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - **Papers of CCS '22 added**
 - **Papers of NDSS '23 added**
 - **Papers of S&P '23 first cycle added**
-- **Papers of INFOCOM '21 added**
+- **Papers of INFOCOM '22 added**
 - **Papers of SOSP '21 added**
 
 ## Conference Information
@@ -27,7 +27,7 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 - [NDSS (Network and Distributed System Security)](#ndss-a) <= 2023
 - [CRYPTO (International Cryptology Conference)](#crypto-a) <= 2020 (waiting for notifications, 2021.4.19)
 - [EUROCRYPT (European Cryptology Conference)](#eurocrypt-a) <= 2021
-- [INFOCOM (IEEE International Conference on Computer Communications)](#infocom-a) <= 2021
+- [INFOCOM (IEEE International Conference on Computer Communications)](#-a) <= 2022
 - [SOSP (ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2021
 - [NSDI (USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
 - [VLDB (International Conference on Very Large Data Bases)](#vldb-a) <= 2020
@@ -919,6 +919,30 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 ## INFOCOM (A)
 
+- 🎓 [BrokerChain: A Cross-Shard Blockchain Protocol for Account/Balance-based State Sharding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9796859). H. Huang *et al*. INFOCOM'22
+
+  - Keyword: _`network`_, _`scalability`_
+
+- 🎓 [Payment Channel Networks: Single-Hop Scheduling for Throughput Maximization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9796862). N. Papadis and L. Tassiulas. INFOCOM'22
+
+  - Keyword: _`payment channel`_
+
+- 🎓 [Dino: A Block Transmission Protocol with Low Bandwidth Consumption and Propagation Latency](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9796837). Z. Hu and Z. Xiao. INFOCOM'22
+
+  - Keyword: _`network`_, _`scalability`_
+
+- 🎓 [S-Store: A Scalable Data Store towards Permissioned Blockchain Sharding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9796800). X. Qi. INFOCOM'22
+
+  - Keyword: _`system`_, _`scalability`_
+
+- 🎓 [DiFi: A Go-as-You-Pay Wi-Fi Access System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9796832). L. Shi, R. Tian, X. Wang and R. T. B. Ma. INFOCOM'22
+
+  - Keyword: _`smart contracts`_, _`applications`_
+
+- 🎓 [Blockchain Based Non-repudiable IoT Data Trading: Simpler, Faster, and Cheaper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9796857). F. Chen, J. Wang, C. Jiang, T. Xiang and Y. Yang. INFOCOM'22
+
+  - Keyword: _`smart contracts`_, _`applications`_
+  
 - 🎓 Counter-Collusion Smart Contracts for Watchtowers in Payment Channel Networks. Yuhui Zhang, Dejun Yang, Guoliang Xue, Ruozhou Yu. INFOCOM'21
 
   - Keyword: _`Scalability-PC`_
