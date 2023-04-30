@@ -137,7 +137,7 @@ Maya Dotan, Saar Tochner, Aviv Zohar, and Yossi Gilad, The Hebrew University of 
   - Keyword: _`TEE`_
 
 - 🎓 [Aardvark: An Asynchronous Authenticated Dictionary with Applications to Account-based Cryptocurrencies](https://www.usenix.org/system/files/sec22summer_leung.pdf). Derek Leung, MIT CSAIL; Yossi Gilad, Hebrew University of Jerusalem; Sergey Gorbunov, University of Waterloo; Leonid Reyzin, Boston University; Nickolai Zeldovich, MIT CSAIL. USENIX Security'22.
-  
+
   - Keyword: _`Scalability`_, _`Wallets`_
 
 - 🎓 [On the Routing-Aware Peering against Network-Eclipse Attacks in Bitcoin](https://www.usenix.org/system/files/sec21fall-tran.pdf). Muoi Tran and Akshaye Shenoi, National University of Singapore; Min Suk Kang, KAIST. USENIX Security'21.
@@ -709,35 +709,35 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 - 🎓 [Partitioning Ethereum without Eclipsing It](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf). Hwanjo Heo (ETRI), Seungwon Woo (ETRI/KAIST), Taeung Yoon (KAIST), Min Suk Kang (KAIST), Seungwon Shin (KAIST). NDSS'23
 
   - Keyword: _`auditation`_, _`attacks`_
-  
+
 - 🎓 [OptRand: Optimistically Responsive Reconfigurable Distributed Randomness](https://eprint.iacr.org/2022/193.pdf). Adithya Bhat (Purdue University), Nibesh Shrestha (Rochester Institute of Technology), Aniket Kate (Purdue University), Kartik Nayak (Duke University). NDSS'23
 
   - Keyword: _`composition`_, _`ZKP`_
-  
+
 - 🎓 [LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f78_paper.pdf). Fuchen Ma (Tsinghua University), Yuanliang Chen (Tsinghua University), Meng Ren (Tsinghua University), Yuanhang Zhou (Tsinghua University), Yu Jiang (Tsinghua University), Ting Chen (University of Electronic Science and Technology of China), Huizhong Li (WeBank), Jiaguang Sun (School of Software, Tsinghua University). NDSS'23
 
   - Keyword: _`auditation`_, _`attacks`_
-  
+
 - 🎓 [He-HTLC: Revisiting Incentives in HTLC](https://eprint.iacr.org/2022/546.pdf). Sarisht Wadhwa (Duke University), Jannis Stoeter (Duke University), Fan Zhang (Duke University, Yale University), Kartik Nayak (Duke University). NDSS'23
 
   - Keyword: _`composition`_, _`attacks`_
-  
+
 - 🎓 [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f584_paper.pdf). Xigao Li (Stony Brook University), Anurag Yepuri (Stony Brook University), Nick Nikiforakis (Stony Brook University). NDSS'23
 
   - Keyword: _`attacks`_
-  
+
 - 🎓 [Cryptographic Oracle-based Conditional Payments](https://eprint.iacr.org/2022/499.pdf). Varun Madathil (North Carolina State University), Sri Aravinda Krishnan Thyagarajan (NTT Research), Dimitrios Vasilopoulos (IMDEA Software Institute), Lloyd Fournier (None), Giulio Malavolta (Max Planck Institute for Security and Privacy), Pedro Moreno-Sanchez (IMDEA Software Institute). NDSS'23
 
   - Keyword: _`privacy`_, _`threshold signature`_
-  
+
 - 🎓 [Breaking and Fixing Virtual Channels: Domino Attack and Donner](https://eprint.iacr.org/2021/855.pdf). Lukas Aumayr (TU Wien), Pedro Moreno-Sanchez (IMDEA Software Institute), Aniket Kate (Purdue University / Supra), Matteo Maffei (Christian Doppler Laboratory Blockchain Technologies for the Internet of Things / TU Wien). NDSS'23
 
   - Keyword: _`layer 2`_, _`attacks`_
-  
+
 - 🎓 [BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://arxiv.org/pdf/2208.00205.pdf). Xiao Yi (The Chinese University of Hong Kong), Yuzhou Fang (The Chinese University of Hong Kong), Daoyuan Wu (The Chinese University of Hong Kong), Lingxiao Jiang (Singapore Management University). NDSS'23
 
   - Keyword: _`attacks`_, _`auditation`_
-  
+
 - 🎓 [Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s263_paper.pdf). Christoph Sendner (University of Wuerzburg), Huili Chen (University of California San Diego), Hossein Fereidooni (Technische Universität Darmstadt), Lukas Petzi (University of Wuerzburg), Jan König (University of Wuerzburg), Jasper Stang (University of Wuerzburg), Alexandra Dmitrienko (University of Wuerzburg), Ahmad-Reza Sadeghi (Technical University of Darmstadt), Farinaz Koushanfar (University of California San Diego). NDSS'23
 
   - Keyword: _`smart contract `_, _`auditation`_
@@ -942,7 +942,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 - 🎓 [Blockchain Based Non-repudiable IoT Data Trading: Simpler, Faster, and Cheaper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9796857). F. Chen, J. Wang, C. Jiang, T. Xiang and Y. Yang. INFOCOM'22
 
   - Keyword: _`smart contracts`_, _`applications`_
-  
+
 - 🎓 Counter-Collusion Smart Contracts for Watchtowers in Payment Channel Networks. Yuhui Zhang, Dejun Yang, Guoliang Xue, Ruozhou Yu. INFOCOM'21
 
   - Keyword: _`Scalability-PC`_
@@ -1132,7 +1132,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 ## JACM (A)
 
-- 🎓 [Tight Bounds for Asymptotic and Approximate Consensus](https://dl.acm.org/doi/pdf/10.1145/3485242). Matthias Függer, Thomas Nowak, and Manfred Schwarz. 2021. Tight Bounds for Asymptotic and Approximate Consensus. J. ACM 68, 6, Article 46 (December 2021), 35 pages. 
+- 🎓 [Tight Bounds for Asymptotic and Approximate Consensus](https://dl.acm.org/doi/pdf/10.1145/3485242). Matthias Függer, Thomas Nowak, and Manfred Schwarz. 2021. Tight Bounds for Asymptotic and Approximate Consensus. J. ACM 68, 6, Article 46 (December 2021), 35 pages.
   - Keyword: _`Consensus`_
 - 🎓 [Universally Composable Security](https://doi.org/10.1145/3402457). Canetti R. 2020. <i>J. ACM</i> 67, 5, Article 28 (October 2020), 94 pages. (Not Publicly Avaliable)
   - Keyword: _`Security`_, _`Formal Methods`_
@@ -1263,7 +1263,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [Decentralized Blockchain-Based Trust Management Protocol for the Internet of Things](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9120287). D. E. Kouicem, Y. Imine, A. Bouabdallah and H. Lakhlef. TDSC'22
   - Keyword: _`Applications`_
-  
+
 - 🎓 [IPANM: Incentive Public Auditing Scheme for Non-Manager Groups in Clouds](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9126260). L. Huang *et al*. TDSC'22
   - Keyword: _`Applications`_
 
@@ -1284,7 +1284,7 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 - 🎓 [LVBS: Lightweight Vehicular Blockchain for Secure Data Sharing in Disaster Rescue](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9035635). Z. Su, Y. Wang, Q. Xu and N. Zhang. TDSC'22
   - Keyword: _`Applications`_
- 
+
 - 🎓 [An Efficient NIZK Scheme for Privacy-Preserving Transactions Over Account-Model Blockchain](https://ieeexplore.ieee.org/document/8968397). Shunli Ma, Yi Deng, Yi Deng, Jiang Zhang, Xiang Xie. TDSC'21
   - Keyword: _`Privacy`_, _`ZKP`_
 
@@ -2324,6 +2324,8 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 - 🎓 [Revisiting Transactional Statistics of High-scalability Blockchain](https://arxiv.org/pdf/2003.02693.pdf). Daniel Perez (Imperial College London); Jiahua Xu (UCL); Benjamin Livshits (Imperial College London). IMC'20
   - Keyword: _`Scalability`_
   - Type: _`Empirical`_
+
+- 🎓 [Scaling Blockchain Consensus via a Robust Shared Mempool](https://arxiv.org/abs/2203.05158). Fangyu Gai, Jianyu Niu, Ivan Beschastnikh, Chen Feng, Sheng Wang. ICDE 2023
 
 ## License
 
